@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI Conference Deadlines</title>
+<meta name="description" content="Live countdowns to submission deadlines for major AI, ML, vision, NLP and robotics conferences, with acceptance-rate statistics.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div>
+      <h1>AI Conference Deadlines</h1>
+      <p class="sub">Countdowns to paper deadlines for the major AI, machine learning, vision, NLP and robotics venues, plus submission and acceptance numbers.</p>
+    </div>
+    <div class="clock">
+      <span>Anywhere on Earth <b id="aoe-clock">—</b></span>
+      <span>Your time <b id="local-clock">—</b></span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="tabs" role="tablist">
+    <button role="tab" id="tab-deadlines" aria-selected="true" data-view="deadlines">Deadlines</button>
+    <button role="tab" id="tab-stats" aria-selected="false" data-view="stats">Acceptance statistics</button>
+  </nav>
+
+  <section id="view-deadlines">
+    <div class="controls">
+      <div class="chips" id="area-chips"></div>
+      <input type="search" id="search" placeholder="Search, e.g. CVPR" aria-label="Search conferences">
+      <label class="toggle"><input type="checkbox" id="show-projected" checked> Include projected dates</label>
+    </div>
+    <div class="list" id="deadline-list"></div>
+    <div class="legend">
+      <span style="--c: var(--urgent)">Under 7 days</span>
+      <span style="--c: var(--soon)">Under 30 days</span>
+      <span style="--c: var(--calm)">30+ days</span>
+      <span style="--c: var(--line)">Projected: not announced yet, estimated from the last edition</span>
+    </div>
+  </section>
+
+  <section id="view-stats" hidden>
+    <div class="controls">
+      <div class="chips" id="stats-area-chips"></div>
+    </div>
+    <div class="stat-grid">
+      <div class="panel">
+        <h2>Acceptance rate by year</h2>
+        <p class="hint">Main track only. Tap a venue below to add or remove it.</p>
+        <div class="chart-box"><canvas id="rate-chart" aria-label="Acceptance rate chart"></canvas></div>
+      </div>
+      <div class="panel">
+        <h2>Submissions by year</h2>
+        <p class="hint">Submission growth is why rates look stable while acceptance gets harder.</p>
+        <div class="chart-box"><canvas id="sub-chart" aria-label="Submissions chart"></canvas></div>
+      </div>
+    </div>
+    <div class="picker" id="series-picker"></div>
+    <div class="panel" style="margin-top:16px">
+      <h2>Latest numbers</h2>
+      <p class="hint">Most recent year with published figures. Click a column to sort. Each row links to its source.</p>
+      <div class="table-wrap"><table id="stats-table"></table></div>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap">
+  <p id="updated"></p>
+  <p>Deadlines and acceptance numbers come from the open <a href="https://github.com/ccfddl/ccf-deadlines">ccfddl/ccf-deadlines</a> dataset (MIT License) and refresh weekly. Always confirm dates on the official conference site before you plan around them. Ranks shown are CORE.</p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="data/data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
