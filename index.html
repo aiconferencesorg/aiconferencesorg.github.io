@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI Conference Deadlines</title>
+<meta name="description" content="Live countdowns to submission deadlines for major AI, ML, vision, NLP and robotics conferences, with acceptance-rate statistics.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div>
+      <h1>AI Conference Deadlines</h1>
+      <p class="sub">Countdowns to paper deadlines for the major AI, machine learning, vision, NLP and robotics venues, acceptance numbers, top open-source code and datasets from each venue, and open faculty, postdoc and industry research jobs.</p>
+    </div>
+    <div class="clock">
+      <span>Anywhere on Earth <b id="aoe-clock">—</b></span>
+      <span>Your time <b id="local-clock">—</b></span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="tabs" role="tablist">
+    <button role="tab" id="tab-deadlines" aria-selected="true" data-view="deadlines">Deadlines</button>
+    <button role="tab" id="tab-resubmit" aria-selected="false" data-view="resubmit">Resubmit planner</button>
+    <button role="tab" id="tab-rules" aria-selected="false" data-view="rules">Submission rules</button>
+    <button role="tab" id="tab-stats" aria-selected="false" data-view="stats">Acceptance statistics</button>
+    <button role="tab" id="tab-resources" aria-selected="false" data-view="resources">Code &amp; datasets</button>
+    <button role="tab" id="tab-jobs" aria-selected="false" data-view="jobs">Jobs</button>
+  </nav>
+
+  <section id="view-deadlines">
+    <div class="controls">
+      <div class="chips" id="area-chips"></div>
+      <input type="search" id="search" placeholder="Search, e.g. CVPR" aria-label="Search conferences">
+      <label class="toggle"><input type="checkbox" id="show-projected" checked> Include projected dates</label>
+    </div>
+    <div class="cal-bar">
+      <span class="cal-label">Add these deadlines to your calendar</span>
+      <select id="cal-feed" aria-label="Calendar feed">
+        <option value="all">All venues</option>
+        <option value="machine-learning">Machine Learning</option>
+        <option value="computer-vision">Computer Vision</option>
+        <option value="nlp">NLP</option>
+        <option value="robotics">Robotics</option>
+        <option value="general-ai">General AI</option>
+      </select>
+      <a class="btn" id="cal-google" target="_blank" rel="noopener">Google Calendar</a>
+      <a class="btn" id="cal-webcal">Apple / Outlook</a>
+      <button class="btn" type="button" id="cal-copy">Copy link</button>
+      <span class="cal-hint" id="cal-hint">Updates itself daily, with reminders 7 days and 1 day before each deadline.</span>
+    </div>
+    <div class="list" id="deadline-list"></div>
+    <div class="legend">
+      <span style="--c: var(--urgent)">Under 7 days</span>
+      <span style="--c: var(--soon)">Under 30 days</span>
+      <span style="--c: var(--calm)">30+ days</span>
+      <span style="--c: var(--line)">Projected: not announced yet, estimated from the last edition</span>
+    </div>
+  </section>
+
+  <section id="view-resubmit" hidden>
+    <div class="rs-form">
+      <label class="field"><span>My paper is under review at</span>
+        <select id="rs-source" aria-label="Venue under review"></select></label>
+      <label class="field"><span>Decision date</span>
+        <input type="date" id="rs-date"></label>
+      <label class="field"><span>Days I need to revise</span>
+        <input type="number" id="rs-buffer" min="0" max="120" step="1" value="14"></label>
+    </div>
+    <div class="controls tight">
+      <div class="chips" id="rs-area-chips"></div>
+      <label class="toggle"><input type="checkbox" id="rs-projected" checked> Include projected dates</label>
+    </div>
+    <p class="rs-summary" id="rs-summary"></p>
+    <div class="list" id="rs-list"></div>
+    <div id="rs-tight"></div>
+    <div class="jobs-foot"><p>Decision dates come from the open ccfddl dataset and each venue's call for papers. Projected deadlines are estimated from the last edition. Check dual-submission rules before resubmitting: most venues forbid overlap with a paper still under review elsewhere.</p></div>
+  </section>
+
+  <section id="view-rules" hidden>
+    <div class="controls">
+      <div class="chips" id="rules-area-chips"></div>
+      <input type="search" id="rules-search" placeholder="Search rules, e.g. arXiv, reviewer" aria-label="Search submission rules">
+    </div>
+    <p class="rs-summary">The rules most likely to get a paper desk-rejected, from each venue's own call for papers. They change every year, so open the source before you submit.</p>
+    <div class="rules-grid" id="rules-grid"></div>
+  </section>
+
+  <section id="view-stats" hidden>
+    <div class="controls">
+      <div class="chips" id="stats-area-chips"></div>
+    </div>
+    <div class="stat-grid">
+      <div class="panel">
+        <h2>Acceptance rate by year</h2>
+        <p class="hint">Main track only. Tap a venue below to add or remove it.</p>
+        <div class="chart-box"><canvas id="rate-chart" aria-label="Acceptance rate chart"></canvas></div>
+      </div>
+      <div class="panel">
+        <h2>Submissions by year</h2>
+        <p class="hint">Submission growth is why rates look stable while acceptance gets harder.</p>
+        <div class="chart-box"><canvas id="sub-chart" aria-label="Submissions chart"></canvas></div>
+      </div>
+    </div>
+    <div class="picker" id="series-picker"></div>
+    <div class="panel" style="margin-top:16px">
+      <h2>Latest numbers</h2>
+      <p class="hint">Most recent year with published figures. Click a column to sort. Each row links to its source.</p>
+      <div class="table-wrap"><table id="stats-table"></table></div>
+    </div>
+  </section>
+
+  <section id="view-resources" hidden>
+    <div class="controls">
+      <div class="chips" id="res-area-chips"></div>
+      <input type="search" id="res-search" placeholder="Search all repos, e.g. SLAM, VLA" aria-label="Search code and datasets">
+    </div>
+    <div class="controls tight">
+      <div class="chips" id="res-kind-chips"></div>
+    </div>
+    <div class="conf-picker" id="res-conf-picker"></div>
+    <div id="res-body"></div>
+    <div class="jobs-foot"><p id="res-source"></p></div>
+  </section>
+
+  <section id="view-jobs" hidden>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Sector">
+        <button type="button" class="seg-btn" data-sector="academic" aria-pressed="true">Academic <span class="n" id="n-academic"></span></button>
+        <button type="button" class="seg-btn" data-sector="industry" aria-pressed="false">Industry <span class="n" id="n-industry"></span></button>
+      </div>
+      <div class="chips" id="job-type-chips"></div>
+      <input type="search" id="job-search" placeholder="Search title, company, city" aria-label="Search jobs">
+      <select id="job-org" aria-label="Filter by organization"></select>
+    </div>
+    <div class="list" id="job-list"></div>
+    <div class="jobs-foot">
+      <p id="jobs-source"></p>
+      <div id="more-academic"></div>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap">
+  <p id="updated"></p>
+  <p>Deadlines and acceptance numbers come from the open <a href="https://github.com/ccfddl/ccf-deadlines">ccfddl/ccf-deadlines</a> dataset (MIT License). Industry jobs come from companies' public job boards. Everything refreshes daily. Always confirm dates on the official conference or job page before you plan around them. Ranks shown are CORE.</p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="data/data.js"></script>
+<script src="data/jobs.js"></script>
+<script src="data/resources.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

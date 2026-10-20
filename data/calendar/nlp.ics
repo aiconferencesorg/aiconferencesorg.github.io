@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AI conference deadlines: NLP
+X-WR-CALDESC:Paper deadlines and decision dates. Refreshed daily.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:acl-2027-paper-arr-submission-2027-01-05t11-59-59z@ai-conference-deadl
+ ines
+DTSTAMP:20261020T002226Z
+DTSTART:20270105T115959Z
+DTEND:20270105T115959Z
+SUMMARY:ACL 2027: Paper · ARR Submission deadline
+DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
+ s. Local time: 2027-01-04 23:59 UTC-12. Official site: https://2027.aclwe
+ b.org/
+URL:https://2027.aclweb.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:ACL 2027: Paper · ARR Submission deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:ACL 2027: Paper · ARR Submission deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:naacl-2027-paper-arr-submission-2026-10-13t11-59-59z@ai-conference-dea
+ dlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261013T115959Z
+DTEND:20261013T115959Z
+SUMMARY:NAACL 2027: Paper · ARR Submission deadline
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics. Local time: 2026-10-12 23:59 UTC-
+ 12. Official site: https://2027.naacl.org/
+URL:https://2027.naacl.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:NAACL 2027: Paper · ARR Submission deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:NAACL 2027: Paper · ARR Submission deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:naacl-2027-paper-2026-12-24t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261224T115959Z
+DTEND:20261224T115959Z
+SUMMARY:NAACL 2027: Paper deadline
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics. Local time: 2026-12-23 23:59 UTC-
+ 12. Official site: https://2027.naacl.org/
+URL:https://2027.naacl.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:NAACL 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:NAACL 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:naacl-2027-decisions-2027-02-11t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270211T115959Z
+DTEND:20270211T115959Z
+SUMMARY:NAACL 2027: Decisions
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics. Local time: 2027-02-10 23:59 UTC-
+ 12. Official site: https://2027.naacl.org/
+URL:https://2027.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:eacl-2027-paper-2026-10-12t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261012T115959Z
+DTEND:20261012T115959Z
+SUMMARY:EACL 2027: Paper deadline
+DESCRIPTION:The Annual Conference of the European Chapter of the Associati
+ on for Computational Linguistics. Local time: 2026-10-11 23:59 UTC-12. Of
+ ficial site: https://2027.eacl.org/
+URL:https://2027.eacl.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:EACL 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:EACL 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eacl-2027-decisions-2026-11-13t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261113T115959Z
+DTEND:20261113T115959Z
+SUMMARY:EACL 2027: Decisions
+DESCRIPTION:The Annual Conference of the European Chapter of the Associati
+ on for Computational Linguistics. Local time: 2026-11-12 23:59 UTC-12. Of
+ ficial site: https://2027.eacl.org/
+URL:https://2027.eacl.org/
+END:VEVENT
+END:VCALENDAR

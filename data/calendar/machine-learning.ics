@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AI conference deadlines: Machine Learning
+X-WR-CALDESC:Paper deadlines and decision dates. Refreshed daily.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iclr-2027-paper-2026-09-26t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20260926T115959Z
+DTEND:20260926T115959Z
+SUMMARY:ICLR 2027: Paper deadline
+DESCRIPTION:International Conference on Learning Representations. Local ti
+ me: 2026-09-25 23:59 AoE. Official site: https://iclr.cc/Conferences/2027
+URL:https://iclr.cc/Conferences/2027
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:ICLR 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:ICLR 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iclr-2027-decisions-2026-12-17t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261217T115959Z
+DTEND:20261217T115959Z
+SUMMARY:ICLR 2027: Decisions
+DESCRIPTION:International Conference on Learning Representations. Local ti
+ me: 2026-12-16 23:59 AoE. Official site: https://iclr.cc/Conferences/2027
+URL:https://iclr.cc/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:aistats-2027-abstract-2026-09-30t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20260930T115959Z
+DTEND:20260930T115959Z
+SUMMARY:AISTATS 2027: Abstract deadline
+DESCRIPTION:International Conference on Artificial Intelligence and Statis
+ tics. Local time: 2026-09-29 23:59 UTC-12. Official site: https://virtual
+ .aistats.org/Conferences/2027
+URL:https://virtual.aistats.org/Conferences/2027
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:AISTATS 2027: Abstract deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:AISTATS 2027: Abstract deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aistats-2027-paper-2026-10-07t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261007T115959Z
+DTEND:20261007T115959Z
+SUMMARY:AISTATS 2027: Paper deadline
+DESCRIPTION:International Conference on Artificial Intelligence and Statis
+ tics. Local time: 2026-10-06 23:59 UTC-12. Official site: https://virtual
+ .aistats.org/Conferences/2027
+URL:https://virtual.aistats.org/Conferences/2027
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:AISTATS 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:AISTATS 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aistats-2027-decisions-2027-01-21t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270121T115959Z
+DTEND:20270121T115959Z
+SUMMARY:AISTATS 2027: Decisions
+DESCRIPTION:International Conference on Artificial Intelligence and Statis
+ tics. Local time: 2027-01-20 23:59 UTC-12. Official site: https://virtual
+ .aistats.org/Conferences/2027
+URL:https://virtual.aistats.org/Conferences/2027
+END:VEVENT
+END:VCALENDAR

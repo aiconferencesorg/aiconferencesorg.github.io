@@ -1,0 +1,137 @@
+# Submission rules shown on the "Submission rules" tab.
+# Each entry summarizes the venue's own call for papers / author guide (linked in `source`).
+# Rules change every year: update `edition`, `checked` and the fields when a new call comes out.
+# keys: conference keys from conferences.yml this entry applies to.
+# Leave a field out (or null) when the call doesn't state it; the site shows "Not stated".
+
+- keys: [nips]
+  edition: NeurIPS 2026
+  source: https://neurips.cc/Conferences/2026/MainTrackHandbook
+  checked: 2026-10-19
+  pages: 9 content pages; references, appendix and checklist don't count. +1 page for camera-ready.
+  llm: Describe LLM use only if it's an important or non-standard part of the method. Editing and grammar help needs no note. Hallucinated citations violate the code of conduct.
+  reviewing: Reviewer-authors who miss reviews lose access to their own papers' reviews; grossly negligent ones can be desk-rejected.
+  preprints: Allowed (use the "preprint" style option). Don't label them "under review at NeurIPS" or promote them aggressively.
+  dual: Any other archival submission by an overlapping set of authors is treated as prior work. Non-archival workshops are fine.
+  watch: Word files are no longer accepted. Author list locks at the abstract deadline. At least one author must register in person.
+
+- keys: [icml]
+  edition: ICML 2026
+  source: https://icml.cc/Conferences/2026/CallForPapers
+  checked: 2026-10-19
+  pages: 8 pages; unlimited references, impact statement and appendix. +1 page for the final version.
+  llm: Allowed for writing and research; authors are fully responsible. Prompt injection means desk rejection.
+  reviewing: At least one author per paper must review (one person covers at most 2 papers). Authors with 4+ submissions must review. Poor reviewing can desk-reject your own papers.
+  preprints: Allowed, but don't advertise the work as an ICML submission until decisions.
+  dual: No identical or substantially similar work published, accepted or under review elsewhere. Non-archival workshops are fine.
+  watch: One PDF, no separate supplementary deadline. Impact statement is required. Author list is fixed after the abstract deadline.
+
+- keys: [iclr]
+  edition: ICLR 2027
+  source: https://iclr.cc/Conferences/2027/AuthorGuidelines
+  checked: 2026-10-19
+  pages: 9 pages at submission (10 after rebuttal); references and appendix unlimited.
+  llm: An AI use statement is required; details are in ICLR's separate AI Policy for Authors.
+  reviewing: Authors on 3+ papers must review at least 6. Each paper needs an author who reviews at least 3. Missing reviews can desk-reject your papers.
+  preprints: Posting to arXiv during review is allowed; cite your own arXiv work in the third person.
+  dual: No parallel archival submission. arXiv and non-archival workshops are fine.
+  max: 20 per author
+  watch: Over 9 pages means desk rejection. Withdrawn papers become public. Incorrect OpenReview profiles can desk-reject.
+
+- keys: [aistats]
+  edition: AISTATS 2027
+  source: https://virtual.aistats.org/Conferences/2027/SubmissionFAQ
+  checked: 2026-10-19
+  pages: 8 pages (9 camera-ready); references, AI statement, checklist and appendix don't count.
+  llm: Allowed with disclosure. An AI Use Statement is mandatory (missing one means desk rejection). No hidden prompts.
+  reviewing: Each paper nominates one reciprocal reviewer (about 2nd-year PhD or above). Failing to review can desk-reject the paper.
+  preprints: Allowed in a neutral format; don't label it as an AISTATS submission or promote it on social media.
+  dual: Not under consideration at another conference during review. Non-archival abstracts of 4 pages or fewer are fine.
+  max: 12 per author (3 if you have no prior ICLR, ICML, NeurIPS or AISTATS paper)
+  watch: Supplementary is due with the paper. Author list is final at the abstract deadline.
+
+- keys: [cvpr]
+  edition: CVPR 2027
+  source: https://cvpr.thecvf.com/Conferences/2027/CallForPapers
+  checked: 2026-10-19
+  llm: Guidelines are still being finalized; CVPR 2027 will use LLMs in parts of the reviewing process.
+  reviewing: Authors must serve as reviewers, ACs or SACs if invited. Exemptions need program-chair approval in advance.
+  dual: No substantially similar paper at another conference or workshop from Nov 16, 2026 to Feb 22, 2027.
+  watch: Every co-author needs an up-to-date OpenReview profile; non-institutional emails can take up to two weeks to approve. Supplementary is due Nov 23.
+
+- keys: [eccv]
+  edition: ECCV 2026
+  source: https://eccv.ecva.net/Conferences/2026/SubmissionPolicies
+  checked: 2026-10-19
+  pages: 14 pages in LNCS format; extra pages with only references are allowed.
+  llm: Any tools are allowed; authors are responsible for everything. Citations to non-existent work mean rejection.
+  reviewing: All authors are expected to review if asked (students and newcomers exempt).
+  preprints: arXiv preprints aren't publications. Don't link to sites that identify you.
+  dual: Any peer-reviewed work over 4 pages counts as a publication; no similar submission elsewhere during review.
+  watch: No appendices in the main PDF. Supplementary can't contain improved results. Incomplete OpenReview profiles mean desk rejection.
+
+- keys: [acl, emnlp, naacl, eacl]
+  edition: ACL Rolling Review (ACL, EMNLP, NAACL, EACL)
+  source: https://aclrollingreview.org/cfp
+  checked: 2026-10-19
+  pages: 8 pages long / 4 short; Limitations (required), ethics, references and appendix don't count.
+  llm: Disclose AI writing or coding help in the Responsible NLP Checklist. Proofreading tools need no disclosure. Prompt injection means desk rejection.
+  reviewing: Each paper needs a designated service contributor (max 2 papers each) who registers within 48 hours. If they fail their duties, those papers are desk-rejected.
+  preprints: No anonymity period; preprints are allowed anytime (an optional no-preprint pledge earns award eligibility).
+  dual: Not under review at a journal or conference during the ARR cycle.
+  max: 20 per author; 5 as first author
+  watch: Resubmissions must link the earlier version and answer every weakness. A meta-review score of 1 can never be resubmitted.
+
+- keys: [aaai]
+  edition: AAAI-27
+  source: https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/
+  checked: 2026-10-19
+  pages: 7 pages of content + up to 2 for references (9 total).
+  llm: Judicious use of generative AI is allowed. Fabricated references and plagiarism are sanctioned.
+  reviewing: All qualified authors must be available to review (light load).
+  dual: No simultaneous submission with overlapping authors to any archival venue, unless the contributions are distinct.
+  max: 10 per author
+  watch: Supplementary is due 3 days after the paper and reviewers needn't read it. Arranging reciprocal favorable reviews is an ethics violation.
+
+- keys: [ijcai]
+  edition: IJCAI-ECAI 2026 (2027 call not yet out)
+  source: https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-main-track/
+  checked: 2026-10-19
+  pages: 7 pages of content + up to 2 for references (9 total).
+  llm: LLMs can't be authors. LLM-generated text used in methods or experiments must be documented.
+  reviewing: Every author enters the reviewer pool (undergrads, junior grad students and newcomers exempt).
+  preprints: Non-anonymous preprints don't cause rejection; the submission itself must stay anonymous.
+  dual: Not under review at a venue with formal proceedings during IJCAI review. Workshops without proceedings are fine.
+  max: 8 per author
+  watch: Papers rejected elsewhere in the last 12 months must declare it and upload the old reviews. Two-phase review with an early summary reject.
+
+- keys: [aamas]
+  edition: AAMAS 2027
+  source: https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/instructions/
+  checked: 2026-10-19
+  pages: 8 pages + unlimited references.
+  llm: Allowed for polishing text and code. If used for hypotheses or methods, disclose the prompt, tool and version. AI images only if AI is the topic.
+  reviewing: See AAMAS's separate Reciprocal Reviewer Policy page.
+  preprints: arXiv and workshops without proceedings aren't archival.
+  dual: No substantially similar work at another archival venue at the same time.
+  watch: Supplementary is one zip of 25 MB or less. Accepted papers must archive it publicly (Zenodo, GitHub or arXiv).
+
+- keys: [icra]
+  edition: ICRA 2027
+  source: https://2027.ieee-icra.org/?p=1964
+  checked: 2026-10-19
+  pages: 8 pages including references; supplementary must fit in the 8 pages (video separate).
+  llm: Disclose AI-generated text, figures or code in the acknowledgments. Uploading papers under review to an AI tool is prohibited.
+  preprints: Double-anonymous review. arXiv preprints are fine if not submitted elsewhere.
+  dual: Workshop papers with a DOI count as published and can't be submitted.
+  watch: Video (180 s max, 20 MB) only with the initial submission. RA-L papers can transfer to ICRA by Dec 31, 2026.
+
+- keys: [rss]
+  edition: RSS 2027
+  source: https://roboticsconference.org/information/cfp/
+  checked: 2026-10-19
+  pages: "Stage 1: 6 pages (5 content + 1 references). Stage 2: 8 pages + references."
+  llm: Allowed for authors and reviewers; disclosure encouraged. Hallucinated citations mean desk rejection.
+  preprints: Allowed, but reviewers may learn your identity; skip preprints if you want anonymity.
+  dual: Strictly forbidden while under review elsewhere. Non-archival venues and uncited preprints are fine.
+  watch: New two-stage process. A semi-complete 6-page extended abstract is due Dec 4, 2026; invited papers finish by Apr 16, 2027. No supplementary at Stage 1.

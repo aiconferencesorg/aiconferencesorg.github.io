@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AI conference deadlines: Robotics
+X-WR-CALDESC:Paper deadlines and decision dates. Refreshed daily.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:icra-2027-decisions-2027-02-01t11-59-00z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270201T115900Z
+DTEND:20270201T115900Z
+SUMMARY:ICRA 2027: Decisions
+DESCRIPTION:IEEE International Conference on Robotics and Automation. Loca
+ l time: 2027-02-01 03:59 UTC-8. Official site: https://2027.ieee-icra.org
+ /
+URL:https://2027.ieee-icra.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:iros-2027-paper-2027-03-02t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270302T115959Z
+DTEND:20270302T115959Z
+SUMMARY:IROS 2027: Paper deadline
+DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Sy
+ stems. Local time: 2027-03-01 23:59 AoE. Official site: https://2027.ieee
+ -iros.org/
+URL:https://2027.ieee-iros.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:IROS 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:IROS 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-2027-paper-2026-12-05t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261205T115959Z
+DTEND:20261205T115959Z
+SUMMARY:RSS 2027: Paper deadline
+DESCRIPTION:Robotics Science and Systems. Local time: 2026-12-04 23:59 AoE
+ . Official site: https://roboticsconference.org/
+URL:https://roboticsconference.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:RSS 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:RSS 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR

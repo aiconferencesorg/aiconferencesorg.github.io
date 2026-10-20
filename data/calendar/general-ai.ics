@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AI conference deadlines: General AI
+X-WR-CALDESC:Paper deadlines and decision dates. Refreshed daily.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:aaai-2027-decisions-2026-12-01t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261201T115959Z
+DTEND:20261201T115959Z
+SUMMARY:AAAI 2027: Decisions
+DESCRIPTION:AAAI Conference on Artificial Intelligence. Local time: 2026-1
+ 1-30 23:59 UTC-12. Official site: https://aaai.org/conference/aaai/aaai-2
+ 7/
+URL:https://aaai.org/conference/aaai/aaai-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcai-2027-abstract-2027-01-05t11-59-00z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270105T115900Z
+DTEND:20270105T115900Z
+SUMMARY:IJCAI 2027: Abstract deadline
+DESCRIPTION:International Joint Conference on Artificial Intelligence. Loc
+ al time: 2027-01-04 23:59 AoE. Official site: https://2027.ijcai.org/
+URL:https://2027.ijcai.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:IJCAI 2027: Abstract deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:IJCAI 2027: Abstract deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcai-2027-paper-2027-01-12t11-59-00z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270112T115900Z
+DTEND:20270112T115900Z
+SUMMARY:IJCAI 2027: Paper deadline
+DESCRIPTION:International Joint Conference on Artificial Intelligence. Loc
+ al time: 2027-01-11 23:59 AoE. Official site: https://2027.ijcai.org/
+URL:https://2027.ijcai.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:IJCAI 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:IJCAI 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcai-2027-decisions-2027-04-22t11-59-00z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270422T115900Z
+DTEND:20270422T115900Z
+SUMMARY:IJCAI 2027: Decisions
+DESCRIPTION:International Joint Conference on Artificial Intelligence. Loc
+ al time: 2027-04-21 23:59 AoE. Official site: https://2027.ijcai.org/
+URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:aamas-2027-abstract-2026-10-02t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261002T115959Z
+DTEND:20261002T115959Z
+SUMMARY:AAMAS 2027: Abstract deadline
+DESCRIPTION:International Conference on Autonomous Agents and Multiagent S
+ ystems. Local time: 2026-10-01 23:59 AoE. Official site: https://warwick.
+ ac.uk/fac/sci/dcs/aamas2027/
+URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:AAMAS 2027: Abstract deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:AAMAS 2027: Abstract deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aamas-2027-paper-2026-10-09t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261009T115959Z
+DTEND:20261009T115959Z
+SUMMARY:AAMAS 2027: Paper deadline
+DESCRIPTION:International Conference on Autonomous Agents and Multiagent S
+ ystems. Local time: 2026-10-08 23:59 AoE. Official site: https://warwick.
+ ac.uk/fac/sci/dcs/aamas2027/
+URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:AAMAS 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:AAMAS 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aamas-2027-decisions-2026-12-22t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261222T115959Z
+DTEND:20261222T115959Z
+SUMMARY:AAMAS 2027: Decisions
+DESCRIPTION:International Conference on Autonomous Agents and Multiagent S
+ ystems. Local time: 2026-12-21 23:59 AoE. Official site: https://warwick.
+ ac.uk/fac/sci/dcs/aamas2027/
+URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-2027-abstract-2027-04-24t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270424T115959Z
+DTEND:20270424T115959Z
+SUMMARY:KR 2027: Abstract deadline
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning. Local time: 2027-04-23 23:59 AoE. Official site: http
+ s://kr.org/KR2027/
+URL:https://kr.org/KR2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:KR 2027: Abstract deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:KR 2027: Abstract deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-2027-paper-2027-04-29t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270429T115959Z
+DTEND:20270429T115959Z
+SUMMARY:KR 2027: Paper deadline
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning. Local time: 2027-04-28 23:59 AoE. Official site: http
+ s://kr.org/KR2027/
+URL:https://kr.org/KR2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:KR 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:KR 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-2027-decisions-2027-07-01t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270701T115959Z
+DTEND:20270701T115959Z
+SUMMARY:KR 2027: Decisions
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning. Local time: 2027-06-30 23:59 AoE. Official site: http
+ s://kr.org/KR2027/
+URL:https://kr.org/KR2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:icaps-2027-abstract-2026-12-08t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261208T115959Z
+DTEND:20261208T115959Z
+SUMMARY:ICAPS 2027: Abstract deadline
+DESCRIPTION:International Conference on Automated Planning and Scheduling.
+  Local time: 2026-12-07 23:59 UTC-12. Official site: https://icaps27.icap
+ s-conference.org/
+URL:https://icaps27.icaps-conference.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:ICAPS 2027: Abstract deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:ICAPS 2027: Abstract deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icaps-2027-paper-2026-12-15t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20261215T115959Z
+DTEND:20261215T115959Z
+SUMMARY:ICAPS 2027: Paper deadline
+DESCRIPTION:International Conference on Automated Planning and Scheduling.
+  Local time: 2026-12-14 23:59 UTC-12. Official site: https://icaps27.icap
+ s-conference.org/
+URL:https://icaps27.icaps-conference.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:ICAPS 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:ICAPS 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icaps-2027-decisions-2027-02-27t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270227T115959Z
+DTEND:20270227T115959Z
+SUMMARY:ICAPS 2027: Decisions
+DESCRIPTION:International Conference on Automated Planning and Scheduling.
+  Local time: 2027-02-26 23:59 UTC-12. Official site: https://icaps27.icap
+ s-conference.org/
+URL:https://icaps27.icaps-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecai-2027-paper-2027-04-15t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270415T115959Z
+DTEND:20270415T115959Z
+SUMMARY:ECAI 2027: Paper deadline
+DESCRIPTION:European Conference on Artificial Intelligence. Local time: 20
+ 27-04-14 23:59 AoE. Official site: https://ecai2027.org/
+URL:https://ecai2027.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:ECAI 2027: Paper deadline in 7 days
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:ECAI 2027: Paper deadline tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecai-2027-decisions-2027-07-16t11-59-59z@ai-conference-deadlines
+DTSTAMP:20261020T002226Z
+DTSTART:20270716T115959Z
+DTEND:20270716T115959Z
+SUMMARY:ECAI 2027: Decisions
+DESCRIPTION:European Conference on Artificial Intelligence. Local time: 20
+ 27-07-15 23:59 AoE. Official site: https://ecai2027.org/
+URL:https://ecai2027.org/
+END:VEVENT
+END:VCALENDAR
