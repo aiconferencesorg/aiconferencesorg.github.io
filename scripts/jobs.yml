@@ -26,6 +26,21 @@ boards:
   - {name: Shield AI,            ats: lever,      slug: shieldai}
   - {name: Zoox,                 ats: lever,      slug: zoox}
   - {name: Toyota Research Institute, ats: lever, slug: tri}
+  # Drones, aviation and defense autonomy
+  - {name: Zipline,              ats: greenhouse, slug: flyzipline}
+  - {name: Skyryse,              ats: greenhouse, slug: skyryse}
+  - {name: Saronic,              ats: ashby,      slug: saronic}
+  - {name: Palantir,             ats: lever,      slug: palantir}
+  # Humanoids, robotics and self-driving
+  - {name: Agility Robotics,     ats: greenhouse, slug: agilityrobotics}
+  - {name: Apptronik,            ats: greenhouse, slug: apptronik}
+  - {name: 1X,                   ats: ashby,      slug: 1x}
+  - {name: Wayve,                ats: ashby,      slug: wayve}
+  - {name: Neuralink,            ats: greenhouse, slug: neuralink}
+  # AI research and infrastructure
+  - {name: Databricks,           ats: greenhouse, slug: databricks}
+  - {name: Together AI,          ats: greenhouse, slug: togetherai}
+  - {name: Runway,               ats: ashby,      slug: runway}
 
 listings:
   # sector: academic | industry
