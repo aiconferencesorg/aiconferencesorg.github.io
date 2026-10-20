@@ -16,6 +16,7 @@ import json
 import re
 import sys
 import html
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
@@ -119,6 +120,59 @@ def from_ashby(board, payload):
         }
 
 
+
+# ---------- Big-company career sites with public JSON search ----------
+def post_json(url, body):
+    data = json.dumps(body).encode("utf-8")
+    req = urllib.request.Request(url, data=data, method="POST", headers={
+        "User-Agent": UA, "Accept": "application/json", "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def amazon_items(board, fetch=get_json):
+    """amazon.jobs search.json, one call per query (newest first)."""
+    for q in board.get("queries") or ["research scientist"]:
+        url = ("https://www.amazon.jobs/en/search.json?" +
+               urllib.parse.urlencode({"base_query": q, "result_limit": 100, "sort": "recent"}))
+        for j in fetch(url).get("jobs", []):
+            posted = None
+            try:
+                posted = datetime.strptime(j.get("posted_date", ""), "%B %d, %Y").date().isoformat()
+            except ValueError:
+                pass
+            yield {"title": (j.get("title") or "").strip(),
+                   "location": j.get("normalized_location") or j.get("location") or "",
+                   "url": "https://www.amazon.jobs" + j["job_path"] if j.get("job_path") else None,
+                   "posted": posted}
+
+
+def _workday_posted(text):
+    t = (text or "").lower()
+    if "today" in t:
+        return TODAY.isoformat()
+    if "yesterday" in t:
+        return (TODAY - timedelta(days=1)).isoformat()
+    m = re.search(r"(\d+)\+?\s*days?", t)
+    return (TODAY - timedelta(days=int(m.group(1)))).isoformat() if m else None
+
+
+def workday_items(board, fetch=None, post=post_json):
+    """Workday career sites (the same JSON the public career page uses)."""
+    base = f"https://{board['host']}"
+    api = f"{base}/wday/cxs/{board['tenant']}/{board['site']}/jobs"
+    for q in board.get("queries") or ["research"]:
+        for offset in (0, 20, 40):
+            res = post(api, {"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": q})
+            posts = res.get("jobPostings") or []
+            for j in posts:
+                yield {"title": (j.get("title") or "").strip(), "location": j.get("locationsText") or "",
+                       "url": f"{base}/en-US/{board['site']}{j['externalPath']}" if j.get("externalPath") else None,
+                       "posted": _workday_posted(j.get("postedOn"))}
+            if len(posts) < 20:
+                break
+
+
 ATS = {
     "greenhouse": ("https://boards-api.greenhouse.io/v1/boards/{slug}/jobs", from_greenhouse),
     "lever": ("https://api.lever.co/v0/postings/{slug}?mode=json", from_lever),
@@ -126,12 +180,17 @@ ATS = {
 }
 
 
-def board_jobs(board, fetch=get_json):
-    url_tpl, parse = ATS[board["ats"]]
-    payload = fetch(url_tpl.format(slug=board["slug"]))
+def board_jobs(board, fetch=get_json, post=None):
+    if board["ats"] == "amazon":
+        items = list(amazon_items(board, fetch))
+    elif board["ats"] == "workday":
+        items = list(workday_items(board, post=post or post_json))
+    else:
+        url_tpl, parse = ATS[board["ats"]]
+        items = list(parse(board, fetch(url_tpl.format(slug=board["slug"]))))
     cutoff = (TODAY - timedelta(days=MAX_AGE_DAYS)).isoformat()
     seen, out = set(), []
-    for j in parse(board, payload):
+    for j in items:
         title = j["title"]
         if not title or not j["url"] or not KEEP.search(title) or DROP.search(title):
             continue

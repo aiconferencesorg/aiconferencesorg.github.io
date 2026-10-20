@@ -1,0 +1,369 @@
+# Jobs shown on the site's Jobs tab.
+#
+# Two parts:
+#   boards:   company job boards fetched automatically every day.
+#             Only AI / research / robotics roles are kept (see build_jobs.py).
+#   listings: positions you add by hand: faculty, postdoc, or any industry role
+#             that isn't on a supported board.
+#
+# Edit this file right on GitHub (pencil icon), commit, and the site updates on
+# the next daily run (or run the workflow by hand from the Actions tab).
+
+boards:
+  # ats: greenhouse | lever | ashby     slug: the company's name in its board URL
+  - {name: Anthropic,            ats: greenhouse, slug: anthropic}
+  - {name: xAI,                  ats: greenhouse, slug: xai}
+  - {name: Figure,               ats: greenhouse, slug: figureai}
+  - {name: Anduril,              ats: greenhouse, slug: andurilindustries}
+  - {name: Google DeepMind,      ats: greenhouse, slug: deepmind}
+  - {name: Samsung Research America, ats: greenhouse, slug: samsungresearchamerica}
+  - {name: RoboForce,            ats: greenhouse, slug: roboforce}
+  - {name: Skydio,               ats: ashby,      slug: skydio}
+  - {name: OpenAI,               ats: ashby,      slug: openai}
+  - {name: Cohere,               ats: ashby,      slug: cohere}
+  - {name: Physical Intelligence, ats: ashby,     slug: physicalintelligence}
+  - {name: Perplexity,           ats: ashby,      slug: perplexity}
+  - {name: Shield AI,            ats: lever,      slug: shieldai}
+  - {name: Zoox,                 ats: lever,      slug: zoox}
+  - {name: Toyota Research Institute, ats: lever, slug: tri}
+  # Drones, aviation and defense autonomy
+  - {name: Zipline,              ats: greenhouse, slug: flyzipline}
+  - {name: Skyryse,              ats: greenhouse, slug: skyryse}
+  - {name: Saronic,              ats: ashby,      slug: saronic}
+  - {name: Palantir,             ats: lever,      slug: palantir}
+  # Humanoids, robotics and self-driving
+  - {name: Agility Robotics,     ats: greenhouse, slug: agilityrobotics}
+  - {name: Apptronik,            ats: greenhouse, slug: apptronik}
+  - {name: 1X,                   ats: ashby,      slug: 1x}
+  - {name: Wayve,                ats: ashby,      slug: wayve}
+  - {name: Neuralink,            ats: greenhouse, slug: neuralink}
+  # AI research and infrastructure
+  - {name: Databricks,           ats: greenhouse, slug: databricks}
+  - {name: Together AI,          ats: greenhouse, slug: togetherai}
+  - {name: Runway,               ats: ashby,      slug: runway}
+  # Big tech. Amazon and Workday sites are read through the same public JSON their
+  # career pages use. Google, Meta, Apple and Microsoft offer no readable feed, so
+  # they appear as saved searches under more_industry instead.
+  - name: Amazon
+    ats: amazon
+    slug: amazon
+    queries: [robotics scientist, applied scientist, research scientist, machine learning, computer vision, autonomous]
+  - name: NVIDIA
+    ats: workday
+    slug: nvidia
+    host: nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
+    queries: [research scientist, robotics, autonomous vehicles, deep learning]
+  - name: Boston Dynamics
+    ats: workday
+    slug: bostondynamics
+    host: bostondynamics.wd1.myworkdayjobs.com
+    tenant: bostondynamics
+    site: Boston_Dynamics
+    queries: [""]
+
+listings:
+  # sector: academic | industry
+  # type:   Faculty | Postdoc | PhD | Research | Engineering | Internship
+  # deadline: YYYY-MM-DD. deadline_label says what that date means.
+  # rolling: true keeps a listing up 60 days past its date ("until filled" searches).
+  # Listings drop off automatically once they expire, so you never have to clean up.
+
+  - sector: academic
+    type: Faculty
+    title: Faculty positions in robotics, all tracks
+    org: Carnegie Mellon University
+    dept: Robotics Institute
+    location: Pittsburgh, PA, USA
+    rank: Assistant / Associate / Full; tenure, research, systems and teaching tracks
+    deadline: 2026-12-16
+    deadline_label: Applications close
+    url: https://www.ri.cmu.edu/about/hiring-faculty-positions/
+
+  - sector: academic
+    type: Faculty
+    title: Assistant Professor (Tenure-Track) in AI/ML
+    org: University of California, Irvine
+    dept: Electrical Engineering and Computer Science
+    location: Irvine, CA, USA
+    rank: Assistant Professor
+    areas: AI foundations, embodied/physical AI, AI-driven cyber-physical systems
+    deadline: 2026-12-01
+    deadline_label: Full consideration by
+    rolling: true
+    url: https://recruit.ap.uci.edu/JPF10407
+
+  - sector: academic
+    type: Faculty
+    title: Open Rank, Tenured/Tenure-Track Faculty Position in Robotics
+    org: Indiana University Bloomington
+    dept: Luddy School of Informatics, Computing, and Engineering
+    location: Bloomington, IN, USA
+    rank: Assistant / Associate / Full
+    deadline: 2026-11-15
+    deadline_label: Full consideration by
+    rolling: true
+    url: https://jobs.chronicle.com/job/38045763/open-rank-tenured-tenure-track-faculty-position-in-robotics/
+
+  - sector: academic
+    type: Faculty
+    title: Assistant Professor in Robotics
+    org: University of North Carolina at Charlotte
+    dept: Mechanical Engineering and Engineering Science
+    location: Charlotte, NC, USA
+    rank: Assistant Professor
+    deadline: 2026-11-11
+    deadline_label: Review begins
+    rolling: true
+    url: https://jobs.chronicle.com/job/38049892/assistant-professor-in-robotics/
+
+  - sector: academic
+    type: Faculty
+    title: Assistant/Associate Professor in Artificial Intelligence
+    org: University of Louisville
+    dept: Computer Science and Engineering
+    location: Louisville, KY, USA
+    rank: Assistant or Associate Professor
+    deadline: 2027-01-11
+    deadline_label: Apply by
+    rolling: true
+    url: https://careercenter.cra.org/job/assistant-associate-professor-in-artificial-intelligence-tenure-track-or-tenured-louisville-kentucky-2481
+
+  - sector: academic
+    type: Faculty
+    title: Assistant Professor, AI for Agriculture/Forestry/Natural Systems
+    org: Purdue University
+    dept: College of Agriculture
+    location: West Lafayette, IN, USA
+    rank: Assistant Professor
+    deadline: 2026-11-01
+    deadline_label: Review begins
+    rolling: true
+    url: https://careers.purdue.edu/job/Assistant-Professor,-Artificial-Intelligence-for-AgricultureForestryNatural-Systems/44262-en_US/
+
+  - sector: academic
+    type: Postdoc
+    title: Postdoc in Robot Learning for Manipulation
+    org: KTH Royal Institute of Technology
+    location: Stockholm, Sweden
+    deadline: 2026-11-01
+    deadline_label: Apply by
+    url: https://kth.varbi.com/en/what:job/jobID:972456/
+
+  - sector: industry
+    type: Research
+    title: Postdoctoral Scientist, Robotics Research and AI Development
+    org: Amazon Robotics
+    dept: Fleet Science
+    location: North Reading, MA, USA
+    open_until: 2027-01-31
+    url: https://amazon.jobs/en/jobs/10434356/postdoctoral-scientist-amazon-robotics-research-and-ai-development
+
+  # ---- Added Oct 18, 2026 from university hiring pages (each checked on the official posting) ----
+
+  - sector: academic
+    type: Faculty
+    title: Tenure-Track and Tenured Faculty in ECE (Fall 2027)
+    org: University of Texas at Austin
+    dept: Chandra Family Department of Electrical and Computer Engineering
+    location: Austin, TX, USA
+    rank: Tenure-track and tenured
+    areas: Core/foundational AI, robotics and physical AI, computer systems
+    deadline: 2026-11-15
+    deadline_label: Priority by
+    rolling: true
+    url: https://faculty.utexas.edu/career/192893
+
+  - sector: academic
+    type: Faculty
+    title: Assistant, Associate, Full Professor in Computer Science
+    org: University of Texas at Austin
+    dept: Department of Computer Science
+    location: Austin, TX, USA
+    rank: Assistant / Associate / Full
+    areas: All areas of CS; AI for Science especially welcome
+    deadline: 2026-12-01
+    deadline_label: Review begins
+    open_until: 2027-05-31
+    url: https://faculty.utexas.edu/career/192523
+
+  - sector: academic
+    type: Faculty
+    title: Professor/Associate Professor in Human-Centered Embodied AI
+    org: University of Michigan
+    dept: Robotics Department
+    location: Ann Arbor, MI, USA
+    rank: Senior, tenure-track or tenured
+    deadline: 2026-12-15
+    deadline_label: Full consideration by
+    rolling: true
+    url: https://robotics.umich.edu/jobs
+
+  - sector: academic
+    type: Faculty
+    title: Tenure-Track Faculty in Artificial Intelligence (2 positions)
+    org: University of Colorado Boulder
+    dept: Department of Computer Science
+    location: Boulder, CO, USA
+    rank: Assistant Professor
+    areas: ML foundations, multimodal models, alignment and safety, physical and embodied AI, reasoning
+    deadline: 2026-11-01
+    deadline_label: Full consideration by
+    rolling: true
+    url: https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-Artificial-Intelligence/74736
+
+  - sector: academic
+    type: Faculty
+    title: Tenure-Track Faculty in Aerospace Engineering Sciences (4 positions)
+    org: University of Colorado Boulder
+    dept: Smead Department of Aerospace Engineering Sciences
+    location: Boulder, CO, USA
+    rank: Assistant Professor
+    areas: Autonomous uncrewed aircraft systems, flight dynamics and control, sensing and navigation
+    deadline: 2026-11-01
+    deadline_label: Full consideration by
+    rolling: true
+    url: https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-Aerospace-Engineering-Sciences/74888
+
+  - sector: academic
+    type: Faculty
+    title: Tenure-Track Faculty in Electrical, Computer and Energy Engineering (2 positions)
+    org: University of Colorado Boulder
+    dept: Electrical, Computer and Energy Engineering
+    location: Boulder, CO, USA
+    rank: Assistant Professor
+    areas: All ECE areas, including controls and robotics
+    deadline: 2026-11-15
+    deadline_label: Full consideration by
+    rolling: true
+    url: https://jobs.colorado.edu/jobs/JobDetail/Tenure-Track-Faculty-in-Electrical-Computer-and-Energy-Engineering/74871
+
+  - sector: academic
+    type: Faculty
+    title: Assistant Professor, Robotics and Autonomous Systems
+    org: Boston University
+    dept: Mechanical Engineering
+    location: Boston, MA, USA
+    rank: Assistant Professor
+    areas: Robotics, autonomous systems, robotics and control
+    deadline: 2026-11-15
+    deadline_label: Full consideration by
+    rolling: true
+    url: https://academicjobsonline.org/ajo/jobs/32666
+
+  - sector: academic
+    type: Faculty
+    title: Assistant Professor, Intelligent Systems and Physical AI
+    org: Boston University
+    dept: Mechanical Engineering
+    location: Boston, MA, USA
+    rank: Assistant Professor
+    areas: Intelligent systems and physical AI; also dynamics and control, aerospace, robotics
+    deadline: 2026-11-15
+    deadline_label: Full consideration by
+    rolling: true
+    url: https://academicjobsonline.org/ajo/jobs/32665
+
+  - sector: academic
+    type: Faculty
+    title: Tenure-Track Faculty in Robotics
+    org: University of Notre Dame
+    dept: Aerospace and Mechanical Engineering
+    location: Notre Dame, IN, USA
+    rank: Assistant Professor
+    areas: Human-centered robotics; part of a Physical AI and Robotics initiative
+    deadline: 2026-11-01
+    deadline_label: Full consideration by
+    open_until: 2026-12-01
+    url: https://apply.interfolio.com/192926
+
+  - sector: academic
+    type: Faculty
+    title: Assistant Professor in Aerospace Engineering (2 positions)
+    org: University of California, Merced
+    dept: Mechanical and Aerospace Engineering
+    location: Merced, CA, USA
+    rank: Assistant Professor
+    areas: Autonomous and unmanned aerial systems, AI/ML for aerospace, flight dynamics and control
+    deadline: 2027-06-30
+    deadline_label: Final date
+    url: https://aprecruit.ucmerced.edu/JPF02221
+
+  - sector: academic
+    type: Faculty
+    title: Tenure-Track Faculty Positions in Computer Engineering
+    org: FAMU-FSU College of Engineering
+    dept: Electrical and Computer Engineering
+    location: Tallahassee, FL, USA
+    rank: Assistant (higher rank possible)
+    areas: AI, computer vision, robotics and autonomy, embedded and cyber-physical systems
+    deadline: 2026-12-01
+    deadline_label: Review begins
+    rolling: true
+    url: https://jobs.chronicle.com/job/38032226/tenure-track-faculty-positions-in-computer-engineering/
+
+  - sector: academic
+    type: Faculty
+    title: Assistant Professor (Aerospace and Dynamics/Control)
+    org: Duke University
+    dept: Mechanical Engineering and Materials Science
+    location: Durham, NC, USA
+    rank: Assistant Professor
+    areas: Aerospace, nonlinear dynamics, control of fluid and structural systems
+    deadline: 2026-12-01
+    deadline_label: Priority by
+    open_until: 2027-06-30
+    url: https://academicjobsonline.org/ajo/jobs/32522
+
+  - sector: academic
+    type: Faculty
+    title: Assistant Professor of Unmanned Aerial Systems
+    org: Texas Southern University
+    dept: College of Science, Engineering and Technology
+    location: Houston, TX, USA
+    rank: Assistant Professor
+    open_until: 2026-12-14
+    url: https://jobs.chronicle.com/job/38017483/assistant-professor-of-unmanned-aerial-systems/
+
+  - sector: academic
+    type: Postdoc
+    title: Four Postdoctoral Scholars in UAV Sensing, Swarms and Lidar
+    org: Northern Arizona University
+    dept: Radiant Center for Remote Sensing / Sanghi College of Engineering
+    location: Flagstaff, AZ, USA
+    areas: Radio source localization from the air, UAV sensor payloads, swarm simulation, UAV lidar digital twins
+    open_until: 2026-12-31
+    url: https://discuss.px4.io/t/hiring-4-postdocs-in-uavs/49554
+
+# Academic job feeds pulled automatically every day (RSS). Only faculty, postdoc,
+# PhD and research-staff postings about AI, ML, robotics or autonomy are kept,
+# and anything older than 120 days is dropped, so this list maintains itself.
+academic_feeds:
+  - {name: robotics, source: Chronicle Jobs, url: "https://jobs.chronicle.com/jobsrss/?keywords=robotics"}
+  - {name: machine learning, source: Chronicle Jobs, url: "https://jobs.chronicle.com/jobsrss/?keywords=machine+learning"}
+  - {name: artificial intelligence, source: Chronicle Jobs, url: "https://jobs.chronicle.com/jobsrss/?keywords=artificial+intelligence"}
+  - {name: computer vision, source: Chronicle Jobs, url: "https://jobs.chronicle.com/jobsrss/?keywords=computer+vision"}
+  - {name: autonomous systems, source: Chronicle Jobs, url: "https://jobs.chronicle.com/jobsrss/?keywords=autonomous+systems"}
+  - {name: natural language processing, source: Chronicle Jobs, url: "https://jobs.chronicle.com/jobsrss/?keywords=natural+language+processing"}
+  - {name: unmanned aerial, source: Chronicle Jobs, url: "https://jobs.chronicle.com/jobsrss/?keywords=unmanned+aerial"}
+
+# Saved searches on big-company career sites that can't be pulled automatically
+# (shown as links under the Industry list; they always show what's open right now).
+more_industry:
+  - {name: Google (robotics), url: "https://www.google.com/about/careers/applications/jobs/results/?q=robotics%20research"}
+  - {name: Meta (embodied AI), url: "https://www.metacareers.com/jobs?q=embodied%20AI"}
+  - {name: Microsoft Research, url: "https://jobs.careers.microsoft.com/global/en/search?q=robotics%20research"}
+  - {name: Apple (robotics ML), url: "https://jobs.apple.com/en-us/search?search=robotics%20machine%20learning"}
+
+# Places to find more academic positions (shown as links on the Jobs tab).
+more_academic:
+  - {name: CRA Job Ads, url: "https://cra.org/ads/"}
+  - {name: UCSD MAE list (ME/aero/robotics), url: "https://mae.ucsd.edu/careers-opportunities-scholarships"}
+  - {name: Academic Jobs Online, url: "https://academicjobsonline.org/ajo/jobs"}
+  - {name: Chronicle Jobs, url: "https://jobs.chronicle.com/"}
+  - {name: HigherEdJobs, url: "https://www.higheredjobs.com/"}
+  - {name: IEEE Job Site, url: "https://jobs.ieee.org/"}
+  - {name: EURAXESS (Europe), url: "https://euraxess.ec.europa.eu/jobs/search"}
+  - {name: jobs.ac.uk (UK), url: "https://www.jobs.ac.uk/"}
+  - {name: Academic Positions, url: "https://academicpositions.com/"}
