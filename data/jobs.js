@@ -1,5 +1,5 @@
 window.JOBS_DATA = {
- "generated": "2026-10-20T00:36:51Z",
+ "generated": "2026-10-20T00:46:12Z",
  "boards": [
   {
    "name": "Anthropic",
@@ -56,6 +56,54 @@ window.JOBS_DATA = {
   {
    "name": "Toyota Research Institute",
    "count": 4
+  },
+  {
+   "name": "Zipline",
+   "count": 21
+  },
+  {
+   "name": "Skyryse",
+   "count": 2
+  },
+  {
+   "name": "Saronic",
+   "count": 10
+  },
+  {
+   "name": "Palantir",
+   "count": 3
+  },
+  {
+   "name": "Agility Robotics",
+   "count": 16
+  },
+  {
+   "name": "Apptronik",
+   "count": 16
+  },
+  {
+   "name": "1X",
+   "count": 23
+  },
+  {
+   "name": "Wayve",
+   "count": 60
+  },
+  {
+   "name": "Neuralink",
+   "count": 5
+  },
+  {
+   "name": "Databricks",
+   "count": 48
+  },
+  {
+   "name": "Together AI",
+   "count": 23
+  },
+  {
+   "name": "Runway",
+   "count": 0
   }
  ],
  "failed": [
@@ -4293,6 +4341,2276 @@ window.JOBS_DATA = {
    "sector": "industry",
    "type": "Research",
    "source": "lever"
+  },
+  {
+   "title": "Zip Motion Planning Intern (Summer 2027)",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003",
+   "posted": "2026-09-30",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Droid Autonomy Intern (Summer 2027)",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003",
+   "posted": "2026-09-23",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "ML Infrastructure Engineer",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7989516003?gh_jid=7989516003",
+   "posted": "2026-09-09",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Manager Data Operations & Annotations, Autonomy Data",
+   "location": "Ann Arbor, Michigan USA",
+   "url": "https://www.zipline.com/open-roles/7981819003?gh_jid=7981819003",
+   "posted": "2026-09-01",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Data Scientist",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7931600003?gh_jid=7931600003",
+   "posted": "2026-08-21",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Autonomy Zip Perception SWE",
+   "location": "Ann Arbor, Michigan USA; South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7918303003?gh_jid=7918303003",
+   "posted": "2026-08-20",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Controls Engineer Intern (Spring 2027)",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7903823003?gh_jid=7903823003",
+   "posted": "2026-08-19",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Controls Engineer Intern (Summer 2027)",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7903889003?gh_jid=7903889003",
+   "posted": "2026-08-19",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Material Planning Intern (Spring 2027)",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7891219003?gh_jid=7891219003",
+   "posted": "2026-08-18",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Material Planning Intern (Summer 2027)",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7891224003?gh_jid=7891224003",
+   "posted": "2026-08-18",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Motion Planning Software Engineer",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7819774003?gh_jid=7819774003",
+   "posted": "2026-07-28",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Software Engineer, Autonomy Simulation & Validation",
+   "location": "Ann Arbor, Michigan USA; South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7812135003?gh_jid=7812135003",
+   "posted": "2026-07-22",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Platform Software Engineer, AI Enablement",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7812167003?gh_jid=7812167003",
+   "posted": "2026-07-22",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Autonomy Droid Perception SWE - Onboard Systems",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7811676003?gh_jid=7811676003",
+   "posted": "2026-07-21",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Planning & Development Specialist",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7810363003?gh_jid=7810363003",
+   "posted": "2026-07-20",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Mechanical Simulation Engineer \u2013 Avionics & Electronics Packaging",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7810252003?gh_jid=7810252003",
+   "posted": "2026-07-20",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Controls Engineer",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7810074003?gh_jid=7810074003",
+   "posted": "2026-07-20",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Autonomy Droid Perception SWE - Offboard Systems",
+   "location": "Ann Arbor, Michigan USA; South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7805425003?gh_jid=7805425003",
+   "posted": "2026-07-15",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Material Planning Manager",
+   "location": "South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7805276003?gh_jid=7805276003",
+   "posted": "2026-07-15",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Motion Planning Software Engineer",
+   "location": "Ann Arbor, Michigan USA; South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7802961003?gh_jid=7802961003",
+   "posted": "2026-07-13",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Simulation Software Engineer",
+   "location": "Ann Arbor, Michigan USA; South San Francisco, California, USA",
+   "url": "https://www.zipline.com/open-roles/7802983003?gh_jid=7802983003",
+   "posted": "2026-07-13",
+   "org": "Zipline",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Vice President, Operations",
+   "location": "El Segundo, CA",
+   "url": "https://job-boards.greenhouse.io/skyryse/jobs/8121987",
+   "posted": "2026-08-11",
+   "org": "Skyryse",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Guidance, Navigation and Control Engineer",
+   "location": "El Segundo, CA",
+   "url": "https://job-boards.greenhouse.io/skyryse/jobs/8042688",
+   "posted": "2026-07-14",
+   "org": "Skyryse",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior / Staff Robotics Security Software Engineer",
+   "location": "Austin, TX",
+   "url": "https://jobs.ashbyhq.com/saronic/b43cbabb-fa07-458c-bbca-666ca8e734b3",
+   "posted": "2026-10-14",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Manufacturing Engineer \u2013 Piping & HVAC Detail Planning",
+   "location": "Brownsville, TX",
+   "url": "https://jobs.ashbyhq.com/saronic/b07639c1-3381-49c2-9070-bb2a779ad135",
+   "posted": "2026-10-14",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Manufacturing Engineer \u2013 Paint & Coatings Planning",
+   "location": "Brownsville, TX",
+   "url": "https://jobs.ashbyhq.com/saronic/9907ad3f-ee6f-4f40-b446-133b88b1ad60",
+   "posted": "2026-10-13",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Manufacturing Engineer \u2013 Propulsion & Machinery Installation Planning",
+   "location": "Brownsville, TX",
+   "url": "https://jobs.ashbyhq.com/saronic/b6f922f4-8c2d-4d43-ba13-495d003d339d",
+   "posted": "2026-10-13",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Manufacturing Engineer \u2013 Structural Detail Planning",
+   "location": "Brownsville, TX",
+   "url": "https://jobs.ashbyhq.com/saronic/3a734d21-e7cb-4315-a696-31639311062e",
+   "posted": "2026-10-13",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Manufacturing Engineer \u2013 Outfitting Detail Planning",
+   "location": "Brownsville, TX",
+   "url": "https://jobs.ashbyhq.com/saronic/b89a87e4-fad6-4390-a327-e205d928d3c2",
+   "posted": "2026-10-13",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Autonomous Sea Trials Test Planner",
+   "location": "New Orleans, LA",
+   "url": "https://jobs.ashbyhq.com/saronic/4e2a659b-c40d-4c52-a9a8-cd8b064eaf0b",
+   "posted": "2026-08-05",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Autonomy Integration Build Engineer",
+   "location": "Franklin, LA",
+   "url": "https://jobs.ashbyhq.com/saronic/0d91b776-e15c-4c76-b7c3-5ce994232edc",
+   "posted": "2026-07-09",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Marine Alignment Technician",
+   "location": "Franklin, LA",
+   "url": "https://jobs.ashbyhq.com/saronic/8a7a12ca-9d53-4242-9c9e-f5d1d37bc83f",
+   "posted": "2026-06-03",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Metrology Engineer \u2013 Accuracy Control",
+   "location": "Franklin, LA",
+   "url": "https://jobs.ashbyhq.com/saronic/d2330bfb-ea14-4095-b1a5-af751bc95315",
+   "posted": "2026-06-01",
+   "org": "Saronic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Software Engineer - Autonomous Systems",
+   "location": "Washington, D.C.",
+   "url": "https://jobs.lever.co/palantir/d40d5d19-8f9e-4e6b-b4d3-b7457c90adec",
+   "posted": "2026-07-22",
+   "org": "Palantir",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "lever"
+  },
+  {
+   "title": "Senior Software Engineer - Autonomous Systems",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.lever.co/palantir/d7030550-f80f-422c-965f-3120db433dea",
+   "posted": "2026-07-22",
+   "org": "Palantir",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "lever"
+  },
+  {
+   "title": "Software Engineer - Edge AI Systems",
+   "location": "Seattle, WA",
+   "url": "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4",
+   "posted": "2026-07-22",
+   "org": "Palantir",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "lever"
+  },
+  {
+   "title": "Senior Robot Test Operations Manager",
+   "location": "Onsite- Pittsburgh, PA",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6208317004",
+   "posted": "2026-10-05",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Robotics Software Engineer I/II",
+   "location": "Onsite- Salem, OR",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6211037004",
+   "posted": "2026-10-02",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Robotics Architect - Dynamic Simulation Specialist",
+   "location": "Hybrid- Fremont, CA",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6208299004",
+   "posted": "2026-10-01",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Robotics Architect - Electrical Hardware",
+   "location": "Hybrid- Fremont, CA",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6208303004",
+   "posted": "2026-10-01",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Robotics Architect - Platform Software Specialist",
+   "location": "Hybrid- Fremont, CA",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6208306004",
+   "posted": "2026-10-01",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior AI Software Engineer, Perception",
+   "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6210999004",
+   "posted": "2026-09-30",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Product Manager, Perception & World Understanding Skills",
+   "location": "Hybrid- Fremont, CA",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6193254004",
+   "posted": "2026-09-16",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Staff AI Software Engineer, Perception",
+   "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6138661004",
+   "posted": "2026-09-01",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Software Engineer, AI/ML Platform",
+   "location": "Remote",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004",
+   "posted": "2026-08-20",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Vice President, Strategic Program Management Office (SPMO)",
+   "location": "Remote",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6139722004",
+   "posted": "2026-08-17",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Principal Robotics Functional Safety Engineer",
+   "location": "Hybrid- Fremont, CA",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6138236004",
+   "posted": "2026-08-07",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Staff Data Scientist, Robotics",
+   "location": "Remote",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004",
+   "posted": "2026-07-29",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior AI Software Engineer, Reinforcement Learning",
+   "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6127693004",
+   "posted": "2026-07-28",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior AI Research Engineer",
+   "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6032175004",
+   "posted": "2026-07-02",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Robotics Mechanical Engineer",
+   "location": "Hybrid- Fremont, CA",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6008696004",
+   "posted": "2026-06-26",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff AI Engineer, Perception",
+   "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)",
+   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=5973040004",
+   "posted": "2026-04-23",
+   "org": "Agility Robotics",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "CoRL 2026 - Robotics & AI Talent",
+   "location": "Austin, Texas & Sunnyvale, California ",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004",
+   "posted": "2026-10-16",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Perception Learning Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6225394004?gh_jid=6225394004",
+   "posted": "2026-10-15",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Controls Engineer - Actuation",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6188799004?gh_jid=6188799004",
+   "posted": "2026-09-11",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Principal Robotics Machine Learning Engineer",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6185506004?gh_jid=6185506004",
+   "posted": "2026-09-10",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Simulation Architect - Core Simulation Platform",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6179902004?gh_jid=6179902004",
+   "posted": "2026-09-02",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Software Engineer, ML Infrastructure",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6176116004?gh_jid=6176116004",
+   "posted": "2026-08-31",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Perception Hardware Engineer",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6164339004?gh_jid=6164339004",
+   "posted": "2026-08-26",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Perception Hardware Engineer",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6145262004?gh_jid=6145262004",
+   "posted": "2026-08-17",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Reinforcement Learning Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6142286004?gh_jid=6142286004",
+   "posted": "2026-08-12",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer - Humanoid Controls",
+   "location": "Sunnyvale, CA",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6142283004?gh_jid=6142283004",
+   "posted": "2026-08-12",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer - Humanoid Controls",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6135714004?gh_jid=6135714004",
+   "posted": "2026-08-05",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Product Manager, Applied AI",
+   "location": "Sunnyvale, California",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6120107004?gh_jid=6120107004",
+   "posted": "2026-07-29",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Product Manager, Perception and Navigation",
+   "location": "Sunnyvale, California",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6119223004?gh_jid=6119223004",
+   "posted": "2026-07-17",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Product Manager - Human Robot Interaction",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6017584004?gh_jid=6017584004",
+   "posted": "2026-06-30",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Product Manager - Simulation",
+   "location": "Sunnyvale, California",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6007496004?gh_jid=6007496004",
+   "posted": "2026-05-27",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Perception Hardware Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/5988546004?gh_jid=5988546004",
+   "posted": "2026-05-05",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Assembly Technician - Robot Body",
+   "location": "Hayward, CA",
+   "url": "https://jobs.ashbyhq.com/1x/8926383e-91d6-47fd-8e17-0d525ebaca98",
+   "posted": "2026-10-15",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Assembly Technician - Robot Hands",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/22ceee24-fb24-4666-a4e7-05eca233bd24",
+   "posted": "2026-10-14",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Robot Service Technician",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/aea0150b-5690-422a-b43a-773c706305ff",
+   "posted": "2026-10-07",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Tactile Sensing Research Engineer",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/d017fa5e-61d8-43e9-aa37-70067cc33f29",
+   "posted": "2026-09-28",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "AI Researcher - Perception",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/8065ae1f-697e-4b73-9ae2-cc55a5373991",
+   "posted": "2026-09-14",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Materials Scientist, Polymers",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/fba70e1c-0c7f-482c-97e5-1492df69ef0a",
+   "posted": "2026-08-11",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Inventory Control Supervisor",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/2b4c5ac6-d4af-4cb4-8e68-cf0cf698cba5",
+   "posted": "2026-08-06",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Camera Hardware Engineer, Robot Head",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/99980e95-f006-46bf-9ecb-d37161291a92",
+   "posted": "2026-08-04",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Software Engineer - Applied AI",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/0ac33259-1b12-447c-95a3-d2d0c6b1a996",
+   "posted": "2026-08-03",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Software Engineer - Robotic Controls",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/a02d07dc-851d-4246-bc1d-1f50412015c0",
+   "posted": "2026-07-30",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Inventory Control Analyst",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/454f7d55-7bbd-405d-bf9c-4b3a24018392",
+   "posted": "2026-07-30",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Principal Tools Engineer, Simulation",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/a7e8ba31-8369-4b44-ae26-efd4a23f7118",
+   "posted": "2026-07-29",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior to Staff AI Product Engineer",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/59edfa1d-e1e0-468b-9995-9d863d08def1",
+   "posted": "2026-07-28",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Mechanical Engineer, Robot Head",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/fda0ba2e-d1eb-4a21-a666-7e7ee6e20763",
+   "posted": "2026-07-28",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Robot Operations Manager PM",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/d718036a-530c-40cd-bfed-63ce8e64dc75",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Biomechanics Researcher",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/39b89d0a-1ade-45fd-9c70-cbbceb7ce45d",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Open Call \u2013 Research Engineer / Scientist",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/c1e085fa-16b5-4f5d-963b-52e20ee339a6",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "AI Researcher - Robot Learning",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/a5ad1287-e0a0-471d-9a65-cc24c62b6664",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Firmware Engineer - Motor Controls",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/ea9614dd-94e8-4a3a-a714-645957a298d0",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Simulation Engineer - Physics Modeling",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/bd7452e9-1f5a-4e49-b468-2ad98c20e2c3",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "AI Residency",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Audio Systems Engineer, Robot Head",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/fbe6dc39-da2e-4d64-a660-f9a38454a93e",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "AI Researcher",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/2d0f6eec-6e64-403f-baf7-330fe81b1473",
+   "posted": "2026-06-17",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Engineering Manager, Experiment Platform, Robot Software",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/438bc870-6abc-42a2-be78-1bc746a56a90",
+   "posted": "2026-10-19",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Control Engineer",
+   "location": "Leonberg, Germany \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/8d005484-ef7e-431c-9bc4-32f12967c5ab",
+   "posted": "2026-10-16",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Machine Learning Engineer, ADAS",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/e43c1c44-787e-471b-89fb-ff986c3ab588",
+   "posted": "2026-10-16",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Principal Machine Learning Engineer, Driving Product",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/9e02479e-88c0-4e01-bb43-993d9ad5d5c7",
+   "posted": "2026-10-15",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Software Engineer - Platform Integration, Robot Software",
+   "location": "Sunnyvale, California USA",
+   "url": "https://jobs.ashbyhq.com/wayve/7e84f725-96f3-4b89-b695-401ce12adb0f",
+   "posted": "2026-10-15",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Driving Product",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/6c77a737-9560-49fd-b687-72894adfc4d0",
+   "posted": "2026-10-15",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Principle Roboticist, Robot Foundation Model",
+   "location": "Sunnyvale, California USA",
+   "url": "https://jobs.ashbyhq.com/wayve/6c5bcd05-d726-4315-aa3c-03cc73bc2f63",
+   "posted": "2026-10-14",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Controls Engineer",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/1dc6ac74-cf95-43d3-870e-04abf15d991c",
+   "posted": "2026-10-14",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Robotics Engineer, 3D Sensing",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/08bd82d2-6896-4239-8efe-80249cc9fb90",
+   "posted": "2026-10-14",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Software Engineer, AI Libraries",
+   "location": "Sunnyvale, California USA",
+   "url": "https://jobs.ashbyhq.com/wayve/000a7973-cec6-401c-818a-06781f1f6644",
+   "posted": "2026-10-14",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Software Engineer, Simulation",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5",
+   "posted": "2026-10-14",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Technical Product Manager, Robotaxi",
+   "location": "Sunnyvale, California USA",
+   "url": "https://jobs.ashbyhq.com/wayve/dda98878-40bb-4db8-8a0b-3f37bcf3cb2b",
+   "posted": "2026-10-13",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Tech Lead Manager - ML Autonomy Performance",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/2ac97a26-ca90-404b-8f23-6c4e5cc323cd",
+   "posted": "2026-10-13",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Robotics Engineer, Localization",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/250e9c69-11d9-4d43-adde-dadf725eef13",
+   "posted": "2026-10-13",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Software Engineer - Drive-by-Wire, Robot Software",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/88d59a4c-d681-46da-b663-41b2ccceffa8",
+   "posted": "2026-10-13",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Tech Lead - Autonomy Performance, Robotaxi",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/e457992b-17a7-44eb-8e08-0482a5632386",
+   "posted": "2026-10-09",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior/Staff Data Scientist",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/cbaf555f-8eb8-41dc-9c1c-e225da4f6a8c",
+   "posted": "2026-10-06",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Systems Engineer, Robotaxi",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/0e78f153-01ea-413a-92b5-03f42efae1be",
+   "posted": "2026-10-06",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Robotics Engineer, AV Core",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/a078b8c8-ac52-4e7a-916b-0d7724e6f0a9",
+   "posted": "2026-10-06",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Vehicle Performance Modelling Engineer, Robotics",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/b6c681ff-1978-4211-93cd-53120a2164b2",
+   "posted": "2026-10-06",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Product Manager, AI Driver",
+   "location": "Leonberg, Germany \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/99ce7958-6dcb-480d-b9b7-192e81a7c4d6",
+   "posted": "2026-10-06",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Principal Machine Learning Engineer GAIA",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/e781b706-4494-472d-8831-74140ad1a10e",
+   "posted": "2026-10-06",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "VP Engineering, Robotaxi",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/ce8a1e83-a614-4d8d-b061-dddf53aec045",
+   "posted": "2026-10-06",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Machine Learning Engineering Manager, Application Software",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/e3933d8e-8619-4ff3-ad68-f696dc9abb68",
+   "posted": "2026-10-06",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Software Engineer - Runtime Platform, Robot Software",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/25e804f4-e223-4dd4-ae7a-a718c1bb17cd",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Applied Scientist / Machine Learning Engineer",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/f3f61d23-6149-4391-8caa-3b92d809338b",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Software Engineer, AI Libraries",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/82f389e1-b856-4157-ab24-f83f467329e5",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Principal Machine Learning Engineer, 3D Geometric Vision",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/5f43b884-459e-4a5f-b57c-2c20d48dcbc0",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff / Senior Machine Learning Engineer, Reinforcement Learning",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/5df6d6f2-5bf8-4623-97e3-4e82a940c674",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Search & Index",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/fac02342-0f11-4538-9c3c-844c191bf3c4",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff / Senior Machine Learning Engineer, AV Core",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/d614bce0-2db4-4c22-a154-4db38d37c535",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Data Scientist",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/f8c18681-a7fd-423a-8e52-bec06390ff62",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff SRE, AI Infrastructure",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/085402fd-1976-4725-bfc3-f0e9dd3bc2ab",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Platform Engineer, AI Enablement",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/40ecaa24-bc9e-4daf-bb06-5007346f7eb4",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Machine Learning Manager, Application Software",
+   "location": "Tokyo, Japan",
+   "url": "https://jobs.ashbyhq.com/wayve/06ed7991-07ff-414b-a1f7-3a38fd43687c",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Technical Product Manager - Robotaxi",
+   "location": "Tokyo, Japan",
+   "url": "https://jobs.ashbyhq.com/wayve/1666994e-b345-4dad-ad85-eac0f4fbcf0a",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Technical Program Manager, Robotaxi",
+   "location": "Tokyo, Japan",
+   "url": "https://jobs.ashbyhq.com/wayve/dbb2e7e2-6749-422b-a91c-c701af2f8ef2",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Tech Lead Manager, Machine Learning, Vision Models",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/1617f5f2-15af-4c8a-9d55-be6d693b702f",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Robotics Engineer",
+   "location": "Sunnyvale, California USA",
+   "url": "https://jobs.ashbyhq.com/wayve/8f7da5b3-a075-43c8-8601-2c82ec5b75e3",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Principal Software Engineer, Robot Software",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/544f2ba2-35f0-4c1c-a559-6d5abc248db3",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Software Engineer - OS, Robot Software",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/5642b27a-6fd5-4837-99ee-3819327f43b8",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Software Engineer - OS, Robot Software",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/aa7ad033-e6a1-43ca-a77f-6faa025479c2",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior / Staff Systems Engineer, AI Validation",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/15f91597-ffec-45c9-b31d-96dcbd5195af",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Software Engineer - Platform Integration, Robot Software",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/2412075e-c64b-4633-aa6c-a912ced41b22",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Machine Learning Engineer, Application Software",
+   "location": "Tokyo, Japan",
+   "url": "https://jobs.ashbyhq.com/wayve/2ecced98-f873-4228-ac11-f751dfbde267",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "ML Triaging Engineer",
+   "location": "Tokyo, Japan",
+   "url": "https://jobs.ashbyhq.com/wayve/eb5d4f5a-2b04-438b-9450-59da39d64714",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Lead Technical Program Manager, AI Platform",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/002821a8-dd53-4737-be19-dc3270f4d39b",
+   "posted": "2026-10-05",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Tech Lead - Remote Assist, Robotaxi",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/bdf6686e-52e9-45b6-9cf3-3de9645a9b04",
+   "posted": "2026-10-04",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Vice President, AI Data",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/df357b12-69f8-4ee9-a029-bc8494e4c69f",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Data Scientist, Data Quality & Provenance",
+   "location": "Leonberg, Germany",
+   "url": "https://jobs.ashbyhq.com/wayve/4cf45aa3-fccf-4d28-aaaa-0fb0732b8de1",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Robotaxi Commercial Manager",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/642556b2-a8c3-4ad2-876e-0ee029436db9",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff ML Performance Engineer, Performance Architecture",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/8c1987cf-2f02-4753-a93e-9d17c36b5a53",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Machine Learning Engineer, AI Performance",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/a5ed4581-e57b-405a-9636-de4f64abd28a",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Machine Learning Engineer, Application Software",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/ee26cd69-b81c-4696-8b2c-5002594fa455",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior ML Performance Engineer, Inference Optimisation",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/26b5f3a6-43ca-4168-a1b1-3926d5ffb6bd",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Robotics Generalist",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/e2f5355f-ac4e-4487-8cb5-a9f0d8cbb71e",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Senior Data Scientist",
+   "location": "Sunnyvale, California USA",
+   "url": "https://jobs.ashbyhq.com/wayve/6265ef50-5dc3-45c3-bf23-30f20a009969",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Engineering Manager, OS, Robot Software",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/f81da2a7-7ef3-4338-8957-90b10baf53f3",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Engineering Manager, Runtime Platform, Robot Software",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/34758430-ea52-4ebd-a850-0ea518a41385",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Software Engineer, Simulation",
+   "location": "London, United Kingdom",
+   "url": "https://jobs.ashbyhq.com/wayve/ff2f5234-99c2-4eae-b5c6-e8d719da4e4e",
+   "posted": "2026-10-02",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Robotics Engineer",
+   "location": "Austin, Texas, United States; South San Francisco, California, United States",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/8005705003?gh_jid=8005705003",
+   "posted": "2026-09-25",
+   "org": "Neuralink",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Software Engineer - Simulation",
+   "location": "Austin, Texas, United States; South San Francisco, California, United States",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003?gh_jid=8005762003",
+   "posted": "2026-09-25",
+   "org": "Neuralink",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Quality Engineer, Software Design Controls",
+   "location": "Austin, Texas, United States",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/7931610003?gh_jid=7931610003",
+   "posted": "2026-08-21",
+   "org": "Neuralink",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Electrical Engineer, Robotics",
+   "location": "Austin, Texas, United States; South San Francisco, California, United States",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/7813024003?gh_jid=7813024003",
+   "posted": "2026-07-22",
+   "org": "Neuralink",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Mechanical Engineer, Surgery & Robotics",
+   "location": "Austin, Texas, United States; South San Francisco, California, United States",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/7751605003?gh_jid=7751605003",
+   "posted": "2026-05-28",
+   "org": "Neuralink",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892965002",
+   "posted": "2026-10-15",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+   "location": "Remote - Germany",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002",
+   "posted": "2026-10-15",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+   "location": "Remote - France",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
+   "posted": "2026-10-15",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+   "location": "Remote - Sweden",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
+   "posted": "2026-10-15",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Automation Engineer",
+   "location": "Costa Rica",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829033002",
+   "posted": "2026-10-12",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Principal Brand Content & AI Search Visibility",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860653002",
+   "posted": "2026-10-08",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Specialist Solutions Architect -AI&ML Engineer",
+   "location": "Israel",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002",
+   "posted": "2026-10-06",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Data+AI Workforce Transformation Practitioner \u2014 Customer Delivery",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002",
+   "posted": "2026-10-05",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Manager, Engineering - AI/BI",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002",
+   "posted": "2026-10-02",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Manager, AI Forward Deployed Engineering",
+   "location": "Bengaluru, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8630019002",
+   "posted": "2026-09-30",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Customer Enablement Architect (Capability Engineering & AI Adoption)",
+   "location": "Sydney, Australia",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8792853002",
+   "posted": "2026-09-29",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Manager, AI Forward Deployed Engineering",
+   "location": "Stockholm, Sweden",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8845270002",
+   "posted": "2026-09-25",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Forward Deployed Engineer - Netherlands",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813464002",
+   "posted": "2026-09-16",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Forward Deployed Engineer - Sweden",
+   "location": "Stockholm, Sweden",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813515002",
+   "posted": "2026-09-16",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Manager, AI Forward Deployed Engineering - London",
+   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002",
+   "posted": "2026-09-16",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)",
+   "location": "Maryland; Virginia; Washington, D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+   "posted": "2026-08-28",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Transformation Leader",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7803651002",
+   "posted": "2026-08-25",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Specialist Solutions Architect - AWS Infrastructure & AI Platform",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002",
+   "posted": "2026-08-21",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Specialist Solutions Architect - Azure Infrastructure & AI Platform",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002",
+   "posted": "2026-08-21",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Technology Partner Director - AI Code-Gen & Apps",
+   "location": "Remote - California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8731212002",
+   "posted": "2026-08-20",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Specialist Solutions Architect - AI/ML",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002",
+   "posted": "2026-08-14",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Developer Advocate, AI and Machine Learning",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716192002",
+   "posted": "2026-08-14",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Developer Advocate, AI and Machine Learning",
+   "location": "Seattle, Washington",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716720002",
+   "posted": "2026-08-14",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior AI Engineer - FDE (Forward Deployed Engineer)",
+   "location": "Tokyo, Japan",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
+   "posted": "2026-08-03",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Applied ML Engineer - ML4Sys",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002",
+   "posted": "2026-08-03",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer- Foundation Model Inference",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002",
+   "posted": "2026-07-24",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Software Engineer, AI Native Web Platform",
+   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002",
+   "posted": "2026-07-15",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Forward Deployed Engineer - London",
+   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+   "posted": "2026-07-12",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Specialist Solutions Architect (AI/ML)",
+   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8615245002",
+   "posted": "2026-07-10",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
+   "posted": "2026-06-30",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Solutions Architect (Data & AI) - Leeds based",
+   "location": "Remote - United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
+   "posted": "2026-06-25",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Product Manager, Agentic AI Applications",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560772002",
+   "posted": "2026-06-23",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Specialist Solutions Architect - AI/ML",
+   "location": "Mumbai, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
+   "posted": "2026-06-16",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Specialist Solutions Architect - AI/ML",
+   "location": "Bengaluru, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
+   "posted": "2026-06-16",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Product Designer, AI Products",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8584704002",
+   "posted": "2026-06-11",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer, AI Native Web Platform",
+   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002",
+   "posted": "2026-06-11",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Software Engineer, AI Runtime",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002",
+   "posted": "2026-06-08",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer, AI Runtime",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002",
+   "posted": "2026-06-08",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+   "location": "Seoul, South Korea",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
+   "posted": "2026-06-04",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Manager, AI Forward Deployed Engineering",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574912002",
+   "posted": "2026-06-04",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Sr. Manager \u2013 Data & AI Support Engineering",
+   "location": "Plano, Texas",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7914730002",
+   "posted": "2026-06-04",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer, AI Search",
+   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578177002",
+   "posted": "2026-06-04",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Data Scientist",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5634684002",
+   "posted": "2026-05-27",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Principal AI Research Scientist, Research Director - AI Scaling",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8557780002",
+   "posted": "2026-05-20",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+   "posted": "2026-05-13",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Staff Applied AI Engineer - Context Retrieval",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002",
+   "posted": "2026-05-07",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer - AI Research Infrastructure",
+   "location": "New York City, New York; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002",
+   "posted": "2026-04-30",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Principal Research Scientist \u2013 Scaling",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8521190002",
+   "posted": "2026-04-23",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Intern, Frontier Speculative Decoding (Summer 2027)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007",
+   "posted": "2026-10-16",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Intern, Frontier Speculative Decoding (Winter 2027)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
+   "posted": "2026-10-16",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer - AI Compute, Together Cloud",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5261592007",
+   "posted": "2026-10-16",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer - AI Compute, Together Cloud",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5224090007",
+   "posted": "2026-09-23",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Intern, Frontier Agents (Summer 2027)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238468007",
+   "posted": "2026-09-18",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Intern, Frontier Agents (Winter 2027)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238467007",
+   "posted": "2026-09-18",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Intern, Inference (Summer 2027)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007",
+   "posted": "2026-09-18",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Intern, Inference (Winter 2027)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238461007",
+   "posted": "2026-09-18",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Intern, Model Shaping (Summer 2027)",
+   "location": "San Francisco, Amsterdam",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
+   "posted": "2026-09-18",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Intern, Model Shaping (Winter 2027)",
+   "location": "San Francisco, Amsterdam",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
+   "posted": "2026-09-18",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
+   "posted": "2026-09-18",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238411007",
+   "posted": "2026-09-18",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
+   "location": "Bangalore India",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5226095007",
+   "posted": "2026-09-11",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5213322007",
+   "posted": "2026-08-19",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking",
+   "location": "Singapore",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199993007",
+   "posted": "2026-08-04",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Engineer, Large-Scale Training",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199554007",
+   "posted": "2026-07-30",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5186628007",
+   "posted": "2026-07-16",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Research Engineer, Post-Training Inference",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5179372007",
+   "posted": "2026-07-06",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Product Manager, AI Infrastructure",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5172169007",
+   "posted": "2026-06-24",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5155722007",
+   "posted": "2026-06-04",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Machine Learning Engineer, Voice AI",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5140763007",
+   "posted": "2026-05-19",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "AI Infrastructure Systems Engineer",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5138540007",
+   "posted": "2026-05-14",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Forward Deployed Engineer (Inference & Post-Training)",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5131941007",
+   "posted": "2026-05-07",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
   },
   {
    "title": "Aerospace Engineering (UAS Autonomy and Geographical Information Systems), Assistant Professor",
