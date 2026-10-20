@@ -1,35 +1,48 @@
-name: Refresh conference data
+name: Refresh site data
 
 on:
   schedule:
-    - cron: "17 6 * * 1"   # every Monday, 06:17 UTC
-  workflow_dispatch:        # lets you run it by hand from the Actions tab
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/jobs.yml"
+      - "scripts/conferences.yml"
+      - "scripts/policies.yml"
 
 permissions:
   contents: write
+
+concurrency:
+  group: refresh-site-data
+  cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Fetch latest open dataset
-        run: git clone --depth 1 https://github.com/ccfddl/ccf-deadlines.git /tmp/ccfddl
-
-      - name: Rebuild data/data.js
+      - name: Install dependencies
+        run: pip install pyyaml
+      - name: Rebuild conference data
         run: |
-          pip install pyyaml
+          git clone --depth 1 https://github.com/ccfddl/ccf-deadlines.git /tmp/ccfddl
           python scripts/build_data.py /tmp/ccfddl
-
+      - name: Rebuild jobs data
+        run: python scripts/build_jobs.py
+      - name: Rebuild code & datasets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_resources.py /tmp/ccfddl
       - name: Commit if anything changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/data.js
-          git diff --cached --quiet || git commit -m "Refresh conference data"
+          git add data/data.js data/jobs.js data/resources.js data/calendar
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh site data"
+          git pull --rebase
           git push
