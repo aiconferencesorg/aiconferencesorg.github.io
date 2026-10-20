@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-10-20T00:46:11Z",
+ "generated": "2026-10-20T07:04:54Z",
  "conferences": [
   {
    "key": "nips",
@@ -240,6 +240,13 @@ window.CONF_DATA = {
      "accepted": 2609,
      "rate": 0.2754,
      "source": "https://csconfstats.xoveexu.com/"
+    },
+    {
+     "year": 2025,
+     "submitted": 12107,
+     "accepted": 3260,
+     "rate": 0.2693,
+     "source": "https://x.com/CSProfKGD/status/1917934488295768526"
     },
     {
      "year": 2026,
@@ -2811,6 +2818,20 @@ window.CONF_DATA = {
     "link": null
    },
    "rates": [
+    {
+     "year": 2024,
+     "submitted": 693,
+     "accepted": 264,
+     "rate": 0.381,
+     "source": "https://www.youtube.com/watch?v=Use5M-nfFlI&t=9740s"
+    },
+    {
+     "year": 2025,
+     "submitted": 737,
+     "accepted": 263,
+     "rate": 0.3569,
+     "source": "https://www.youtube.com/watch?v=Use5M-nfFlI&t=9740s"
+    },
     {
      "year": 2026,
      "submitted": 2094,
