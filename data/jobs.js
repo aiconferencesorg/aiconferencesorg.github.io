@@ -1,5 +1,5 @@
 window.JOBS_DATA = {
- "generated": "2026-10-21T07:06:58Z",
+ "generated": "2026-10-22T07:08:48Z",
  "boards": [
   {
    "name": "Anthropic",
@@ -7,7 +7,7 @@ window.JOBS_DATA = {
   },
   {
    "name": "xAI",
-   "count": 21
+   "count": 18
   },
   {
    "name": "Figure",
@@ -35,7 +35,7 @@ window.JOBS_DATA = {
   },
   {
    "name": "Cohere",
-   "count": 21
+   "count": 20
   },
   {
    "name": "Physical Intelligence",
@@ -51,7 +51,7 @@ window.JOBS_DATA = {
   },
   {
    "name": "Zoox",
-   "count": 34
+   "count": 32
   },
   {
    "name": "Toyota Research Institute",
@@ -75,7 +75,7 @@ window.JOBS_DATA = {
   },
   {
    "name": "Agility Robotics",
-   "count": 14
+   "count": 13
   },
   {
    "name": "Apptronik",
@@ -83,7 +83,7 @@ window.JOBS_DATA = {
   },
   {
    "name": "1X",
-   "count": 23
+   "count": 24
   },
   {
    "name": "Wayve",
@@ -115,7 +115,7 @@ window.JOBS_DATA = {
   },
   {
    "name": "Boston Dynamics",
-   "count": 11
+   "count": 10
   }
  ],
  "failed": [
@@ -180,8 +180,18 @@ window.JOBS_DATA = {
  "academic_sources": [
   "Chronicle Jobs"
  ],
- "academic_feed_count": 45,
+ "academic_feed_count": 43,
  "jobs": [
+  {
+   "title": "Research Engineer, Chip Design RL",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
+   "posted": "2026-10-21",
+   "org": "Anthropic",
+   "sector": "industry",
+   "type": "Research",
+   "source": "greenhouse"
+  },
   {
    "title": "Financial Data and Controls Lead, Billing Platform",
    "location": "San Francisco, CA | New York City, NY",
@@ -496,16 +506,6 @@ window.JOBS_DATA = {
    "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
    "location": "San Francisco, CA | New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
-   "posted": "2026-09-28",
-   "org": "Anthropic",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "Applied AI Engineer, Enterprise",
-   "location": "London, UK",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008",
    "posted": "2026-09-28",
    "org": "Anthropic",
    "sector": "industry",
@@ -883,36 +883,6 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "AI Tutor - Hausa",
-   "location": "Remote International",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5207427007",
-   "posted": "2026-08-07",
-   "org": "xAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "AI Tutor - Khmer",
-   "location": "Remote International",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5207593007",
-   "posted": "2026-08-07",
-   "org": "xAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "AI Tutor - Serbian",
-   "location": "Remote International",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5207586007",
-   "posted": "2026-08-07",
-   "org": "xAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
    "title": "AI Tutor - Yoruba",
    "location": "Remote International",
    "url": "https://job-boards.greenhouse.io/xai/jobs/5207581007",
@@ -1073,6 +1043,26 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
+   "title": "Planning Process Analyst",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267147007?gh_jid=5267147007",
+   "posted": "2026-10-21",
+   "org": "Anduril",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Winter 2027 Robotics Engineer Co-op",
+   "location": "Quincy, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007",
+   "posted": "2026-10-21",
+   "org": "Anduril",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "greenhouse"
+  },
+  {
    "title": "Inventory Control Supervisor",
    "location": "Quonset, Rhode Island, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270133007?gh_jid=5270133007",
@@ -1174,16 +1164,6 @@ window.JOBS_DATA = {
   },
   {
    "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007",
-   "posted": "2026-10-14",
-   "org": "Anduril",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
    "location": "Washington, District of Columbia, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265377007?gh_jid=5265377007",
    "posted": "2026-10-14",
@@ -1193,9 +1173,9 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Senior Product Designer, Mission Autonomy",
+   "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
    "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007",
    "posted": "2026-10-14",
    "org": "Anduril",
    "sector": "industry",
@@ -1206,6 +1186,16 @@ window.JOBS_DATA = {
    "title": "Senior Product Designer, Mission Autonomy",
    "location": "Washington, District of Columbia, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261560007?gh_jid=5261560007",
+   "posted": "2026-10-14",
+   "org": "Anduril",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Senior Product Designer, Mission Autonomy",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
    "posted": "2026-10-14",
    "org": "Anduril",
    "sector": "industry",
@@ -1333,26 +1323,6 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Systems Safety Engineer, Command & Control (C2)",
-   "location": "Waltham, Massachusetts, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260227007?gh_jid=5260227007",
-   "posted": "2026-10-07",
-   "org": "Anduril",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "Systems Safety Engineer, Command & Control (C2)",
-   "location": "Broomfield, Colorado, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209048007?gh_jid=5209048007",
-   "posted": "2026-10-07",
-   "org": "Anduril",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
    "title": "Manager, Demand & Supply Planning, Sentry",
    "location": "Costa Mesa, California, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237833007?gh_jid=5237833007",
@@ -1393,7 +1363,7 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Inventory Control Specialist",
+   "title": "Inventory Control Coordinator",
    "location": "Costa Mesa, California, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253705007?gh_jid=5253705007",
    "posted": "2026-10-05",
@@ -1493,16 +1463,6 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "2026 Guidance, Navigation & Control Engineer Intern",
-   "location": "Sydney, New South Wales, Australia",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007",
-   "posted": "2026-09-29",
-   "org": "Anduril",
-   "sector": "industry",
-   "type": "Internship",
-   "source": "greenhouse"
-  },
-  {
    "title": "Discovery Engineer (Modeling & Simulation)",
    "location": "Boston, Massachusetts, United States; Waltham, Massachusetts, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252657007?gh_jid=5252657007",
@@ -1534,8 +1494,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Senior Quality Engineer, Applied AI",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252216007?gh_jid=5252216007",
+   "location": "Seattle, Washington, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252217007?gh_jid=5252217007",
    "posted": "2026-09-29",
    "org": "Anduril",
    "sector": "industry",
@@ -1544,8 +1504,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Senior Quality Engineer, Applied AI",
-   "location": "Seattle, Washington, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252217007?gh_jid=5252217007",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5252216007?gh_jid=5252216007",
    "posted": "2026-09-29",
    "org": "Anduril",
    "sector": "industry",
@@ -1666,6 +1626,16 @@ window.JOBS_DATA = {
    "title": "Software Engineer- Machine Learning",
    "location": "Broomfield, Colorado, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5124403007?gh_jid=5124403007",
+   "posted": "2026-09-24",
+   "org": "Anduril",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Software Engineer- Machine Learning",
+   "location": "Waltham, Massachusetts, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248869007?gh_jid=5248869007",
    "posted": "2026-09-24",
    "org": "Anduril",
    "sector": "industry",
@@ -2040,6 +2010,86 @@ window.JOBS_DATA = {
    "org": "Skydio",
    "sector": "industry",
    "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Applied AI Engineer",
+   "location": "Sydney, Australia \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/openai/83730f3e-3a96-476e-afb0-15f1f045ab03",
+   "posted": "2026-10-22",
+   "org": "OpenAI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Machine Learning Data Scientist - Consumer Forecasting",
+   "location": "San Francisco \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/openai/0ca02747-5c97-432b-95c5-4b9099bce992",
+   "posted": "2026-10-22",
+   "org": "OpenAI",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Electrical Engineer, PCBA Test Infrastructure, Robotics",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/83939922-2a95-4cc0-b8ff-e1b15ed5254b",
+   "posted": "2026-10-22",
+   "org": "OpenAI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Manager, Cyber - Applied AI Architect",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/8ac9a248-4069-45cc-a00e-82f22f1e7ed2",
+   "posted": "2026-10-21",
+   "org": "OpenAI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Compute Electrical Engineer, Robotics",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/eb112d35-cd7e-45a4-8633-5d7ade298a39",
+   "posted": "2026-10-21",
+   "org": "OpenAI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Applied Scientist, Product Policy",
+   "location": "San Francisco \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/openai/6ef9babb-e210-496f-a004-fed919a9ed2d",
+   "posted": "2026-10-21",
+   "org": "OpenAI",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Research Scientist / Research Engineer, Search - Knowledge Graphs",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9",
+   "posted": "2026-10-21",
+   "org": "OpenAI",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Research Scientist / Research Engineer, Search Integrity",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101",
+   "posted": "2026-10-21",
+   "org": "OpenAI",
+   "sector": "industry",
+   "type": "Research",
    "source": "ashby"
   },
   {
@@ -2563,86 +2613,6 @@ window.JOBS_DATA = {
    "source": "ashby"
   },
   {
-   "title": "Network Operations Engineer, AI Networking",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/bbad4315-1f13-4b2f-b595-cf1287274f2f",
-   "posted": "2026-09-15",
-   "org": "OpenAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "Applied AI Engineer, Government, International",
-   "location": "London, UK \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a",
-   "posted": "2026-09-14",
-   "org": "OpenAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "AI Infrastructure Engineer, pAGI",
-   "location": "San Francisco \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba",
-   "posted": "2026-09-14",
-   "org": "OpenAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "Researcher, Safety Training, National Security",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/b60d3040-38e4-4abe-8af8-881286b10d50",
-   "posted": "2026-09-12",
-   "org": "OpenAI",
-   "sector": "industry",
-   "type": "Research",
-   "source": "ashby"
-  },
-  {
-   "title": "Research Engineer, AI for Chip Design",
-   "location": "San Francisco \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/openai/bd2b8228-bb0f-42e0-94bd-c853cdd56140",
-   "posted": "2026-09-11",
-   "org": "OpenAI",
-   "sector": "industry",
-   "type": "Research",
-   "source": "ashby"
-  },
-  {
-   "title": "Manager, Applied AI Engineering (Codex)",
-   "location": "Munich, Germany \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/openai/cc203d0d-96cd-4615-b5f1-3f25d6b08a95",
-   "posted": "2026-09-11",
-   "org": "OpenAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "Applied AI Engineer, Codex",
-   "location": "London, UK \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
-   "posted": "2026-09-11",
-   "org": "OpenAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "Partner Applied AI Engineer",
-   "location": "San Francisco \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd",
-   "posted": "2026-09-10",
-   "org": "OpenAI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
    "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
    "location": "Germany \u00b7 Remote",
    "url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
@@ -2767,16 +2737,6 @@ window.JOBS_DATA = {
    "location": "Europe \u00b7 Remote",
    "url": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
    "posted": "2026-08-13",
-   "org": "Cohere",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "Senior Manager of Financial Planning & Analysis",
-   "location": "San Francisco \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/cohere/5adf044a-a601-467a-bb92-807850b4f7ec",
-   "posted": "2026-07-21",
    "org": "Cohere",
    "sector": "industry",
    "type": "Engineering",
@@ -3093,7 +3053,7 @@ window.JOBS_DATA = {
    "source": "ashby"
   },
   {
-   "title": "Member of Technical Staff (General Software Engineer, Infrastructure)",
+   "title": "Member of Technical Staff (Software Engineer, Infrastructure & Platform)",
    "location": "San Francisco \u00b7 Remote",
    "url": "https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
    "posted": "2026-09-05",
@@ -3351,6 +3311,36 @@ window.JOBS_DATA = {
    "sector": "industry",
    "type": "Engineering",
    "source": "ashby"
+  },
+  {
+   "title": "Senior Manager, Autonomy (R5683)",
+   "location": "Melbourne",
+   "url": "https://jobs.lever.co/shieldai/7a8cac10-c350-4aa0-9982-4638568590ca",
+   "posted": "2026-10-22",
+   "org": "Shield AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "lever"
+  },
+  {
+   "title": "Senior Engineer, Autonomy Software Integration - San Mateo (R6246)",
+   "location": "San Mateo, California",
+   "url": "https://jobs.lever.co/shieldai/1f75db58-5185-48ce-888a-ae0074214b63",
+   "posted": "2026-10-21",
+   "org": "Shield AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "lever"
+  },
+  {
+   "title": "Staff Engineer, Autonomy Software Integration - San Mateo (R4483)",
+   "location": "San Mateo, California",
+   "url": "https://jobs.lever.co/shieldai/c572c4ac-5a16-40a7-ad56-aee3ebead2ef",
+   "posted": "2026-10-21",
+   "org": "Shield AI",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "lever"
   },
   {
    "title": "Senior Staff Engineer, Environmental Control Systems - Ranger (R6350)",
@@ -3663,7 +3653,7 @@ window.JOBS_DATA = {
    "source": "lever"
   },
   {
-   "title": "Senior Systems Engineer - Autonomy & Software",
+   "title": "Senior Systems Engineer - Autonomy & Software (5652)",
    "location": "London",
    "url": "https://jobs.lever.co/shieldai/e6ca46cf-f820-480c-927f-da1ca7912e80",
    "posted": "2026-09-09",
@@ -3683,7 +3673,7 @@ window.JOBS_DATA = {
    "source": "lever"
   },
   {
-   "title": "Senior Manager, Materials Planning & Logistics \u2013 Development Programs (R5252)",
+   "title": "Senior Manager, Production Planning & Logistics \u2013 Development Programs (R5252)",
    "location": "Seattle, Washington",
    "url": "https://jobs.lever.co/shieldai/10251839-d7c9-433a-ba29-ddfd103a92cc",
    "posted": "2026-09-08",
@@ -3923,33 +3913,13 @@ window.JOBS_DATA = {
    "source": "lever"
   },
   {
-   "title": "Senior Staff Engineer, Autonomy Software Integration & Test (R5539)",
-   "location": "London",
-   "url": "https://jobs.lever.co/shieldai/ed94166e-4bf4-4e8d-a8ac-733855ed6ddb",
-   "posted": "2026-08-06",
-   "org": "Shield AI",
+   "title": "Data Scientist, Fleet Orchestration Algorithms",
+   "location": "Foster City, CA",
+   "url": "https://jobs.lever.co/zoox/254559af-8372-403b-8220-9b49af400361",
+   "posted": "2026-10-21",
+   "org": "Zoox",
    "sector": "industry",
-   "type": "Engineering",
-   "source": "lever"
-  },
-  {
-   "title": "Senior Software Engineer, Autonomy Capabilities \u2013 Space (R5338)",
-   "location": "Boston, Massachusetts",
-   "url": "https://jobs.lever.co/shieldai/cc7f8c05-cff0-4222-9319-db05c7d544f3",
-   "posted": "2026-08-05",
-   "org": "Shield AI",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "lever"
-  },
-  {
-   "title": "Senior Staff Engineer, Autonomy Capabilities \u2013 Space (R5360)",
-   "location": "Washington, D.C.",
-   "url": "https://jobs.lever.co/shieldai/769cc40d-1eca-4aef-a560-eec86b2047ec",
-   "posted": "2026-08-05",
-   "org": "Shield AI",
-   "sector": "industry",
-   "type": "Engineering",
+   "type": "Research",
    "source": "lever"
   },
   {
@@ -4043,16 +4013,6 @@ window.JOBS_DATA = {
    "source": "lever"
   },
   {
-   "title": "Perception Deployment Engineer - Model Deployment & Optimization",
-   "location": "Foster City, CA",
-   "url": "https://jobs.lever.co/zoox/f2da6b2e-791a-49b1-87e6-d0313b105507",
-   "posted": "2026-09-30",
-   "org": "Zoox",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "lever"
-  },
-  {
    "title": "Senior Manager, Perception Data",
    "location": "Foster City, CA",
    "url": "https://jobs.lever.co/zoox/354121d1-018e-43fa-87a3-f29baf107d6f",
@@ -4133,16 +4093,6 @@ window.JOBS_DATA = {
    "source": "lever"
   },
   {
-   "title": "Contract Student Worker - Autonomy Safety Data Engineer",
-   "location": "Foster City, CA",
-   "url": "https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819",
-   "posted": "2026-09-03",
-   "org": "Zoox",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "lever"
-  },
-  {
    "title": "Senior Staff / Principal Software Engineer - Freeway Autonomy",
    "location": "Foster City, CA",
    "url": "https://jobs.lever.co/zoox/bea6c1d0-09dc-47db-9fff-ed2f33151763",
@@ -4207,16 +4157,6 @@ window.JOBS_DATA = {
    "location": "Foster City, CA",
    "url": "https://jobs.lever.co/zoox/a8a99e08-ac9d-4cfd-98cb-50eae1e96675",
    "posted": "2026-08-05",
-   "org": "Zoox",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "lever"
-  },
-  {
-   "title": "Software Engineer, Fleet Simulation (Core Data Science)",
-   "location": "Foster City, CA",
-   "url": "https://jobs.lever.co/zoox/18b6dfa0-d581-4d29-ac79-5d6e666aa9c3",
-   "posted": "2026-07-24",
    "org": "Zoox",
    "sector": "industry",
    "type": "Engineering",
@@ -4483,7 +4423,7 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Staff Controls Engineer",
+   "title": "Senior/Staff Controls Engineer",
    "location": "South San Francisco, California, USA",
    "url": "https://www.zipline.com/open-roles/7810074003?gh_jid=7810074003",
    "posted": "2026-07-20",
@@ -4723,16 +4663,6 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Staff Robotics Architect - Platform Software Specialist",
-   "location": "Hybrid- Fremont, CA",
-   "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6208306004",
-   "posted": "2026-10-01",
-   "org": "Agility Robotics",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
    "title": "Senior AI Software Engineer, Perception",
    "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)",
    "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6210999004",
@@ -4823,6 +4753,16 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
+   "title": "Staff Simulation Engineer - Core Simulation Platform",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/apptronik/jobs/6230951004?gh_jid=6230951004",
+   "posted": "2026-10-21",
+   "org": "Apptronik",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
    "title": "CoRL 2026 - Robotics & AI Talent",
    "location": "Austin, Texas & Sunnyvale, California ",
    "url": "https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004",
@@ -4857,16 +4797,6 @@ window.JOBS_DATA = {
    "location": "Austin, TX",
    "url": "https://boards.greenhouse.io/apptronik/jobs/6185506004?gh_jid=6185506004",
    "posted": "2026-09-10",
-   "org": "Apptronik",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "Staff Simulation Architect - Core Simulation Platform",
-   "location": "Austin, TX",
-   "url": "https://boards.greenhouse.io/apptronik/jobs/6179902004?gh_jid=6179902004",
-   "posted": "2026-09-02",
    "org": "Apptronik",
    "sector": "industry",
    "type": "Engineering",
@@ -4981,6 +4911,16 @@ window.JOBS_DATA = {
    "sector": "industry",
    "type": "Engineering",
    "source": "greenhouse"
+  },
+  {
+   "title": "Senior Motor Control Engineer",
+   "location": "San Carlos, CA",
+   "url": "https://jobs.ashbyhq.com/1x/7e9120d6-87d0-458b-b0ec-3b6ea5ea9dc7",
+   "posted": "2026-10-21",
+   "org": "1X",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
   },
   {
    "title": "Assembly Technician - Robot Body",
@@ -5213,6 +5153,56 @@ window.JOBS_DATA = {
    "source": "ashby"
   },
   {
+   "title": "Senior/Staff Data Scientist",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/cbaf555f-8eb8-41dc-9c1c-e225da4f6a8c",
+   "posted": "2026-10-21",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Research",
+   "source": "ashby"
+  },
+  {
+   "title": "Roboticist, Robot Foundation Model",
+   "location": "Sunnyvale, California USA",
+   "url": "https://jobs.ashbyhq.com/wayve/e201a0a5-23a8-4344-a8a2-1426bff49c65",
+   "posted": "2026-10-21",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Principal Validation Tech Lead / Manager, L4 Driverless Autonomy",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/210d19ef-3b86-4a04-9d1c-622d456e33ce",
+   "posted": "2026-10-21",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Staff Machine Learning Engineer, Robotics",
+   "location": "Sunnyvale, California USA \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/94f9b9c6-a4f6-45d8-bd61-7265d659a4e5",
+   "posted": "2026-10-21",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
+   "title": "Release Manager - AI Models",
+   "location": "London, United Kingdom \u00b7 Remote",
+   "url": "https://jobs.ashbyhq.com/wayve/c8056c08-472a-4d64-8d69-a6520083bf80",
+   "posted": "2026-10-21",
+   "org": "Wayve",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "ashby"
+  },
+  {
    "title": "Engineering Manager, Experiment Platform, Robot Software",
    "location": "London, United Kingdom \u00b7 Remote",
    "url": "https://jobs.ashbyhq.com/wayve/438bc870-6abc-42a2-be78-1bc746a56a90",
@@ -5370,16 +5360,6 @@ window.JOBS_DATA = {
    "org": "Wayve",
    "sector": "industry",
    "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "Senior/Staff Data Scientist",
-   "location": "Sunnyvale, California USA \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/wayve/cbaf555f-8eb8-41dc-9c1c-e225da4f6a8c",
-   "posted": "2026-10-06",
-   "org": "Wayve",
-   "sector": "industry",
-   "type": "Research",
    "source": "ashby"
   },
   {
@@ -5583,16 +5563,6 @@ window.JOBS_DATA = {
    "source": "ashby"
   },
   {
-   "title": "Staff Tech Lead Manager, Machine Learning, Vision Models",
-   "location": "London, United Kingdom \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/wayve/1617f5f2-15af-4c8a-9d55-be6d693b702f",
-   "posted": "2026-10-05",
-   "org": "Wayve",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
    "title": "Staff Robotics Engineer",
    "location": "Sunnyvale, California USA",
    "url": "https://jobs.ashbyhq.com/wayve/8f7da5b3-a075-43c8-8601-2c82ec5b75e3",
@@ -5763,16 +5733,6 @@ window.JOBS_DATA = {
    "source": "ashby"
   },
   {
-   "title": "Robotics Generalist",
-   "location": "Sunnyvale, California USA \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/wayve/e2f5355f-ac4e-4487-8cb5-a9f0d8cbb71e",
-   "posted": "2026-10-02",
-   "org": "Wayve",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
    "title": "Senior Data Scientist",
    "location": "Sunnyvale, California USA",
    "url": "https://jobs.ashbyhq.com/wayve/6265ef50-5dc3-45c3-bf23-30f20a009969",
@@ -5786,26 +5746,6 @@ window.JOBS_DATA = {
    "title": "Engineering Manager, OS, Robot Software",
    "location": "Sunnyvale, California USA \u00b7 Remote",
    "url": "https://jobs.ashbyhq.com/wayve/f81da2a7-7ef3-4338-8957-90b10baf53f3",
-   "posted": "2026-10-02",
-   "org": "Wayve",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "Engineering Manager, Runtime Platform, Robot Software",
-   "location": "London, United Kingdom \u00b7 Remote",
-   "url": "https://jobs.ashbyhq.com/wayve/34758430-ea52-4ebd-a850-0ea518a41385",
-   "posted": "2026-10-02",
-   "org": "Wayve",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "ashby"
-  },
-  {
-   "title": "Software Engineer, Simulation",
-   "location": "London, United Kingdom",
-   "url": "https://jobs.ashbyhq.com/wayve/ff2f5234-99c2-4eae-b5c6-e8d719da4e4e",
    "posted": "2026-10-02",
    "org": "Wayve",
    "sector": "industry",
@@ -5864,6 +5804,16 @@ window.JOBS_DATA = {
   },
   {
    "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892965002",
+   "posted": "2026-10-15",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
    "location": "Remote - France",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
    "posted": "2026-10-15",
@@ -5876,16 +5826,6 @@ window.JOBS_DATA = {
    "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
    "location": "Remote - Sweden",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
-   "posted": "2026-10-15",
-   "org": "Databricks",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892965002",
    "posted": "2026-10-15",
    "org": "Databricks",
    "sector": "industry",
@@ -6133,16 +6073,6 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Staff Software Engineer, AI Native Web Platform",
-   "location": "Mountain View, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002",
-   "posted": "2026-07-15",
-   "org": "Databricks",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
    "title": "AI Forward Deployed Engineer - London",
    "location": "London, United Kingdom",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
@@ -6194,8 +6124,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Specialist Solutions Architect - AI/ML",
-   "location": "Bengaluru, India",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
+   "location": "Mumbai, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
    "posted": "2026-06-16",
    "org": "Databricks",
    "sector": "industry",
@@ -6204,8 +6134,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Specialist Solutions Architect - AI/ML",
-   "location": "Mumbai, India",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
+   "location": "Bengaluru, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
    "posted": "2026-06-16",
    "org": "Databricks",
    "sector": "industry",
@@ -6216,6 +6146,16 @@ window.JOBS_DATA = {
    "title": "Staff Product Designer, AI Products",
    "location": "New York City, New York",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8584704002",
+   "posted": "2026-06-11",
+   "org": "Databricks",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Staff Software Engineer, AI Native Web Platform",
+   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002",
    "posted": "2026-06-11",
    "org": "Databricks",
    "sector": "industry",
@@ -6573,6 +6513,86 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
+   "title": "Applied & Research Scientist - Safe Autonomy Frontiers (SAF) Lab, Safe Autonomy Frontiers (SAF) Lab",
+   "location": "Pasadena, California, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10585615/applied-research-scientist-safe-autonomy-frontiers-saf-lab-safe-autonomy-frontiers-saf-lab",
+   "posted": "2026-10-21",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Research",
+   "source": "amazon"
+  },
+  {
+   "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
+   "location": "Bucharest, ROU",
+   "url": "https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
+   "posted": "2026-10-21",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "amazon"
+  },
+  {
+   "title": "2027 Applied Scientist Internship \u2013 Masters, Amazon University Talent Acquisition",
+   "location": "Tel Aviv-Yafo, Tel Aviv, ISR",
+   "url": "https://www.amazon.jobs/en/jobs/10584990/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition",
+   "posted": "2026-10-21",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Internship",
+   "source": "amazon"
+  },
+  {
+   "title": "Applied Scientist II",
+   "location": "North Reading, Massachusetts, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10585203/applied-scientist-ii",
+   "posted": "2026-10-21",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Research",
+   "source": "amazon"
+  },
+  {
+   "title": "Applied Scientist",
+   "location": "Newark, New Jersey, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10583959/applied-scientist",
+   "posted": "2026-10-21",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Research",
+   "source": "amazon"
+  },
+  {
+   "title": "Senior Applied Scientist, Selling Partner Selection Success",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10585576/senior-applied-scientist-selling-partner-selection-success",
+   "posted": "2026-10-21",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Research",
+   "source": "amazon"
+  },
+  {
+   "title": "Sr. Machine Learning Engineer, Prime Video Personalization and Discovery",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10585535/sr-machine-learning-engineer-prime-video-personalization-and-discovery",
+   "posted": "2026-10-21",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "amazon"
+  },
+  {
+   "title": "Senior Software Development Engineer, Shopping Personalization AI",
+   "location": "Tel Aviv-Yafo, Tel Aviv, ISR",
+   "url": "https://www.amazon.jobs/en/jobs/10584950/senior-software-development-engineer-shopping-personalization-ai",
+   "posted": "2026-10-21",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "amazon"
+  },
+  {
    "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
    "location": "Cupertino, California, USA",
    "url": "https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
@@ -6593,9 +6613,19 @@ window.JOBS_DATA = {
    "source": "amazon"
   },
   {
+   "title": "Senior Applied Scientist- Robotics/AI Motor , Fauna",
+   "location": "New York, New York, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10583802/senior-applied-scientist-robotics-ai-motor-fauna",
+   "posted": "2026-10-20",
+   "org": "Amazon",
+   "sector": "industry",
+   "type": "Research",
+   "source": "amazon"
+  },
+  {
    "title": "Robotics/AI Motor Control Scientist, Fauna",
    "location": "New York, New York, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10583802/robotics-ai-motor-control-scientist-fauna",
+   "url": "https://www.amazon.jobs/en/jobs/10583806/robotics-ai-motor-control-scientist-fauna",
    "posted": "2026-10-20",
    "org": "Amazon",
    "sector": "industry",
@@ -6983,29 +7013,9 @@ window.JOBS_DATA = {
    "source": "amazon"
   },
   {
-   "title": "Innovation lab Lead, Fulfillment Centre Operations",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10581404/innovation-lab-lead-fulfillment-centre-operations",
-   "posted": "2026-10-16",
-   "org": "Amazon",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "amazon"
-  },
-  {
    "title": "Senior Applied Scientist, Fauna",
    "location": "Sunnyvale, California, USA",
    "url": "https://www.amazon.jobs/en/jobs/10580777/senior-applied-scientist-fauna",
-   "posted": "2026-10-15",
-   "org": "Amazon",
-   "sector": "industry",
-   "type": "Research",
-   "source": "amazon"
-  },
-  {
-   "title": "Senior Applied Scientist, Sponsored Products and Brands Off-Search",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10580323/senior-applied-scientist-sponsored-products-and-brands-off-search",
    "posted": "2026-10-15",
    "org": "Amazon",
    "sector": "industry",
@@ -7103,74 +7113,24 @@ window.JOBS_DATA = {
    "source": "amazon"
   },
   {
-   "title": "Applied Scientist, Advertising Trust",
-   "location": "New York, New York, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10580369/applied-scientist-advertising-trust",
-   "posted": "2026-10-15",
-   "org": "Amazon",
+   "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+   "posted": "2026-10-21",
+   "org": "NVIDIA",
    "sector": "industry",
-   "type": "Research",
-   "source": "amazon"
+   "type": "Internship",
+   "source": "workday"
   },
   {
-   "title": "NW Deployment Planner I, GND - Planning, Implementation, Coordination (PIC) Team",
-   "location": "Herndon, Virginia, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10580494/nw-deployment-planner-i-gnd-planning-implementation-coordination-pic-team",
-   "posted": "2026-10-15",
-   "org": "Amazon",
+   "title": "Deep Learning Compiler CI and Infrastructure Engineer",
+   "location": "China, Shanghai",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-CI-Infrastructure-Engineer_JR2020326",
+   "posted": "2026-10-21",
+   "org": "NVIDIA",
    "sector": "industry",
    "type": "Engineering",
-   "source": "amazon"
-  },
-  {
-   "title": "Applied Scientist III - AMZ10564053",
-   "location": "Santa Monica, California, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10579121/applied-scientist-iii-amz10564053",
-   "posted": "2026-10-14",
-   "org": "Amazon",
-   "sector": "industry",
-   "type": "Research",
-   "source": "amazon"
-  },
-  {
-   "title": "Senior Applied Scientist, Materials and Process Development, AWS Center for Quantum Computing",
-   "location": "Pasadena, California, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10579007/senior-applied-scientist-materials-and-process-development-aws-center-for-quantum-computing",
-   "posted": "2026-10-14",
-   "org": "Amazon",
-   "sector": "industry",
-   "type": "Research",
-   "source": "amazon"
-  },
-  {
-   "title": "Applied Scientist, Alexa Sensitive Content Intelligence (ASCI)",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578603/applied-scientist-alexa-sensitive-content-intelligence-asci",
-   "posted": "2026-10-14",
-   "org": "Amazon",
-   "sector": "industry",
-   "type": "Research",
-   "source": "amazon"
-  },
-  {
-   "title": "Senior Applied Scientist, Alexa Sensitive Content Intelligence (ASCI)",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578604/senior-applied-scientist-alexa-sensitive-content-intelligence-asci",
-   "posted": "2026-10-14",
-   "org": "Amazon",
-   "sector": "industry",
-   "type": "Research",
-   "source": "amazon"
-  },
-  {
-   "title": "Applied Scientist II, Detail Page",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578474/applied-scientist-ii-detail-page",
-   "posted": "2026-10-14",
-   "org": "Amazon",
-   "sector": "industry",
-   "type": "Research",
-   "source": "amazon"
+   "source": "workday"
   },
   {
    "title": "Senior Research Scientist - AI Security",
@@ -7753,26 +7713,6 @@ window.JOBS_DATA = {
    "source": "workday"
   },
   {
-   "title": "Developer Technology Engineer \u2013 AI",
-   "location": "3 Locations",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2026261",
-   "posted": "2026-09-23",
-   "org": "NVIDIA",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "workday"
-  },
-  {
-   "title": "Technical Lead, GenAI - Autonomous Vehicles",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Lead--GenAI---Autonomous-Vehicles_JR2026501",
-   "posted": "2026-09-23",
-   "org": "NVIDIA",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "workday"
-  },
-  {
    "title": "Staff Roboticist- Stretch Manipulation",
    "location": "Waltham, MA",
    "url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-MA/Senior-Roboticist--Stretch-Manipulation_R3272-1",
@@ -7816,16 +7756,6 @@ window.JOBS_DATA = {
    "title": "Manager, Machine Learning on Orbit",
    "location": "Waltham Office (POST)",
    "url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Manager--Machine-Learning-on-Orbit_R2890",
-   "posted": null,
-   "org": "Boston Dynamics",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "workday"
-  },
-  {
-   "title": "Staff Robotics Simulation Engineer, Hardware",
-   "location": "Waltham, MA",
-   "url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-MA/Staff-Robotics-Simulation-Engineer--Hardware_R3203",
    "posted": null,
    "org": "Boston Dynamics",
    "sector": "industry",
@@ -7881,6 +7811,16 @@ window.JOBS_DATA = {
    "sector": "industry",
    "type": "Engineering",
    "source": "workday"
+  },
+  {
+   "title": "Assistant Professor in Artificial Intelligence for Animal Improvement",
+   "org": "Department of Animal Sciences",
+   "location": "Indianapolis, Indiana (US)",
+   "url": "https://jobs.chronicle.com/job/38054564/assistant-professor-in-artificial-intelligence-for-animal-improvement/",
+   "sector": "academic",
+   "type": "Faculty",
+   "posted": "2026-10-21",
+   "source": "Chronicle Jobs"
   },
   {
    "title": "Assistant Professor, Industrial and Systems Engineering (Advanced Manufacturing Operations and",
@@ -7947,16 +7887,6 @@ window.JOBS_DATA = {
    "org": "Mohamed bin Zayed University of Artificial Intelligence",
    "location": "Abu Dhabi, UAE",
    "url": "https://jobs.chronicle.com/job/38051285/assistant-associate-professor-faculty-positions-in-robotics-physical-ai-fields-robotics/",
-   "sector": "academic",
-   "type": "Faculty",
-   "posted": "2026-10-14",
-   "source": "Chronicle Jobs"
-  },
-  {
-   "title": "Assistant/Associate Professor Faculty Positions in Robotics Physical AI - Manipulation",
-   "org": "Mohamed bin Zayed University of Artificial Intelligence",
-   "location": "Abu Dhabi, UAE",
-   "url": "https://jobs.chronicle.com/job/38051288/assistant-associate-professor-faculty-positions-in-robotics-physical-ai-manipulation/",
    "sector": "academic",
    "type": "Faculty",
    "posted": "2026-10-14",
@@ -8113,16 +8043,6 @@ window.JOBS_DATA = {
    "source": "Chronicle Jobs"
   },
   {
-   "title": "Assistant Professor of Computer Science (Artificial Intelligence)",
-   "org": "Texas A",
-   "location": "Texas, United States",
-   "url": "https://jobs.chronicle.com/job/38046781/assistant-professor-of-computer-science-artificial-intelligence-/",
-   "sector": "academic",
-   "type": "Faculty",
-   "posted": "2026-10-02",
-   "source": "Chronicle Jobs"
-  },
-  {
    "title": "Research Scientist - Computer Vision",
    "org": "Mohamed bin Zayed University of Artificial Intelligence",
    "location": "Abu Dhabi, United Arab Emirates",
@@ -8199,16 +8119,6 @@ window.JOBS_DATA = {
    "url": "https://jobs.chronicle.com/job/38040246/department-chair-robotics/",
    "sector": "academic",
    "type": "Faculty",
-   "posted": "2026-09-17",
-   "source": "Chronicle Jobs"
-  },
-  {
-   "title": "Postdoctoral Researcher in Scientific Machine Learning and Computational Biology",
-   "org": "Johns Hopkins University",
-   "location": "Baltimore, Maryland, United States",
-   "url": "https://jobs.chronicle.com/job/38046140/postdoctoral-researcher-in-scientific-machine-learning-and-computational-biology/",
-   "sector": "academic",
-   "type": "Postdoc",
    "posted": "2026-09-17",
    "source": "Chronicle Jobs"
   },
