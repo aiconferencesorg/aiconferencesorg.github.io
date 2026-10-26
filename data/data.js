@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-10-25T07:03:17Z",
+ "generated": "2026-10-26T07:12:34Z",
  "conferences": [
   {
    "key": "nips",
@@ -1666,7 +1666,13 @@ window.CONF_DATA = {
        "local": "2026-05-29 23:59 AoE"
       }
      ],
-     "decisions": []
+     "decisions": [
+      {
+       "label": "",
+       "utc": "2026-08-08T11:59:59Z",
+       "local": "2026-08-07 23:59 AoE"
+      }
+     ]
     }
    ],
    "estimate": {
