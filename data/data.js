@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-10-26T07:12:34Z",
+ "generated": "2026-10-27T07:07:18Z",
  "conferences": [
   {
    "key": "nips",
@@ -754,23 +754,24 @@ window.CONF_DATA = {
      "link": "https://learningtheory.org/colt2027/",
      "date": "June 28 - July 2, 2027",
      "place": "Tokyo, Japan",
-     "deadlines": [],
-     "decisions": []
+     "deadlines": [
+      {
+       "label": "Paper",
+       "note": "Expected rebuttal March 29 - April 2; author notification on or before May 3.",
+       "utc": "2027-01-30T11:59:59Z",
+       "local": "2027-01-29 23:59 AoE"
+      }
+     ],
+     "decisions": [
+      {
+       "label": "",
+       "utc": "2027-05-04T11:59:59Z",
+       "local": "2027-05-03 23:59 AoE"
+      }
+     ]
     }
    ],
-   "estimate": {
-    "year": 2027,
-    "from_year": 2026,
-    "deadlines": [
-     {
-      "label": "Paper",
-      "note": "",
-      "utc": "2027-02-05T11:59:59Z",
-      "local": "~Feb 05, 2027 (projected)"
-     }
-    ],
-    "link": "https://learningtheory.org/colt2027/"
-   },
+   "estimate": null,
    "rates": [
     {
      "year": 2020,
@@ -819,31 +820,45 @@ window.CONF_DATA = {
    "planning": [
     {
      "year": 2027,
-     "projected": true,
-     "from_year": 2026,
-     "link": null,
-     "date": null,
+     "projected": false,
+     "link": "https://learningtheory.org/colt2027/",
+     "date": "June 28 - July 2, 2027",
      "deadlines": [
       {
        "label": "Paper",
-       "note": "",
-       "utc": "2027-02-05T11:59:59Z",
-       "local": "2026-02-04 23:59 AoE"
+       "note": "Expected rebuttal March 29 - April 2; author notification on or before May 3.",
+       "utc": "2027-01-30T11:59:59Z",
+       "local": "2027-01-29 23:59 AoE"
       }
      ]
     },
     {
      "year": 2028,
      "projected": true,
-     "from_year": 2026,
+     "from_year": 2027,
      "link": null,
      "date": null,
      "deadlines": [
       {
        "label": "Paper",
-       "note": "",
-       "utc": "2028-02-05T11:59:59Z",
-       "local": "2026-02-04 23:59 AoE"
+       "note": "Expected rebuttal March 29 - April 2; author notification on or before May 3.",
+       "utc": "2028-01-30T11:59:59Z",
+       "local": "2027-01-29 23:59 AoE"
+      }
+     ]
+    },
+    {
+     "year": 2029,
+     "projected": true,
+     "from_year": 2027,
+     "link": null,
+     "date": null,
+     "deadlines": [
+      {
+       "label": "Paper",
+       "note": "Expected rebuttal March 29 - April 2; author notification on or before May 3.",
+       "utc": "2029-01-30T11:59:59Z",
+       "local": "2027-01-29 23:59 AoE"
       }
      ]
     }
@@ -2801,7 +2816,13 @@ window.CONF_DATA = {
        "local": "2026-05-28 23:59 AoE"
       }
      ],
-     "decisions": []
+     "decisions": [
+      {
+       "label": "",
+       "utc": "2026-09-05T11:59:59Z",
+       "local": "2026-09-04 23:59 AoE"
+      }
+     ]
     }
    ],
    "estimate": {
