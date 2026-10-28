@@ -1,5 +1,5 @@
 window.RESOURCES_DATA = {
- "generated": "2026-10-27T07:08:01Z",
+ "generated": "2026-10-28T07:20:27Z",
  "years": [
   "2026",
   "2025",
@@ -18,7 +18,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "OpenDCAI/DataFlex",
-       "stars": 3270,
+       "stars": 3285,
        "desc": "[NeurIPS 2026] DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models",
        "kind": "data",
        "real": false,
@@ -26,7 +26,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "wuyoscar/Internal-Safety-Collapse",
-       "stars": 2371,
+       "stars": 2439,
        "desc": "[NeurIPS 2026] Safety failures in coding agents and frontier LLMs. Reproducible workspaces for studying when AI agents generate unsafe data during task completion.",
        "kind": "code",
        "real": false,
@@ -34,7 +34,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "nv-tlabs/PiD",
-       "stars": 1082,
+       "stars": 1084,
        "desc": "[NeurIPS 2026] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
        "kind": "code",
        "real": false,
@@ -42,7 +42,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "NVlabs/PixelDiT",
-       "stars": 1002,
+       "stars": 1003,
        "desc": "[CVPR 2026 Best Paper Finalist & NeurIPS 2026]",
        "kind": "code",
        "real": false,
@@ -50,7 +50,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "RecursiveMAS/RecursiveMAS",
-       "stars": 979,
+       "stars": 981,
        "desc": "[NeurIPS 2026] Recursive Multi-Agent Systems",
        "kind": "code",
        "real": false,
@@ -66,7 +66,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "chiennv2000/orthrus",
-       "stars": 482,
+       "stars": 483,
        "desc": "[NeurIPS 2026 Spotlight] Fast, lossless LLM inference via dual-view diffusion decoding.",
        "kind": "code",
        "real": false,
@@ -74,7 +74,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Anttwo/Surflo",
-       "stars": 457,
+       "stars": 458,
        "desc": "[NeurIPS 2026 - Oral] Official implementation of Surflo: Consistent 3D Surface Flow Model with Global State.",
        "kind": "code",
        "real": false,
@@ -90,7 +90,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "facebookresearch/VLM3",
-       "stars": 438,
+       "stars": 439,
        "desc": "[NeurIPS 2026] Official implementation of paper \"VLM³: Vision Language Models Are Native 3D Learners\".",
        "kind": "code",
        "real": false,
@@ -98,7 +98,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "haolpku/K12-KGraph",
-       "stars": 433,
+       "stars": 436,
        "desc": "[NeurIPS 2026] A curriculum-aligned knowledge graph, benchmark, and multimodal training dataset for educational LLMs.",
        "kind": "data",
        "real": false,
@@ -119,7 +119,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "manycore-research/SpatialLM",
-       "stars": 5102,
+       "stars": 5105,
        "desc": "[NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling",
        "kind": "code",
        "real": false,
@@ -127,7 +127,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Paper2Poster/Paper2Poster",
-       "stars": 4010,
+       "stars": 4015,
        "desc": "[NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers",
        "kind": "code",
        "real": false,
@@ -135,7 +135,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "guandeh17/Self-Forcing",
-       "stars": 3554,
+       "stars": 3555,
        "desc": "Official codebase for \"Self Forcing: Bridging Training and Inference in Autoregressive Video Diffusion\" (NeurIPS 2025 Spotlight)",
        "kind": "code",
        "real": false,
@@ -143,7 +143,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "MeiGen-AI/MultiTalk",
-       "stars": 3028,
+       "stars": 3027,
        "desc": "[NeurIPS 2025] Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation",
        "kind": "code",
        "real": false,
@@ -159,7 +159,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "OmniSVG/OmniSVG",
-       "stars": 2648,
+       "stars": 2649,
        "desc": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.",
        "kind": "code",
        "real": false,
@@ -183,7 +183,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "wgsxm/PartCrafter",
-       "stars": 2498,
+       "stars": 2499,
        "desc": "[NeurIPS 2025] PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers",
        "kind": "code",
        "real": false,
@@ -220,7 +220,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "SWE-agent/SWE-agent",
-       "stars": 20649,
+       "stars": 20662,
        "desc": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]",
        "kind": "code",
        "real": false,
@@ -228,7 +228,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "THU-MIG/yolov10",
-       "stars": 11344,
+       "stars": 11342,
        "desc": "YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]",
        "kind": "code",
        "real": false,
@@ -236,7 +236,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "DepthAnything/Depth-Anything-V2",
-       "stars": 9037,
+       "stars": 9041,
        "desc": "[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation",
        "kind": "code",
        "real": false,
@@ -244,7 +244,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "FoundationVision/VAR",
-       "stars": 8762,
+       "stars": 8761,
        "desc": "[NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of",
        "kind": "code",
        "real": false,
@@ -260,7 +260,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "AiuniAI/Unique3D",
-       "stars": 3596,
+       "stars": 3595,
        "desc": "[NeurIPS 2024] Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image",
        "kind": "code",
        "real": false,
@@ -276,7 +276,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "xlang-ai/OSWorld",
-       "stars": 3238,
+       "stars": 3239,
        "desc": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
        "kind": "data",
        "real": false,
@@ -329,7 +329,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "RoboTwin-Platform/RoboTwin",
-       "stars": 3010,
+       "stars": 3012,
        "desc": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
        "kind": "code",
        "real": false,
@@ -337,7 +337,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "showlab/Code2Video",
-       "stars": 2175,
+       "stars": 2176,
        "desc": "[ICML 2026] Video generation via code",
        "kind": "code",
        "real": false,
@@ -353,7 +353,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Gen-Verse/LatentMAS",
-       "stars": 1161,
+       "stars": 1166,
        "desc": "[ICML 2026 Spotlight] Latent Collaboration in Multi-Agent Systems",
        "kind": "code",
        "real": false,
@@ -385,7 +385,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Osilly/Vision-DeepResearch",
-       "stars": 690,
+       "stars": 691,
        "desc": "[ICML 2026 & EMNLP 2026] Multimodal deep-research MLLM and benchmark. The first long-horizon multimodal deep-research MLLM, extending the number of reasoning turns to dozens and the number of search-engine interactions to hundreds.",
        "kind": "data",
        "real": false,
@@ -409,7 +409,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "nepfaff/scenesmith",
-       "stars": 641,
+       "stars": 642,
        "desc": "Code for \"SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes\", ICML 2026 Spotlight",
        "kind": "code",
        "real": false,
@@ -446,7 +446,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "thu-ml/DiT-Extrapolation",
-       "stars": 832,
+       "stars": 833,
        "desc": "Official implementation for \"RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers\" (ICML 2025) , UltraViCo (ICLR 2026) and UltraImage",
        "kind": "code",
        "real": false,
@@ -454,7 +454,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "SWE-Gym/SWE-Gym",
-       "stars": 753,
+       "stars": 754,
        "desc": "Code for Paper: Training Software Engineering Agents and Verifiers with SWE-Gym [ICML 2025]",
        "kind": "data",
        "real": false,
@@ -571,7 +571,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "facebookresearch/MobileLLM",
-       "stars": 1468,
+       "stars": 1470,
        "desc": "MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024.",
        "kind": "code",
        "real": true,
@@ -595,7 +595,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "thuml/Large-Time-Series-Model",
-       "stars": 1023,
+       "stars": 1024,
        "desc": "Official code, datasets and checkpoints for \"Timer: Generative Pre-trained Transformers Are Large Time Series Models\" (ICML 2024) and subsequent works",
        "kind": "data",
        "real": false,
@@ -640,7 +640,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "roboflow/rf-detr",
-       "stars": 9905,
+       "stars": 9920,
        "desc": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]",
        "kind": "code",
        "real": false,
@@ -648,7 +648,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "yyfz/Pi3",
-       "stars": 2232,
+       "stars": 2233,
        "desc": "[ICLR 2026] π^3: Permutation-Equivariant Visual Geometry Learning",
        "kind": "code",
        "real": false,
@@ -656,7 +656,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "PRIME-RL/SimpleVLA-RL",
-       "stars": 1896,
+       "stars": 1897,
        "desc": "[ICLR 2026] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning",
        "kind": "code",
        "real": false,
@@ -680,7 +680,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "W2GenAI-Lab/LucidFlux",
-       "stars": 1299,
+       "stars": 1301,
        "desc": "LucidFlux: Caption-Free Photo-Realistic Image Restoration via a Large-Scale Diffusion Transformer, ICLR 2026",
        "kind": "code",
        "real": false,
@@ -696,7 +696,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "zjunlp/LightMem",
-       "stars": 1204,
+       "stars": 1206,
        "desc": "[ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation",
        "kind": "code",
        "real": false,
@@ -704,7 +704,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "OpenGVLab/ScaleCUA",
-       "stars": 1149,
+       "stars": 1151,
        "desc": "[ICLR 2026 Oral] ScaleCUA is the open-sourced computer use agents that can operate on cross-platform environments (Windows, macOS, Ubuntu, Android).",
        "kind": "code",
        "real": false,
@@ -741,7 +741,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "nunchux-ai/nunchaku",
-       "stars": 3961,
+       "stars": 3962,
        "desc": "[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models",
        "kind": "code",
        "real": false,
@@ -749,7 +749,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "fudan-generative-vision/hallo2",
-       "stars": 3754,
+       "stars": 3756,
        "desc": "[ICLR 2025] Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation",
        "kind": "code",
        "real": false,
@@ -757,7 +757,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Peterande/D-FINE",
-       "stars": 3379,
+       "stars": 3382,
        "desc": "D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]",
        "kind": "code",
        "real": false,
@@ -781,7 +781,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Zheng-Chong/CatVTON",
-       "stars": 1885,
+       "stars": 1886,
        "desc": "[ICLR 2025] CatVTON is a simple and efficient virtual try-on diffusion model with 1) Lightweight Network (899.06M parameters totally), 2) Parameter-Efficient Training (49.57M parameters trainable) and 3) Simplified Inference (< 8G VRAM for ",
        "kind": "code",
        "real": false,
@@ -813,7 +813,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Linketic/CityGaussian",
-       "stars": 1278,
+       "stars": 1279,
        "desc": "[ECCV`24&ICLR`25] CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians",
        "kind": "code",
        "real": false,
@@ -821,7 +821,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "xiaowu0162/LongMemEval",
-       "stars": 1174,
+       "stars": 1177,
        "desc": "Benchmarking Chat Assistants on Long-Term Interactive Memory (ICLR 2025)",
        "kind": "data",
        "real": false,
@@ -842,7 +842,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "mit-han-lab/streaming-llm",
-       "stars": 7273,
+       "stars": 7272,
        "desc": "[ICLR 2024] Efficient Streaming Language Models with Attention Sinks",
        "kind": "code",
        "real": false,
@@ -858,7 +858,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "dreamgaussian/dreamgaussian",
-       "stars": 4359,
+       "stars": 4360,
        "desc": "[ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation",
        "kind": "code",
        "real": false,
@@ -866,7 +866,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "eureka-research/Eureka",
-       "stars": 3211,
+       "stars": 3212,
        "desc": "Official Repository for \"Eureka: Human-Level Reward Design via Coding Large Language Models\" (ICLR 2024)",
        "kind": "code",
        "real": false,
@@ -882,7 +882,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "KimMeen/Time-LLM",
-       "stars": 2709,
+       "stars": 2711,
        "desc": "[ICLR 2024] Official implementation of \" 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models\"",
        "kind": "code",
        "real": false,
@@ -890,7 +890,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "JIA-Lab-research/LongLoRA",
-       "stars": 2687,
+       "stars": 2685,
        "desc": "Code and documents of LongLoRA and LongAlpaca (ICLR 2024 Oral)",
        "kind": "code",
        "real": false,
@@ -906,7 +906,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "kwuking/TimeMixer",
-       "stars": 1996,
+       "stars": 1997,
        "desc": "[ICLR 2024] Official implementation of \"TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting\"",
        "kind": "code",
        "real": false,
@@ -1153,7 +1153,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "lexisnexis-risk-open-source/ledetection",
-       "stars": 37,
+       "stars": 38,
        "desc": "[AISTATS 2024] Label-Efficient Detection Toolbox and Benchmark",
        "kind": "data",
        "real": false,
@@ -1283,7 +1283,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "LOG-postech/SAM-overparam",
-       "stars": 31,
+       "stars": 34,
        "desc": "[UAI 2025] Official implementation of \"Critical Influence of Overparameterization on Sharpness-aware Minimization\"",
        "kind": "code",
        "real": false,
@@ -1384,7 +1384,7 @@ window.RESOURCES_DATA = {
        "award": null
       },
       {
-       "repo": "wangqinsi1/RLSVR",
+       "repo": "wangqinsi1/Vision-Zero",
        "stars": 194,
        "desc": "[COLM 2026] From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement.",
        "kind": "code",
@@ -1401,7 +1401,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "hhh675597/revisiting_opd",
-       "stars": 143,
+       "stars": 144,
        "desc": "[COLM 2026] Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes",
        "kind": "code",
        "real": false,
@@ -1425,7 +1425,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "kokolerk/TCOD",
-       "stars": 115,
+       "stars": 116,
        "desc": "[COLM 2026]TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
        "kind": "code",
        "real": false,
@@ -1462,7 +1462,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "R2E-Gym/R2E-Gym",
-       "stars": 344,
+       "stars": 345,
        "desc": "[COLM 2025] Official repository for R2E-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling Open-Weights SWE Agents",
        "kind": "data",
        "real": false,
@@ -1470,7 +1470,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Victorwz/Open-Qwen2VL",
-       "stars": 317,
+       "stars": 318,
        "desc": "[COLM 2025] Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources",
        "kind": "code",
        "real": false,
@@ -1555,7 +1555,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "xlang-ai/OpenAgents",
-       "stars": 4865,
+       "stars": 4866,
        "desc": "[COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild",
        "kind": "code",
        "real": true,
@@ -1563,7 +1563,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "evalplus/evalplus",
-       "stars": 1837,
+       "stars": 1838,
        "desc": "Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024",
        "kind": "code",
        "real": false,
@@ -1664,7 +1664,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "facebookresearch/vggt-omega",
-       "stars": 4696,
+       "stars": 4701,
        "desc": "[CVPR 2026 Oral] VGGT Omega",
        "kind": "code",
        "real": false,
@@ -1672,7 +1672,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "GVCLab/PersonaLive",
-       "stars": 4042,
+       "stars": 4048,
        "desc": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
        "kind": "code",
        "real": false,
@@ -1680,7 +1680,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Hunyuan-PromptEnhancer/PromptEnhancer",
-       "stars": 3795,
+       "stars": 3796,
        "desc": "[CVPR 2026] PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation.",
        "kind": "code",
        "real": false,
@@ -1688,7 +1688,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "OpenImagingLab/FlashVSR",
-       "stars": 1941,
+       "stars": 1946,
        "desc": "[CVPR 2026] Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder.",
        "kind": "code",
        "real": false,
@@ -1696,7 +1696,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "NVlabs/Fast-FoundationStereo",
-       "stars": 1563,
+       "stars": 1567,
        "desc": "[CVPR 2026] Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching",
        "kind": "code",
        "real": false,
@@ -1704,7 +1704,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "fastgs/FastGS",
-       "stars": 1280,
+       "stars": 1282,
        "desc": "[CVPR 2026 Highlight, the CVPR Compute Gold Star] Offical code for \"FastGS: Training 3D Gaussian Splatting in 100 Seconds\"",
        "kind": "code",
        "real": false,
@@ -1736,7 +1736,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "NVlabs/PixelDiT",
-       "stars": 1002,
+       "stars": 1003,
        "desc": "[CVPR 2026 Best Paper Finalist & NeurIPS 2026]",
        "kind": "code",
        "real": false,
@@ -1744,7 +1744,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "amusi/CVPR2026-Papers-with-Code",
-       "stars": 22923,
+       "stars": 22929,
        "desc": "CVPR 2026 论文和开源项目合集",
        "kind": "list",
        "real": false,
@@ -1752,7 +1752,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "zhaoyang97/Paper-Notes",
-       "stars": 2269,
+       "stars": 2278,
        "desc": "📚 数千篇 AI、LLM、NLP、CV 顶会论文解读，每篇 5 分钟读懂核心思想。",
        "kind": "list",
        "real": false,
@@ -1765,7 +1765,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "facebookresearch/vggt",
-       "stars": 14565,
+       "stars": 14573,
        "desc": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
        "kind": "code",
        "real": false,
@@ -1773,7 +1773,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "apple-aiml-research/ml-fastvlm",
-       "stars": 7429,
+       "stars": 7430,
        "desc": "This repository contains the official implementation of \"FastVLM: Efficient Vision Encoding for Vision Language Models\" - CVPR 2025",
        "kind": "code",
        "real": false,
@@ -1781,7 +1781,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "antgroup/echomimic_v2",
-       "stars": 4665,
+       "stars": 4666,
        "desc": "[CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation",
        "kind": "code",
        "real": false,
@@ -1789,7 +1789,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "rmurai0610/MASt3R-SLAM",
-       "stars": 3231,
+       "stars": 3232,
        "desc": "[CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors",
        "kind": "code",
        "real": false,
@@ -1797,7 +1797,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "NVlabs/FoundationStereo",
-       "stars": 2967,
+       "stars": 2969,
        "desc": "[CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching",
        "kind": "code",
        "real": false,
@@ -1805,7 +1805,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "yuweihao/MambaOut",
-       "stars": 2719,
+       "stars": 2720,
        "desc": "MambaOut: Do We Really Need Mamba for Vision? (CVPR 2025)",
        "kind": "code",
        "real": false,
@@ -1813,7 +1813,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "DepthAnything/Video-Depth-Anything",
-       "stars": 2301,
+       "stars": 2305,
        "desc": "[CVPR 2025 Highlight] Video Depth Anything: Consistent Depth Estimation for Super-Long Videos",
        "kind": "code",
        "real": false,
@@ -1821,7 +1821,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "hkchengrex/MMAudio",
-       "stars": 2298,
+       "stars": 2299,
        "desc": "[CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis",
        "kind": "code",
        "real": false,
@@ -1837,7 +1837,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "opendatalab/OmniDocBench",
-       "stars": 2131,
+       "stars": 2134,
        "desc": "[CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation",
        "kind": "data",
        "real": false,
@@ -1845,7 +1845,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "amusi/CVPR2026-Papers-with-Code",
-       "stars": 22923,
+       "stars": 22929,
        "desc": "CVPR 2026 论文和开源项目合集",
        "kind": "list",
        "real": false,
@@ -1853,7 +1853,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision",
-       "stars": 1757,
+       "stars": 1759,
        "desc": "A Collection of Papers and Codes for CVPR2026/CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision",
        "kind": "list",
        "real": false,
@@ -1874,7 +1874,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "OpenGVLab/InternVL",
-       "stars": 10172,
+       "stars": 10171,
        "desc": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型",
        "kind": "code",
        "real": false,
@@ -1882,7 +1882,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "TencentARC/PhotoMaker",
-       "stars": 10086,
+       "stars": 10083,
        "desc": "PhotoMaker [CVPR 2024]",
        "kind": "code",
        "real": false,
@@ -1898,7 +1898,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "AILab-CVC/YOLO-World",
-       "stars": 6592,
+       "stars": 6593,
        "desc": "[CVPR 2024] Real-Time Open-Vocabulary Object Detection",
        "kind": "code",
        "real": false,
@@ -1914,7 +1914,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "hustvl/4DGaussians",
-       "stars": 3992,
+       "stars": 3994,
        "desc": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
        "kind": "code",
        "real": false,
@@ -1922,7 +1922,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "NVlabs/FoundationPose",
-       "stars": 3657,
+       "stars": 3661,
        "desc": "[CVPR 2024 Highlight] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects",
        "kind": "code",
        "real": false,
@@ -1946,7 +1946,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "amusi/CVPR2026-Papers-with-Code",
-       "stars": 22923,
+       "stars": 22929,
        "desc": "CVPR 2026 论文和开源项目合集",
        "kind": "list",
        "real": false,
@@ -1991,7 +1991,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "THU-MIG/yoloe",
-       "stars": 2322,
+       "stars": 2325,
        "desc": "YOLOE: Real-Time Seeing Anything [ICCV 2025]",
        "kind": "code",
        "real": false,
@@ -2015,7 +2015,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "AvaLovelace1/BrickGPT",
-       "stars": 1729,
+       "stars": 1730,
        "desc": "[ICCV 2025 Best Paper] Official repository for BrickGPT, the first approach for generating physically stable toy brick models from text prompts.",
        "kind": "code",
        "real": false,
@@ -2023,7 +2023,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "NVlabs/describe-anything",
-       "stars": 1521,
+       "stars": 1522,
        "desc": "[ICCV 2025] Implementation for Describe Anything: Detailed Localized Image and Video Captioning",
        "kind": "code",
        "real": false,
@@ -2084,7 +2084,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "Robbyant/lingbot-map",
-       "stars": 18227,
+       "stars": 18341,
        "desc": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
        "kind": "code",
        "real": false,
@@ -2140,7 +2140,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "AIMIA-EAI/RT-DETRv4",
-       "stars": 671,
+       "stars": 672,
        "desc": "[ECCV 2026] RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models",
        "kind": "code",
        "real": false,
@@ -2148,7 +2148,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "opendatalab/MinerU-Diffusion",
-       "stars": 621,
+       "stars": 622,
        "desc": "[ECCV 2026] A diffusion-based framework for document OCR that replaces autoregressive decoding with block-level parallel diffusion decoding.",
        "kind": "code",
        "real": false,
@@ -2156,7 +2156,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "ginwind/VLA-JEPA",
-       "stars": 619,
+       "stars": 621,
        "desc": "[ECCV 2026] VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model",
        "kind": "code",
        "real": false,
@@ -2185,7 +2185,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "IDEA-Research/GroundingDINO",
-       "stars": 10708,
+       "stars": 10711,
        "desc": "[ECCV 2024] Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
        "kind": "code",
        "real": false,
@@ -2201,7 +2201,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "XPixelGroup/DiffBIR",
-       "stars": 4124,
+       "stars": 4125,
        "desc": "[ECCV 2024] codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior",
        "kind": "code",
        "real": false,
@@ -2249,7 +2249,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "zju3dv/street_gaussians",
-       "stars": 1409,
+       "stars": 1408,
        "desc": "[ECCV 2024] Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting",
        "kind": "code",
        "real": false,
@@ -2257,7 +2257,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "OpenDriveLab/DriveLM",
-       "stars": 1351,
+       "stars": 1352,
        "desc": "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering",
        "kind": "code",
        "real": false,
@@ -2293,6 +2293,46 @@ window.RESOURCES_DATA = {
      "link": "https://wacv.thecvf.com/Conferences/2026",
      "items": [
       {
+       "repo": "johnnylu305/Hestia-NBV",
+       "stars": 192,
+       "desc": "[WACV 2026] Hestia-NBV",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "SkiddieAhn/Paper-AnyAnomaly",
+       "stars": 79,
+       "desc": "[WACV 2026] PyTorch Implementation of the Paper 'AnyAnomaly': Official Version",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "BlarkLee/DynaGSLAM_official",
+       "stars": 72,
+       "desc": "DynaGSLAM, WACV 2026",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "yermandy/GenD",
+       "stars": 70,
+       "desc": "Official implementation for the WACV 2026 paper \"Deepfake Detection that Generalizes Across Benchmarks\".",
+       "kind": "data",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "lorebianchi98/CountingDINO",
+       "stars": 65,
+       "desc": "[WACV 2026] Official implementation of the paper: “CountingDINO: A Training-free Pipeline for Exemplar-based Class-Agnostic Counting”",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
        "repo": "KieDani/UpliftingTableTennis",
        "stars": 49,
        "desc": "Official implementation of the paper \"Uplifting Table Tennis: A Robust, Real-World Application for 3D Trajectory and Spin Estimation\". https://kiedani.github.io/WACV2026/",
@@ -2309,6 +2349,30 @@ window.RESOURCES_DATA = {
        "award": null
       },
       {
+       "repo": "astra-vision/ProLIP",
+       "stars": 41,
+       "desc": "[WACV 2026] An extremely simple method for validation-free efficient adaptation of CLIP-like VLMs that is robust to the learning rate.",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "thecrazymage/CasTex",
+       "stars": 41,
+       "desc": "[WACV 2026] CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "laurabragagnolo/SkelSplat",
+       "stars": 32,
+       "desc": "[WACV 2026] SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
        "repo": "TaatiTeam/FastHMR",
        "stars": 31,
        "desc": "Official implementation of the paper \"FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging with Diffusion Decoding\". (WACV 2026)",
@@ -2317,76 +2381,12 @@ window.RESOURCES_DATA = {
        "award": null
       },
       {
-       "repo": "ChadLin9596/ScenePoint-ETK",
-       "stars": 20,
-       "desc": "[WACV 2026] SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection",
-       "kind": "data",
-       "real": false,
-       "award": null
-      },
-      {
-       "repo": "ihp-lab/Face-LLaVA",
-       "stars": 19,
-       "desc": "[WACV 2026] Face-LLaVA: Facial Expression and Attribute Understanding through Instruction Tuning",
+       "repo": "plnguyen2908/LASER_ASD",
+       "stars": 30,
+       "desc": "[WACV 2026 Oral] LASER: Lip Landmark Assisted Speaker Detection for Robustness official implemntation",
        "kind": "code",
        "real": false,
-       "award": null
-      },
-      {
-       "repo": "FouierL/EquS",
-       "stars": 19,
-       "desc": "[WACV 2026]Official Code of the paper “Equivariant Sampling for Improving Diffusion Model-based Image Restoration“",
-       "kind": "code",
-       "real": false,
-       "award": null
-      },
-      {
-       "repo": "sadrasafa/WarpRF",
-       "stars": 14,
-       "desc": "Source code for WACV 2026 paper \"WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields\"",
-       "kind": "code",
-       "real": false,
-       "award": null
-      },
-      {
-       "repo": "Hao7un/OMeGa",
-       "stars": 13,
-       "desc": "Implementation of OMeGa: Joint Optimization of Explicit Meshes and Gaussian Splats for Robust Scene-Level Surface Reconstruction (WACV 2026)",
-       "kind": "code",
-       "real": false,
-       "award": null
-      },
-      {
-       "repo": "mazurowski-lab/SAMFailureMetrics",
-       "stars": 13,
-       "desc": "[WACV 2026] Metrics for tree-likeness and textural contrast of objects for segmentation and other computer vision tasks.",
-       "kind": "code",
-       "real": false,
-       "award": null
-      },
-      {
-       "repo": "manishdhakal/GFT",
-       "stars": 8,
-       "desc": "[WACV 2026] GFT: Graph Feature Tuning for Efficient Point Cloud Analysis",
-       "kind": "code",
-       "real": false,
-       "award": null
-      },
-      {
-       "repo": "SiMoM0/RangeRet",
-       "stars": 6,
-       "desc": "[WACV 2026] Revisiting Retentive Networks for Fast Range-View 3D LiDAR Semantic Segmentation",
-       "kind": "code",
-       "real": false,
-       "award": null
-      },
-      {
-       "repo": "Circ-Leaf/NIOM",
-       "stars": 6,
-       "desc": "[WACV2026] The implementation of Matching Semantically-Similar Non-Identical Objects",
-       "kind": "code",
-       "real": false,
-       "award": null
+       "award": "Oral"
       }
      ]
     },
@@ -2520,7 +2520,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "TaatiTeam/MotionAGFormer",
-       "stars": 234,
+       "stars": 235,
        "desc": "Official implementation of the paper \"MotionAGFormer: Enhancing 3D Pose Estimation with a Transformer-GCNFormer Network\" (WACV 2024).",
        "kind": "code",
        "real": false,
@@ -2603,6 +2603,70 @@ window.RESOURCES_DATA = {
     "2026": {
      "link": "https://bmvc2026.bmva.org/",
      "items": [
+      {
+       "repo": "Alireza99Salehi/Crane",
+       "stars": 36,
+       "desc": "[BMVC 2026] Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "thanhhff/ForestMamba",
+       "stars": 30,
+       "desc": "Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation (BMVC 2026)",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "momentslab/peek",
+       "stars": 21,
+       "desc": "[BMVC 2026] Official implementation of PEEK: Picking Essential frames via Efficient Knowledge distillation",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "SlavkoPrytula/QCell",
+       "stars": 15,
+       "desc": "[BMVC 2026] Official code for \"QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation\"",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "amir-sbg/FlexSplat",
+       "stars": 8,
+       "desc": "[BMVC 2026] Feed-forward 3D Gaussian splatting for uncalibrated object-centric novel view synthesis, using jointly trained VGGT geometry and query-based multi-view Gaussian decoding.",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "mbzuai-oryx/CVPD",
+       "stars": 6,
+       "desc": "[BMVC 2026 🔥] CVPD: Contrastive Counterfactual Visual Process Distillation",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "aimagelab/DocAttriBench",
+       "stars": 6,
+       "desc": "[BMVC 2026] DocAttriBench: Benchmarking Answer Grounding in Document Visual Question Answering",
+       "kind": "data",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "Gjergj121/SlotDiT",
+       "stars": 6,
+       "desc": "Official implementation of \"SlotDiT: Object-Centric Representations for Diffusion Transformers\", by Plepi & Behnke. BMVC 2026",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
       {
        "repo": "sadrasafa/FlowIt",
        "stars": 5,
@@ -2836,7 +2900,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "FSoft-AI4Code/CodeWiki",
-       "stars": 1810,
+       "stars": 1813,
        "desc": "[ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases",
        "kind": "code",
        "real": false,
@@ -2860,7 +2924,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "texttron/BrowseComp-Plus",
-       "stars": 383,
+       "stars": 385,
        "desc": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent (ACL 2026 Main)",
        "kind": "data",
        "real": false,
@@ -2868,7 +2932,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "zhaoyang97/Paper-Notes-en",
-       "stars": 304,
+       "stars": 306,
        "desc": "📚 Read a top-tier AI paper in 5 minutes.",
        "kind": "code",
        "real": false,
@@ -2876,7 +2940,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Tongyi-MAI/MobileWorld",
-       "stars": 297,
+       "stars": 298,
        "desc": "Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments (ACL 2026)",
        "kind": "data",
        "real": false,
@@ -2884,7 +2948,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "RUC-NLPIR/FinSight",
-       "stars": 276,
+       "stars": 277,
        "desc": "[ACL 2026 Main, SAC Highlight] FinSight: Towards Real-World Financial Deep Research. 🎯One ticker, one click, one publication-ready report.",
        "kind": "code",
        "real": true,
@@ -2908,16 +2972,16 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "zhaoyang97/Paper-Notes",
-       "stars": 2269,
+       "stars": 2278,
        "desc": "📚 数千篇 AI、LLM、NLP、CV 顶会论文解读，每篇 5 分钟读懂核心思想。",
        "kind": "list",
        "real": false,
        "award": null
       },
       {
-       "repo": "jjiantong/Awesome-KV-Cache-Optimization",
-       "stars": 422,
-       "desc": "[ACL 2026] Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization",
+       "repo": "DavidZWZ/Awesome-Deep-Research",
+       "stars": 875,
+       "desc": "[ACL 2026 KnowFM] Awesome Agentic Deep Research Resources",
        "kind": "list",
        "real": false,
        "award": null
@@ -2937,7 +3001,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "TIGER-AI-Lab/TheoremExplainAgent",
-       "stars": 1511,
+       "stars": 1513,
        "desc": "Official Repo for \"TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding\" [ACL 2025 oral]",
        "kind": "code",
        "real": false,
@@ -2945,7 +3009,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "WooooDyy/AgentGym",
-       "stars": 851,
+       "stars": 853,
        "desc": "Code and implementations for the ACL 2025 paper \"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments\" by Zhiheng Xi et al.",
        "kind": "code",
        "real": false,
@@ -3030,7 +3094,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "hiyouga/LlamaFactory",
-       "stars": 75742,
+       "stars": 75750,
        "desc": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
        "kind": "code",
        "real": false,
@@ -3155,7 +3219,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "hello-diana/MASCOT",
-       "stars": 761,
+       "stars": 763,
        "desc": "EMNLP 2026 Main Conference Paper: MASCOT: Towards Multi-Agent Socio-Collaborative Companion Systems (https://arxiv.org/abs/2601.14230)",
        "kind": "code",
        "real": false,
@@ -3163,7 +3227,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Osilly/Vision-DeepResearch",
-       "stars": 690,
+       "stars": 691,
        "desc": "[ICML 2026 & EMNLP 2026] Multimodal deep-research MLLM and benchmark. The first long-horizon multimodal deep-research MLLM, extending the number of reasoning turns to dozens and the number of search-engine interactions to hundreds.",
        "kind": "data",
        "real": false,
@@ -3195,7 +3259,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "open-compass/AgentCompass",
-       "stars": 175,
+       "stars": 176,
        "desc": "[EMNLP 2026] AgentCompass is an extensible open-source evaluation infrastructure for systematically assessing LLM/VLM agent capabilities.",
        "kind": "code",
        "real": false,
@@ -3219,7 +3283,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "MessiX77/Awesome-Efficient-dLLMs",
-       "stars": 149,
+       "stars": 151,
        "desc": "[EMNLP 2026] 📚 A curated list of Awesome Efficient dLLMs Papers with Codes",
        "kind": "list",
        "real": false,
@@ -3240,7 +3304,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "PDFMathTranslate/PDFMathTranslate",
-       "stars": 37918,
+       "stars": 37978,
        "desc": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
        "kind": "code",
        "real": false,
@@ -3248,7 +3312,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "BAI-LAB/MemoryOS",
-       "stars": 1613,
+       "stars": 1614,
        "desc": "[EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.",
        "kind": "code",
        "real": false,
@@ -3272,7 +3336,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "AaronGIG/pdf2zh-desktop",
-       "stars": 506,
+       "stars": 509,
        "desc": "📖 开箱即用的 PDF 学术翻译神器 | Win + Mac 双平台 | 公式排版完美保留 · Zotero 深度联动 · 35 种语言 · 20+ AI 翻译引擎 · 表格/OCR/术语库 · 批量翻译 | 基于 PDFMathTranslate (EMNLP 2025)",
        "kind": "code",
        "real": false,
@@ -3341,7 +3405,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "stanford-oval/storm",
-       "stars": 31703,
+       "stars": 31725,
        "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
        "kind": "code",
        "real": false,
@@ -3357,7 +3421,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "om-ai-lab/OmAgent",
-       "stars": 2669,
+       "stars": 2670,
        "desc": "[EMNLP-2024] Build multimodal language agents for fast prototype and production",
        "kind": "code",
        "real": false,
@@ -3397,7 +3461,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Ahren09/AgentReview",
-       "stars": 649,
+       "stars": 656,
        "desc": "Official Implementation for EMNLP 2024 (Main Track, Oral) \"AgentReview: Exploring Academic Peer Review with LLM Agent.\"",
        "kind": "code",
        "real": false,
@@ -3530,7 +3594,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "rux001/Awesome-LLM-Anomaly-OOD-Detection",
-       "stars": 130,
+       "stars": 131,
        "desc": "[NAACL 2025] Large Language Models for Anomaly and Out-of-Distribution Detection",
        "kind": "list",
        "real": false,
@@ -3877,8 +3941,16 @@ window.RESOURCES_DATA = {
        "award": null
       },
       {
+       "repo": "drprojects/superpoint_transformer",
+       "stars": 1068,
+       "desc": "Official PyTorch implementation of Superpoint Transformer [ICCV'23], SuperCluster [3DV'24 Oral], and EZ-SP [ICRA'26]",
+       "kind": "code",
+       "real": false,
+       "award": "Oral"
+      },
+      {
        "repo": "InternRobotics/NavDP",
-       "stars": 818,
+       "stars": 819,
        "desc": "[ICRA 2026] NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance",
        "kind": "code",
        "real": true,
@@ -3886,7 +3958,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "InternRobotics/StreamVLN",
-       "stars": 636,
+       "stars": 637,
        "desc": "[ICRA 2026] Official implementation of the paper: \"StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling\"",
        "kind": "code",
        "real": false,
@@ -3946,14 +4018,6 @@ window.RESOURCES_DATA = {
        "desc": "[ICRA 2026] Re3Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation",
        "kind": "code",
        "real": true,
-       "award": null
-      },
-      {
-       "repo": "dk-liang/UniFuture",
-       "stars": 167,
-       "desc": "[ICRA 2026] UniFuture: A 4D Driving World Model for Future Generation and Perception",
-       "kind": "code",
-       "real": false,
        "award": null
       },
       {
@@ -4088,7 +4152,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "rai-opensource/vlfm",
-       "stars": 828,
+       "stars": 829,
        "desc": "The repository provides code associated with the paper VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation (ICRA 2024)",
        "kind": "code",
        "real": false,
@@ -4096,7 +4160,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "ethz-asl/COIN-LIO",
-       "stars": 518,
+       "stars": 520,
        "desc": "🪙 COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (ICRA 2024)",
        "kind": "code",
        "real": false,
@@ -4181,7 +4245,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "UWMILab/HA-VLN",
-       "stars": 522,
+       "stars": 523,
        "desc": "[IROS 2026, NeurIPS 2024] Official implementation for \"HA-VLN 2.0: An Open Benchmark and Leaderboard for Human-Aware Navigation in Discrete and Continuous Environments with Dynamic Multi-Human Interactions\".",
        "kind": "data",
        "real": false,
@@ -4197,7 +4261,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Sirui-Xu/ULTRA",
-       "stars": 48,
+       "stars": 50,
        "desc": "[IROS 2026] ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation",
        "kind": "code",
        "real": false,
@@ -4205,7 +4269,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Taeyoung96/mtd_map",
-       "stars": 48,
+       "stars": 49,
        "desc": "[IROS 2026] MTD-Map: Single-Stage Long-Term LiDAR Map Maintenance Framework via Mixture Transition Distribution",
        "kind": "code",
        "real": false,
@@ -4215,6 +4279,14 @@ window.RESOURCES_DATA = {
        "repo": "DAVIAN-Robotics/3D_HAMSTER",
        "stars": 37,
        "desc": "Code for \"3D HAMSTER: Enabling Robust Manipulation in Hierarchical Vision Language Action Models through 3D Trajectory Guidance\" (IROS 2026)",
+       "kind": "code",
+       "real": false,
+       "award": null
+      },
+      {
+       "repo": "DeformX/DeformX",
+       "stars": 32,
+       "desc": "The official source code for \"DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects\" (IROS 2026)",
        "kind": "code",
        "real": false,
        "award": null
@@ -4252,14 +4324,6 @@ window.RESOURCES_DATA = {
        "award": null
       },
       {
-       "repo": "DeformX/DeformX",
-       "stars": 30,
-       "desc": "The official source code for \"DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects\" (IROS 2026)",
-       "kind": "code",
-       "real": false,
-       "award": null
-      },
-      {
        "repo": "KJ-Falloutlast/FIRE-LIVWO",
        "stars": 25,
        "desc": "[IROS 2026] FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement",
@@ -4269,7 +4333,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Zjj587/NIDAR",
-       "stars": 22,
+       "stars": 23,
        "desc": "Official implementation of [IROS 2026] NIDAR: RGB-conditioned LiDAR intensity   synthesis for simulation and robotic perception.",
        "kind": "code",
        "real": false,
@@ -4282,7 +4346,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "OpenDriveLab/AgiBot-World",
-       "stars": 3211,
+       "stars": 3213,
        "desc": "[IROS 2025 Best Paper Award Finalist & IEEE TRO 2026] The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems",
        "kind": "code",
        "real": false,
@@ -4298,7 +4362,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "hku-mars/GS-SDF",
-       "stars": 542,
+       "stars": 544,
        "desc": "[IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction",
        "kind": "code",
        "real": false,
@@ -4383,7 +4447,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "LeCAR-Lab/human2humanoid",
-       "stars": 1079,
+       "stars": 1080,
        "desc": "[IROS 2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation.                    [CoRL 2024] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning",
        "kind": "code",
        "real": false,
@@ -4391,7 +4455,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "ZikangYuan/sr_lio",
-       "stars": 556,
+       "stars": 557,
        "desc": "[IROS 2024] A  LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency",
        "kind": "code",
        "real": false,
@@ -4407,7 +4471,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "MizuhoAOKI/mppi_swerve_drive_ros",
-       "stars": 265,
+       "stars": 264,
        "desc": "[IROS 2024] MPPI (Model Predictive Path-Integral) Controller for a Swerve Drive Robot",
        "kind": "code",
        "real": false,
@@ -4492,7 +4556,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "Robbyant/lingbot-va",
-       "stars": 1953,
+       "stars": 1957,
        "desc": "[RSS 2026] Causal video-action world model for generalist robot control",
        "kind": "code",
        "real": false,
@@ -4508,7 +4572,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "ethz-asl/BIEVR-LIO",
-       "stars": 335,
+       "stars": 337,
        "desc": "🦫 BIEVR-LIO: Robust LiDAR-Inertial Odometry through Bump-Image-Enhanced Voxel Maps (RSS 2026)",
        "kind": "code",
        "real": false,
@@ -4516,7 +4580,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "wty-yy/go2_rl_lab",
-       "stars": 325,
+       "stars": 328,
        "desc": "[RSS 2026] Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion. Official implementation of RSS 2026.",
        "kind": "code",
        "real": true,
@@ -4548,7 +4612,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "amazon-far/php_parkour",
-       "stars": 268,
+       "stars": 269,
        "desc": "[RSS 2026] Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
        "kind": "code",
        "real": false,
@@ -4572,7 +4636,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "RenMing-Huang/MINT",
-       "stars": 206,
+       "stars": 207,
        "desc": "[RSS 2026] Mimic Intent, Not Just Trajectories (MINT) official implementation",
        "kind": "code",
        "real": false,
@@ -4593,7 +4657,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "LeCAR-Lab/ASAP",
-       "stars": 2133,
+       "stars": 2134,
        "desc": "[RSS 2025] \"ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills\"",
        "kind": "code",
        "real": true,
@@ -4601,7 +4665,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "OpenDriveLab/UniVLA",
-       "stars": 1141,
+       "stars": 1142,
        "desc": "[RSS 2025] Learning to Act Anywhere with Task-centric Latent Actions",
        "kind": "code",
        "real": false,
@@ -4609,7 +4673,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "SpatialVLA/SpatialVLA",
-       "stars": 733,
+       "stars": 734,
        "desc": "🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes. Accepted at RSS 2025.",
        "kind": "code",
        "real": true,
@@ -4641,7 +4705,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "xiaoxiaoxh/reactive_diffusion_policy",
-       "stars": 392,
+       "stars": 393,
        "desc": "[RSS 2025] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation",
        "kind": "code",
        "real": false,
@@ -4694,7 +4758,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "YanjieZe/3D-Diffusion-Policy",
-       "stars": 1465,
+       "stars": 1467,
        "desc": "[RSS 2024] 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations",
        "kind": "code",
        "real": false,
@@ -4782,7 +4846,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Boey-li/AdaptiGraph",
-       "stars": 93,
+       "stars": 94,
        "desc": "[RSS 2024] AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation",
        "kind": "code",
        "real": false,
@@ -4811,7 +4875,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "malik-group/do-as-i-do",
-       "stars": 444,
+       "stars": 445,
        "desc": "Official Codebase for \"Do as I Do: Dexterous Manipulation Data from Everyday Human Videos\" (CoRL 2026)",
        "kind": "code",
        "real": false,
@@ -4827,7 +4891,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "yuyangalin/ImageWAM",
-       "stars": 184,
+       "stars": 185,
        "desc": "[CoRL 2026] ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?",
        "kind": "code",
        "real": false,
@@ -4851,7 +4915,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "amazon-far/PRISM",
-       "stars": 127,
+       "stars": 136,
        "desc": "[CoRL 2026] Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
        "kind": "code",
        "real": false,
@@ -4867,7 +4931,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Bariona/FACT",
-       "stars": 107,
+       "stars": 108,
        "desc": "[CoRL 2026] Code for \"FACT: Failure-Aware Causal Training for World‑Action Models\"",
        "kind": "code",
        "real": false,
@@ -4875,7 +4939,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "amazon-far/RPL",
-       "stars": 91,
+       "stars": 96,
        "desc": "[CoRL 2026] RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains",
        "kind": "code",
        "real": false,
@@ -4904,7 +4968,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "hongsukchoi/VideoMimic",
-       "stars": 846,
+       "stars": 845,
        "desc": "Visual Imitation Enables Contextual Humanoid Control. CoRL 2025, Best Student Paper Award.",
        "kind": "code",
        "real": false,
@@ -4912,7 +4976,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "YanjieZe/TWIST",
-       "stars": 824,
+       "stars": 823,
        "desc": "[CoRL 2025] TWIST: Teleoperated Whole-Body Imitation System",
        "kind": "code",
        "real": false,
@@ -4936,7 +5000,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "uynitsuj/real2render2real",
-       "stars": 376,
+       "stars": 377,
        "desc": "[CoRL 2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware",
        "kind": "code",
        "real": true,
@@ -4960,7 +5024,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "ajwagen/dsrl",
-       "stars": 235,
+       "stars": 236,
        "desc": "Official implementation for DSRL, Steering Your Diffusion Policy with Latent Space Reinforcement Learning (CoRL 2025)",
        "kind": "code",
        "real": false,
@@ -4975,17 +5039,17 @@ window.RESOURCES_DATA = {
        "award": null
       },
       {
-       "repo": "Hu-chih-yao/see-point-fly",
+       "repo": "autonomousvision/CaRL",
        "stars": 171,
-       "desc": "[CoRL 2025] See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation",
+       "desc": "[CoRL 2025] CaRL: Learning Scalable Planning Policies with Simple Rewards",
        "kind": "code",
        "real": false,
        "award": null
       },
       {
-       "repo": "autonomousvision/CaRL",
+       "repo": "Hu-chih-yao/see-point-fly",
        "stars": 170,
-       "desc": "[CoRL 2025] CaRL: Learning Scalable Planning Policies with Simple Rewards",
+       "desc": "[CoRL 2025] See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation",
        "kind": "code",
        "real": false,
        "award": null
@@ -5021,7 +5085,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "LeCAR-Lab/human2humanoid",
-       "stars": 1079,
+       "stars": 1080,
        "desc": "[IROS 2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation.                    [CoRL 2024] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning",
        "kind": "code",
        "real": false,
@@ -5029,7 +5093,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "MarkFzp/humanplus",
-       "stars": 853,
+       "stars": 852,
        "desc": "[CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans",
        "kind": "code",
        "real": false,
@@ -5037,7 +5101,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "mlzxy/devit",
-       "stars": 484,
+       "stars": 483,
        "desc": "CoRL 2024",
        "kind": "code",
        "real": false,
@@ -5093,7 +5157,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "Jianghanxiao/RoboEXP",
-       "stars": 135,
+       "stars": 136,
        "desc": "[CoRL 2024] RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation",
        "kind": "code",
        "real": false,
@@ -5114,7 +5178,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "antgroup/echomimic_v3",
-       "stars": 1098,
+       "stars": 1100,
        "desc": "[AAAI 2026] EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation",
        "kind": "code",
        "real": false,
@@ -5170,7 +5234,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "H-EmbodVis/GRANT",
-       "stars": 366,
+       "stars": 367,
        "desc": "[AAAI 2026 Oral] Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution",
        "kind": "code",
        "real": false,
@@ -5215,7 +5279,7 @@ window.RESOURCES_DATA = {
      "items": [
       {
        "repo": "modelscope/ms-swift",
-       "stars": 15949,
+       "stars": 15972,
        "desc": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM5.3, Gemma4, Llava, Phi4, ...) (AAAI 2025).",
        "kind": "code",
        "real": false,
@@ -5223,7 +5287,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "levihsu/OOTDiffusion",
-       "stars": 6605,
+       "stars": 6604,
        "desc": "[AAAI 2025] Official implementation of \"OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on\"",
        "kind": "code",
        "real": false,
@@ -5231,7 +5295,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "antgroup/echomimic",
-       "stars": 4325,
+       "stars": 4326,
        "desc": "[AAAI 2025] EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning",
        "kind": "code",
        "real": false,
@@ -5271,7 +5335,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "bytedance/res-adapter",
-       "stars": 754,
+       "stars": 753,
        "desc": "[AAAI 2025] Official codes of \"ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models\".",
        "kind": "code",
        "real": false,
@@ -5340,7 +5404,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "DmitryRyumin/AAAI-2024-Papers",
-       "stars": 589,
+       "stars": 588,
        "desc": "AAAI 2024 Papers: Explore a comprehensive collection of innovative research papers presented at one of the premier artificial intelligence conferences. Seamlessly integrate code implementations for better understanding. ⭐ experience the for",
        "kind": "code",
        "real": false,
@@ -5433,7 +5497,7 @@ window.RESOURCES_DATA = {
       },
       {
        "repo": "whesense/ViGT",
-       "stars": 19,
+       "stars": 20,
        "desc": "IJCAI 2026 paper \"Visual Implicit Geometry Transformer for Autonomous Driving\"",
        "kind": "code",
        "real": false,
@@ -6171,20 +6235,20 @@ window.RESOURCES_DATA = {
        "award": null
       },
       {
+       "repo": "VDIGPKU/TEOcc",
+       "stars": 19,
+       "desc": "[ECAI 2024] TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement",
+       "kind": "code",
+       "real": false,
+       "award": "Oral"
+      },
+      {
        "repo": "ZyoungXu/MoSt-DSA",
        "stars": 19,
        "desc": "[ECAI 2024] MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images",
        "kind": "code",
        "real": false,
        "award": null
-      },
-      {
-       "repo": "VDIGPKU/TEOcc",
-       "stars": 18,
-       "desc": "[ECAI 2024] TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement",
-       "kind": "code",
-       "real": false,
-       "award": "Oral"
       },
       {
        "repo": "Cognitive-AI-Systems/IGOR",
