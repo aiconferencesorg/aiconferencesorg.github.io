@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-01T07:22:26Z",
+ "generated": "2026-11-02T07:44:54Z",
  "conferences": [
   {
    "key": "nips",
@@ -40,17 +40,23 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "",
-       "utc": "2026-05-05T11:59:00Z",
+       "utc": "2026-05-05T11:59:59Z",
        "local": "2026-05-05 11:59 UTC+0"
       },
       {
        "label": "Paper",
        "note": "",
-       "utc": "2026-05-07T11:59:00Z",
+       "utc": "2026-05-07T11:59:59Z",
        "local": "2026-05-07 11:59 UTC+0"
       }
      ],
-     "decisions": []
+     "decisions": [
+      {
+       "label": "",
+       "utc": "2026-09-25T11:59:59Z",
+       "local": "2026-09-25 11:59 UTC+0"
+      }
+     ]
     }
    ],
    "estimate": {
@@ -60,13 +66,13 @@ window.CONF_DATA = {
      {
       "label": "Abstract",
       "note": "",
-      "utc": "2027-05-05T11:59:00Z",
+      "utc": "2027-05-05T11:59:59Z",
       "local": "~May 05, 2027 (projected)"
      },
      {
       "label": "Paper",
       "note": "",
-      "utc": "2027-05-07T11:59:00Z",
+      "utc": "2027-05-07T11:59:59Z",
       "local": "~May 07, 2027 (projected)"
      }
     ],
@@ -121,13 +127,13 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "",
-       "utc": "2027-05-05T11:59:00Z",
+       "utc": "2027-05-05T11:59:59Z",
        "local": "2026-05-05 11:59 UTC+0"
       },
       {
        "label": "Paper",
        "note": "",
-       "utc": "2027-05-07T11:59:00Z",
+       "utc": "2027-05-07T11:59:59Z",
        "local": "2026-05-07 11:59 UTC+0"
       }
      ]
@@ -142,13 +148,13 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "",
-       "utc": "2028-05-05T11:59:00Z",
+       "utc": "2028-05-05T11:59:59Z",
        "local": "2026-05-05 11:59 UTC+0"
       },
       {
        "label": "Paper",
        "note": "",
-       "utc": "2028-05-07T11:59:00Z",
+       "utc": "2028-05-07T11:59:59Z",
        "local": "2026-05-07 11:59 UTC+0"
       }
      ]
@@ -2543,7 +2549,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://2027.ieee-iros.org/",
-     "date": "September 26 - October 1, 2027",
+     "date": "September 27 - October 1, 2027",
      "place": "Florence, Italy",
      "deadlines": [
       {
@@ -2593,7 +2599,7 @@ window.CONF_DATA = {
      "year": 2027,
      "projected": false,
      "link": "https://2027.ieee-iros.org/",
-     "date": "September 26 - October 1, 2027",
+     "date": "September 27 - October 1, 2027",
      "deadlines": [
       {
        "label": "Paper",
@@ -2678,7 +2684,13 @@ window.CONF_DATA = {
        "local": "2026-12-04 23:59 AoE"
       }
      ],
-     "decisions": []
+     "decisions": [
+      {
+       "label": "",
+       "utc": "2027-05-01T11:59:59Z",
+       "local": "2027-04-30 23:59 AoE"
+      }
+     ]
     }
    ],
    "estimate": null,
@@ -3098,20 +3110,20 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "Separate satellite event: August 15-17, 2027, Hengqin, China",
-       "utc": "2027-01-05T11:59:00Z",
+       "utc": "2027-01-05T11:59:59Z",
        "local": "2027-01-04 23:59 AoE"
       },
       {
        "label": "Paper",
        "note": "Separate satellite event: August 15-17, 2027, Hengqin, China",
-       "utc": "2027-01-12T11:59:00Z",
+       "utc": "2027-01-12T11:59:59Z",
        "local": "2027-01-11 23:59 AoE"
       }
      ],
      "decisions": [
       {
        "label": "",
-       "utc": "2027-04-22T11:59:00Z",
+       "utc": "2027-04-22T11:59:59Z",
        "local": "2027-04-21 23:59 AoE"
       }
      ]
@@ -3166,13 +3178,13 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "Separate satellite event: August 15-17, 2027, Hengqin, China",
-       "utc": "2027-01-05T11:59:00Z",
+       "utc": "2027-01-05T11:59:59Z",
        "local": "2027-01-04 23:59 AoE"
       },
       {
        "label": "Paper",
        "note": "Separate satellite event: August 15-17, 2027, Hengqin, China",
-       "utc": "2027-01-12T11:59:00Z",
+       "utc": "2027-01-12T11:59:59Z",
        "local": "2027-01-11 23:59 AoE"
       }
      ]
@@ -3187,13 +3199,13 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "Separate satellite event: August 15-17, 2027, Hengqin, China",
-       "utc": "2028-01-05T11:59:00Z",
+       "utc": "2028-01-05T11:59:59Z",
        "local": "2027-01-04 23:59 AoE"
       },
       {
        "label": "Paper",
        "note": "Separate satellite event: August 15-17, 2027, Hengqin, China",
-       "utc": "2028-01-12T11:59:00Z",
+       "utc": "2028-01-12T11:59:59Z",
        "local": "2027-01-11 23:59 AoE"
       }
      ]
@@ -3208,13 +3220,13 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "Separate satellite event: August 15-17, 2027, Hengqin, China",
-       "utc": "2029-01-05T11:59:00Z",
+       "utc": "2029-01-05T11:59:59Z",
        "local": "2027-01-04 23:59 AoE"
       },
       {
        "label": "Paper",
        "note": "Separate satellite event: August 15-17, 2027, Hengqin, China",
-       "utc": "2029-01-12T11:59:00Z",
+       "utc": "2029-01-12T11:59:59Z",
        "local": "2027-01-11 23:59 AoE"
       }
      ]
