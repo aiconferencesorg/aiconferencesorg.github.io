@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-03T07:31:52Z",
+ "generated": "2026-11-04T07:37:32Z",
  "conferences": [
   {
    "key": "nips",
@@ -171,27 +171,6 @@ window.CONF_DATA = {
    "dblp": "icml",
    "editions": [
     {
-     "year": 2025,
-     "link": "https://icml.cc/Conferences/2025",
-     "date": "July 13-19, 2025",
-     "place": "Vancouver Convention Center, Vancouver, Canada",
-     "deadlines": [
-      {
-       "label": "Abstract",
-       "note": "Paper Submissions Open on OpenReview Jan 08 2025 11:59 PM UTC",
-       "utc": "2025-01-24T11:59:59Z",
-       "local": "2025-01-23 23:59 UTC-12"
-      },
-      {
-       "label": "Paper",
-       "note": "Paper Submissions Open on OpenReview Jan 08 2025 11:59 PM UTC",
-       "utc": "2025-01-31T11:59:59Z",
-       "local": "2025-01-30 23:59 UTC-12"
-      }
-     ],
-     "decisions": []
-    },
-    {
      "year": 2026,
      "link": "https://icml.cc/Conferences/2026",
      "date": "July 6-11, 2026",
@@ -210,6 +189,14 @@ window.CONF_DATA = {
        "local": "2026-01-29 11:59 UTC+0"
       }
      ],
+     "decisions": []
+    },
+    {
+     "year": 2027,
+     "link": "https://icml.cc/Conferences/2027",
+     "date": "July 31 - August 6, 2027",
+     "place": "Riocentro, Rio de Janeiro, Brazil",
+     "deadlines": [],
      "decisions": []
     }
    ],
@@ -230,7 +217,7 @@ window.CONF_DATA = {
       "local": "~Jan 29, 2027 (projected)"
      }
     ],
-    "link": null
+    "link": "https://icml.cc/Conferences/2027"
    },
    "rates": [
     {
