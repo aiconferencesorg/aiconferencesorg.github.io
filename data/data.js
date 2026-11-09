@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-08T07:24:46Z",
+ "generated": "2026-11-09T07:47:40Z",
  "conferences": [
   {
    "key": "nips",
@@ -194,7 +194,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://icml.cc/Conferences/2027",
-     "date": "July 31 - August 6, 2027",
+     "date": "August 2-4, 2027",
      "place": "Riocentro, Rio de Janeiro, Brazil",
      "deadlines": [],
      "decisions": []
@@ -1178,7 +1178,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://iccv.thecvf.com/Conferences/2027",
-     "date": "October 2-8, 2027",
+     "date": "October 5-7, 2027",
      "place": "Hong Kong, China",
      "deadlines": [],
      "decisions": []
@@ -1457,7 +1457,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://wacv.thecvf.com/",
-     "date": "Jan 4 - 8, 2027",
+     "date": "Jan 6 - 8, 2027",
      "place": "Disney Springs, Buena Vista, FL, USA",
      "deadlines": [
       {
