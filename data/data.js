@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-09T07:47:40Z",
+ "generated": "2026-11-10T07:30:56Z",
  "conferences": [
   {
    "key": "nips",
@@ -328,7 +328,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://iclr.cc/Conferences/2027",
-     "date": "April 26-30, 2027",
+     "date": "April 26-28, 2027",
      "place": "San Francisco, CA, USA",
      "deadlines": [
       {
@@ -1490,6 +1490,11 @@ window.CONF_DATA = {
        "label": "First round",
        "utc": "2026-10-10T11:59:59Z",
        "local": "2026-10-09 23:59 AoE"
+      },
+      {
+       "label": "Second round",
+       "utc": "2026-10-15T11:59:59Z",
+       "local": "2026-10-14 23:59 AoE"
       }
      ]
     }
