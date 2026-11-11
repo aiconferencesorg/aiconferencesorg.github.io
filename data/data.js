@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-10T07:30:56Z",
+ "generated": "2026-11-11T07:36:04Z",
  "conferences": [
   {
    "key": "nips",
@@ -1016,7 +1016,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://cvpr.thecvf.com/Conferences/2027",
-     "date": "June 20-25, 2027",
+     "date": "June 22-25, 2027",
      "place": "Seattle, WA, United States",
      "deadlines": [
       {
@@ -1085,7 +1085,7 @@ window.CONF_DATA = {
      "year": 2027,
      "projected": false,
      "link": "https://cvpr.thecvf.com/Conferences/2027",
-     "date": "June 20-25, 2027",
+     "date": "June 22-25, 2027",
      "deadlines": [
       {
        "label": "Abstract",
@@ -1836,7 +1836,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://2027.aclweb.org/",
-     "date": "August 17-22, 2027",
+     "date": "August 20-22, 2027",
      "place": "Kyoto, Japan",
      "deadlines": [
       {
@@ -1900,7 +1900,7 @@ window.CONF_DATA = {
      "year": 2027,
      "projected": false,
      "link": "https://2027.aclweb.org/",
-     "date": "August 17-22, 2027",
+     "date": "August 20-22, 2027",
      "deadlines": [
       {
        "label": "Paper \u00b7 ARR Submission",
@@ -3268,46 +3268,39 @@ window.CONF_DATA = {
      "place": "Hanoi, Vietnam",
      "deadlines": [
       {
-       "label": "Abstract",
+       "label": "Abstract \u00b7 Main track",
        "note": "",
        "utc": "2026-10-02T11:59:59Z",
        "local": "2026-10-01 23:59 AoE"
       },
       {
-       "label": "Paper",
+       "label": "Paper \u00b7 Main track",
        "note": "",
        "utc": "2026-10-09T11:59:59Z",
        "local": "2026-10-08 23:59 AoE"
+      },
+      {
+       "label": "Paper",
+       "note": "AAAI fast track; eligible AAAI-27 Main Technical Track resubmissions only",
+       "utc": "2026-12-12T11:59:59Z",
+       "local": "2026-12-11 23:59 AoE"
       }
      ],
      "decisions": [
       {
-       "label": "",
+       "label": "Main track",
        "utc": "2026-12-22T11:59:59Z",
        "local": "2026-12-21 23:59 AoE"
+      },
+      {
+       "label": "",
+       "utc": "2027-02-02T11:59:59Z",
+       "local": "2027-02-01 23:59 AoE"
       }
      ]
     }
    ],
-   "estimate": {
-    "year": 2028,
-    "from_year": 2027,
-    "deadlines": [
-     {
-      "label": "Abstract",
-      "note": "",
-      "utc": "2027-10-02T11:59:59Z",
-      "local": "~Oct 02, 2027 (projected)"
-     },
-     {
-      "label": "Paper",
-      "note": "",
-      "utc": "2027-10-09T11:59:59Z",
-      "local": "~Oct 09, 2027 (projected)"
-     }
-    ],
-    "link": null
-   },
+   "estimate": null,
    "rates": [
     {
      "year": 2021,
@@ -3355,6 +3348,20 @@ window.CONF_DATA = {
    "cycle": 1,
    "planning": [
     {
+     "year": 2027,
+     "projected": false,
+     "link": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+     "date": "May 3-7, 2027",
+     "deadlines": [
+      {
+       "label": "Paper",
+       "note": "AAAI fast track; eligible AAAI-27 Main Technical Track resubmissions only",
+       "utc": "2026-12-12T11:59:59Z",
+       "local": "2026-12-11 23:59 AoE"
+      }
+     ]
+    },
+    {
      "year": 2028,
      "projected": true,
      "from_year": 2027,
@@ -3362,16 +3369,22 @@ window.CONF_DATA = {
      "date": null,
      "deadlines": [
       {
-       "label": "Abstract",
+       "label": "Abstract \u00b7 Main track",
        "note": "",
        "utc": "2027-10-02T11:59:59Z",
        "local": "2026-10-01 23:59 AoE"
       },
       {
-       "label": "Paper",
+       "label": "Paper \u00b7 Main track",
        "note": "",
        "utc": "2027-10-09T11:59:59Z",
        "local": "2026-10-08 23:59 AoE"
+      },
+      {
+       "label": "Paper",
+       "note": "AAAI fast track; eligible AAAI-27 Main Technical Track resubmissions only",
+       "utc": "2027-12-12T11:59:59Z",
+       "local": "2026-12-11 23:59 AoE"
       }
      ]
     },
@@ -3383,16 +3396,22 @@ window.CONF_DATA = {
      "date": null,
      "deadlines": [
       {
-       "label": "Abstract",
+       "label": "Abstract \u00b7 Main track",
        "note": "",
        "utc": "2028-10-02T11:59:59Z",
        "local": "2026-10-01 23:59 AoE"
       },
       {
-       "label": "Paper",
+       "label": "Paper \u00b7 Main track",
        "note": "",
        "utc": "2028-10-09T11:59:59Z",
        "local": "2026-10-08 23:59 AoE"
+      },
+      {
+       "label": "Paper",
+       "note": "AAAI fast track; eligible AAAI-27 Main Technical Track resubmissions only",
+       "utc": "2028-12-12T11:59:59Z",
+       "local": "2026-12-11 23:59 AoE"
       }
      ]
     }
