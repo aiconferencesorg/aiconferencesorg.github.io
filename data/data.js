@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-11T07:36:04Z",
+ "generated": "2026-11-12T07:39:41Z",
  "conferences": [
   {
    "key": "nips",
@@ -1087,12 +1087,6 @@ window.CONF_DATA = {
      "link": "https://cvpr.thecvf.com/Conferences/2027",
      "date": "June 22-25, 2027",
      "deadlines": [
-      {
-       "label": "Abstract",
-       "note": "",
-       "utc": "2026-11-11T11:59:59Z",
-       "local": "2026-11-10 23:59 UTC-12"
-      },
       {
        "label": "Paper",
        "note": "",
