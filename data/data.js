@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-15T07:27:26Z",
+ "generated": "2026-11-16T15:59:32Z",
  "conferences": [
   {
    "key": "nips",
@@ -196,29 +196,30 @@ window.CONF_DATA = {
      "link": "https://icml.cc/Conferences/2027",
      "date": "August 2-4, 2027",
      "place": "Riocentro, Rio de Janeiro, Brazil",
-     "deadlines": [],
-     "decisions": []
+     "deadlines": [
+      {
+       "label": "Abstract",
+       "note": "",
+       "utc": "2027-01-15T11:59:59Z",
+       "local": "2027-01-14 23:59 AoE"
+      },
+      {
+       "label": "Paper",
+       "note": "",
+       "utc": "2027-01-23T11:59:59Z",
+       "local": "2027-01-22 23:59 AoE"
+      }
+     ],
+     "decisions": [
+      {
+       "label": "",
+       "utc": "2027-05-04T11:59:59Z",
+       "local": "2027-05-03 23:59 AoE"
+      }
+     ]
     }
    ],
-   "estimate": {
-    "year": 2027,
-    "from_year": 2026,
-    "deadlines": [
-     {
-      "label": "Abstract",
-      "note": "Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0",
-      "utc": "2027-01-24T11:59:59Z",
-      "local": "~Jan 24, 2027 (projected)"
-     },
-     {
-      "label": "Paper",
-      "note": "Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0",
-      "utc": "2027-01-29T11:59:59Z",
-      "local": "~Jan 29, 2027 (projected)"
-     }
-    ],
-    "link": "https://icml.cc/Conferences/2027"
-   },
+   "estimate": null,
    "rates": [
     {
      "year": 2023,
@@ -253,43 +254,63 @@ window.CONF_DATA = {
    "planning": [
     {
      "year": 2027,
-     "projected": true,
-     "from_year": 2026,
-     "link": null,
-     "date": null,
+     "projected": false,
+     "link": "https://icml.cc/Conferences/2027",
+     "date": "August 2-4, 2027",
      "deadlines": [
       {
        "label": "Abstract",
-       "note": "Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0",
-       "utc": "2027-01-24T11:59:59Z",
-       "local": "2026-01-24 11:59 UTC+0"
+       "note": "",
+       "utc": "2027-01-15T11:59:59Z",
+       "local": "2027-01-14 23:59 AoE"
       },
       {
        "label": "Paper",
-       "note": "Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0",
-       "utc": "2027-01-29T11:59:59Z",
-       "local": "2026-01-29 11:59 UTC+0"
+       "note": "",
+       "utc": "2027-01-23T11:59:59Z",
+       "local": "2027-01-22 23:59 AoE"
       }
      ]
     },
     {
      "year": 2028,
      "projected": true,
-     "from_year": 2026,
+     "from_year": 2027,
      "link": null,
      "date": null,
      "deadlines": [
       {
        "label": "Abstract",
-       "note": "Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0",
-       "utc": "2028-01-24T11:59:59Z",
-       "local": "2026-01-24 11:59 UTC+0"
+       "note": "",
+       "utc": "2028-01-15T11:59:59Z",
+       "local": "2027-01-14 23:59 AoE"
       },
       {
        "label": "Paper",
-       "note": "Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0",
-       "utc": "2028-01-29T11:59:59Z",
-       "local": "2026-01-29 11:59 UTC+0"
+       "note": "",
+       "utc": "2028-01-23T11:59:59Z",
+       "local": "2027-01-22 23:59 AoE"
+      }
+     ]
+    },
+    {
+     "year": 2029,
+     "projected": true,
+     "from_year": 2027,
+     "link": null,
+     "date": null,
+     "deadlines": [
+      {
+       "label": "Abstract",
+       "note": "",
+       "utc": "2029-01-15T11:59:59Z",
+       "local": "2027-01-14 23:59 AoE"
+      },
+      {
+       "label": "Paper",
+       "note": "",
+       "utc": "2029-01-23T11:59:59Z",
+       "local": "2027-01-22 23:59 AoE"
       }
      ]
     }
