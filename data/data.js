@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-16T15:59:32Z",
+ "generated": "2026-11-17T16:11:19Z",
  "conferences": [
   {
    "key": "nips",
@@ -1062,7 +1062,25 @@ window.CONF_DATA = {
      ]
     }
    ],
-   "estimate": null,
+   "estimate": {
+    "year": 2028,
+    "from_year": 2027,
+    "deadlines": [
+     {
+      "label": "Abstract",
+      "note": "",
+      "utc": "2027-11-11T11:59:59Z",
+      "local": "~Nov 11, 2027 (projected)"
+     },
+     {
+      "label": "Paper",
+      "note": "",
+      "utc": "2027-11-17T11:59:59Z",
+      "local": "~Nov 17, 2027 (projected)"
+     }
+    ],
+    "link": null
+   },
    "rates": [
     {
      "year": 2021,
@@ -1102,20 +1120,6 @@ window.CONF_DATA = {
    ],
    "cycle": 1,
    "planning": [
-    {
-     "year": 2027,
-     "projected": false,
-     "link": "https://cvpr.thecvf.com/Conferences/2027",
-     "date": "June 22-25, 2027",
-     "deadlines": [
-      {
-       "label": "Paper",
-       "note": "",
-       "utc": "2026-11-17T11:59:59Z",
-       "local": "2026-11-16 23:59 UTC-12"
-      }
-     ]
-    },
     {
      "year": 2028,
      "projected": true,
