@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-18T15:47:08Z",
+ "generated": "2026-11-19T15:52:08Z",
  "conferences": [
   {
    "key": "nips",
