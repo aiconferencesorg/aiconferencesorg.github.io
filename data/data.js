@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-20T15:34:59Z",
+ "generated": "2026-11-21T14:45:27Z",
  "conferences": [
   {
    "key": "nips",
@@ -3638,7 +3638,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://icaps27.icaps-conference.org/",
-     "date": "June 27 - July 2, 2027",
+     "date": "June 30 - July 2, 2027",
      "place": "Columbia, SC, USA",
      "deadlines": [
       {
@@ -3707,7 +3707,7 @@ window.CONF_DATA = {
      "year": 2027,
      "projected": false,
      "link": "https://icaps27.icaps-conference.org/",
-     "date": "June 27 - July 2, 2027",
+     "date": "June 30 - July 2, 2027",
      "deadlines": [
       {
        "label": "Abstract",
@@ -3800,7 +3800,7 @@ window.CONF_DATA = {
     {
      "year": 2027,
      "link": "https://ecai2027.org/",
-     "date": "October 2-7, 2027",
+     "date": "October 4-7, 2027",
      "place": "Athens, Greece",
      "deadlines": [
       {
@@ -3842,7 +3842,7 @@ window.CONF_DATA = {
      "year": 2027,
      "projected": false,
      "link": "https://ecai2027.org/",
-     "date": "October 2-7, 2027",
+     "date": "October 4-7, 2027",
      "deadlines": [
       {
        "label": "Paper",
