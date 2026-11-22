@@ -1,5 +1,5 @@
 window.CONF_DATA = {
- "generated": "2026-11-21T14:45:27Z",
+ "generated": "2026-11-22T14:41:34Z",
  "conferences": [
   {
    "key": "nips",
@@ -40,7 +40,7 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "",
-       "utc": "2026-05-05T11:59:00Z",
+       "utc": "2026-05-05T11:59:59Z",
        "local": "2026-05-05 11:59 UTC+0"
       },
       {
@@ -66,7 +66,7 @@ window.CONF_DATA = {
      {
       "label": "Abstract",
       "note": "",
-      "utc": "2027-05-05T11:59:00Z",
+      "utc": "2027-05-05T11:59:59Z",
       "local": "~May 05, 2027 (projected)"
      },
      {
@@ -127,7 +127,7 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "",
-       "utc": "2027-05-05T11:59:00Z",
+       "utc": "2027-05-05T11:59:59Z",
        "local": "2026-05-05 11:59 UTC+0"
       },
       {
@@ -148,7 +148,7 @@ window.CONF_DATA = {
       {
        "label": "Abstract",
        "note": "",
-       "utc": "2028-05-05T11:59:00Z",
+       "utc": "2028-05-05T11:59:59Z",
        "local": "2026-05-05 11:59 UTC+0"
       },
       {

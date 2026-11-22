@@ -1,5 +1,5 @@
 window.JOBS_DATA = {
- "generated": "2026-11-21T14:45:28Z",
+ "generated": "2026-11-22T14:41:35Z",
  "boards": [
   {
    "name": "Anthropic",
@@ -99,7 +99,7 @@ window.JOBS_DATA = {
   },
   {
    "name": "Together AI",
-   "count": 12
+   "count": 13
   },
   {
    "name": "Runway",
@@ -180,7 +180,7 @@ window.JOBS_DATA = {
  "academic_sources": [
   "Chronicle Jobs"
  ],
- "academic_feed_count": 38,
+ "academic_feed_count": 43,
  "jobs": [
   {
    "title": "Manager, Applied AI Architect",
@@ -544,8 +544,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Regional Research Economist, Economic Research",
-   "location": "Sydney, Australia",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460515008",
+   "location": "Seoul, South Korea",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460519008",
    "posted": "2026-10-22",
    "org": "Anthropic",
    "sector": "industry",
@@ -564,8 +564,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Regional Research Economist, Economic Research",
-   "location": "Seoul, South Korea",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460519008",
+   "location": "Tokyo, Japan",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460521008",
    "posted": "2026-10-22",
    "org": "Anthropic",
    "sector": "industry",
@@ -574,8 +574,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Regional Research Economist, Economic Research",
-   "location": "Tokyo, Japan",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460521008",
+   "location": "Sydney, Australia",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460515008",
    "posted": "2026-10-22",
    "org": "Anthropic",
    "sector": "industry",
@@ -683,16 +683,6 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Policy Development, Technical AI Governance",
-   "location": "San Francisco, CA | New York City, NY | Washington, DC",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451081008",
-   "posted": "2026-10-13",
-   "org": "Anthropic",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
    "title": "Manager, Applied AI Architect",
    "location": "Tokyo, Japan",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443331008",
@@ -777,6 +767,16 @@ window.JOBS_DATA = {
    "location": "Tokyo, Japan",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439499008",
    "posted": "2026-09-30",
+   "org": "Anthropic",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Applied AI Architects, Partner",
+   "location": "Seoul, South Korea",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432554008",
+   "posted": "2026-09-29",
    "org": "Anthropic",
    "sector": "industry",
    "type": "Engineering",
@@ -1244,6 +1244,16 @@ window.JOBS_DATA = {
   },
   {
    "title": "SG&A Talent, Planning & Strategy Lead",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5289990007?gh_jid=5289990007",
+   "posted": "2026-11-12",
+   "org": "Anduril",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "SG&A Talent, Planning & Strategy Lead",
    "location": "Seattle, Washington, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5293777007?gh_jid=5293777007",
    "posted": "2026-11-12",
@@ -1256,16 +1266,6 @@ window.JOBS_DATA = {
    "title": "SG&A Talent, Planning & Strategy Lead",
    "location": "Washington, District of Columbia, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5293783007?gh_jid=5293783007",
-   "posted": "2026-11-12",
-   "org": "Anduril",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "SG&A Talent, Planning & Strategy Lead",
-   "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5289990007?gh_jid=5289990007",
    "posted": "2026-11-12",
    "org": "Anduril",
    "sector": "industry",
@@ -1434,18 +1434,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Technical Writer, Autonomous Airpower",
-   "location": "Ashville, Ohio, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283877007?gh_jid=5283877007",
-   "posted": "2026-11-03",
-   "org": "Anduril",
-   "sector": "industry",
-   "type": "Engineering",
-   "source": "greenhouse"
-  },
-  {
-   "title": "Technical Writer, Autonomous Airpower",
    "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283858007?gh_jid=5283858007",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5283862007?gh_jid=5283862007",
    "posted": "2026-11-03",
    "org": "Anduril",
    "sector": "industry",
@@ -1704,6 +1694,16 @@ window.JOBS_DATA = {
   },
   {
    "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
+   "location": "Costa Mesa, California, United States",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007",
+   "posted": "2026-10-14",
+   "org": "Anduril",
+   "sector": "industry",
+   "type": "Engineering",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
    "location": "Washington, District of Columbia, United States",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265377007?gh_jid=5265377007",
    "posted": "2026-10-14",
@@ -1713,9 +1713,9 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Product Manager, Group 5 Mission Autonomy Aviation SME",
+   "title": "Senior Product Designer, Mission Autonomy",
    "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
    "posted": "2026-10-14",
    "org": "Anduril",
    "sector": "industry",
@@ -1733,9 +1733,9 @@ window.JOBS_DATA = {
    "source": "greenhouse"
   },
   {
-   "title": "Senior Product Designer, Mission Autonomy",
+   "title": "Technical Lead - Containerized Command & Control",
    "location": "Costa Mesa, California, United States",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158219007?gh_jid=5158219007",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5266145007?gh_jid=5266145007",
    "posted": "2026-10-14",
    "org": "Anduril",
    "sector": "industry",
@@ -6164,8 +6164,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Senior Manager, AI Forward Deployed Engineering",
-   "location": "Paris, France",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948900002",
+   "location": "Munich, Germany",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948870002",
    "posted": "2026-11-19",
    "org": "Databricks",
    "sector": "industry",
@@ -6174,8 +6174,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Senior Manager, AI Forward Deployed Engineering",
-   "location": "Munich, Germany",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948870002",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937360002",
    "posted": "2026-11-19",
    "org": "Databricks",
    "sector": "industry",
@@ -6194,8 +6194,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Senior Manager, AI Forward Deployed Engineering",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937360002",
+   "location": "Paris, France",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948900002",
    "posted": "2026-11-19",
    "org": "Databricks",
    "sector": "industry",
@@ -6344,8 +6344,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-   "location": "Remote - Sweden",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
+   "location": "Remote - France",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
    "posted": "2026-10-15",
    "org": "Databricks",
    "sector": "industry",
@@ -6364,8 +6364,8 @@ window.JOBS_DATA = {
   },
   {
    "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-   "location": "Remote - France",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
+   "location": "Remote - Sweden",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
    "posted": "2026-10-15",
    "org": "Databricks",
    "sector": "industry",
@@ -6650,6 +6650,16 @@ window.JOBS_DATA = {
    "org": "Databricks",
    "sector": "industry",
    "type": "Research",
+   "source": "greenhouse"
+  },
+  {
+   "title": "Technical Support Engineer (Inference)",
+   "location": "Pune or Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5302660007",
+   "posted": "2026-11-21",
+   "org": "Together AI",
+   "sector": "industry",
+   "type": "Engineering",
    "source": "greenhouse"
   },
   {
@@ -7783,16 +7793,6 @@ window.JOBS_DATA = {
    "source": "workday"
   },
   {
-   "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
-   "posted": "2026-11-19",
-   "org": "NVIDIA",
-   "sector": "industry",
-   "type": "Internship",
-   "source": "workday"
-  },
-  {
    "title": "Senior Robotics Research Engineer, Robotics and AI for Drug Discovery",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Research-Engineer--Robotics-and-AI-for-Drug-Discovery_JR2016068",
@@ -7800,6 +7800,16 @@ window.JOBS_DATA = {
    "org": "NVIDIA",
    "sector": "industry",
    "type": "Research",
+   "source": "workday"
+  },
+  {
+   "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+   "posted": "2026-11-19",
+   "org": "NVIDIA",
+   "sector": "industry",
+   "type": "Internship",
    "source": "workday"
   },
   {
@@ -8103,6 +8113,16 @@ window.JOBS_DATA = {
    "source": "Chronicle Jobs"
   },
   {
+   "title": "Postdoctoral Researcher \u2013 Machine Learning River Forecasting",
+   "org": "University of Minnesota",
+   "location": "Twin Cities, Minnesota, United States",
+   "url": "https://jobs.chronicle.com/job/38066621/postdoctoral-researcher-machine-learning-river-forecasting/",
+   "sector": "academic",
+   "type": "Postdoc",
+   "posted": "2026-11-13",
+   "source": "Chronicle Jobs"
+  },
+  {
    "title": "Assistant Professor of Computer Sciences: Natural Language Processing (RISE-AI) NOTICE OF FILING",
    "org": "University of Wisconsin-Madison",
    "location": "Madison, Wisconsin, United States",
@@ -8173,6 +8193,16 @@ window.JOBS_DATA = {
    "source": "Chronicle Jobs"
   },
   {
+   "title": "Computing and Mathematical Sciences Division - Open Rank Faculty Positions in Computer Vision",
+   "org": "Mohamed bin Zayed University of Artificial Intelligence",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "url": "https://jobs.chronicle.com/job/38058271/computing-and-mathematical-sciences-division-open-rank-faculty-positions-in-computer-vision/",
+   "sector": "academic",
+   "type": "Faculty",
+   "posted": "2026-11-02",
+   "source": "Chronicle Jobs"
+  },
+  {
    "title": "Assistant Professor in Agentic AI and Autonomous Systems",
    "org": "University of Hawaii at Manoa",
    "location": "Hawaii, United States",
@@ -8223,13 +8253,13 @@ window.JOBS_DATA = {
    "source": "Chronicle Jobs"
   },
   {
-   "title": "Assistant Professor in Artificial Intelligence for Animal Improvement",
-   "org": "Department of Animal Sciences",
-   "location": "Indianapolis, Indiana (US)",
-   "url": "https://jobs.chronicle.com/job/38054564/assistant-professor-in-artificial-intelligence-for-animal-improvement/",
+   "title": "Research Scientist I \u2013 Mechanical Systems",
+   "org": "Virginia Tech",
+   "location": "Suffolk, Virginia, United States",
+   "url": "https://jobs.chronicle.com/job/38055729/research-scientist-i-mechanical-systems/",
    "sector": "academic",
-   "type": "Faculty",
-   "posted": "2026-10-21",
+   "type": "Research staff",
+   "posted": "2026-10-22",
    "source": "Chronicle Jobs"
   },
   {
@@ -8253,6 +8283,16 @@ window.JOBS_DATA = {
    "source": "Chronicle Jobs"
   },
   {
+   "title": "Aerospace Engineering (UAS Autonomy and Geographical Information Systems), Assistant Professor",
+   "org": "Cal Poly Pomona",
+   "location": "California, United States",
+   "url": "https://jobs.chronicle.com/job/38053716/aerospace-engineering-uas-autonomy-and-geographical-information-systems-assistant-professor/",
+   "sector": "academic",
+   "type": "Faculty",
+   "posted": "2026-10-19",
+   "source": "Chronicle Jobs"
+  },
+  {
    "title": "Computing and Mathematical Sciences Division \u2013 Open Rank Faculty Positions in Natural Language",
    "org": "Mohamed bin Zayed University of Artificial Intelligence",
    "location": "Abu Dhabi, United Arab Emirates",
@@ -8267,6 +8307,16 @@ window.JOBS_DATA = {
    "org": "Mohamed bin Zayed University of Artificial Intelligence",
    "location": "Abu Dhabi, UAE",
    "url": "https://jobs.chronicle.com/job/38051285/assistant-associate-professor-faculty-positions-in-robotics-physical-ai-fields-robotics/",
+   "sector": "academic",
+   "type": "Faculty",
+   "posted": "2026-10-14",
+   "source": "Chronicle Jobs"
+  },
+  {
+   "title": "Assistant/Associate Professor Faculty Positions in Robotics Physical AI - Manipulation",
+   "org": "Mohamed bin Zayed University of Artificial Intelligence",
+   "location": "Abu Dhabi, UAE",
+   "url": "https://jobs.chronicle.com/job/38051288/assistant-associate-professor-faculty-positions-in-robotics-physical-ai-manipulation/",
    "sector": "academic",
    "type": "Faculty",
    "posted": "2026-10-14",
@@ -8350,6 +8400,16 @@ window.JOBS_DATA = {
    "sector": "academic",
    "type": "Postdoc",
    "posted": "2026-10-06",
+   "source": "Chronicle Jobs"
+  },
+  {
+   "title": "Research Engineer/Scientist - Speech/Audio Machine Learning",
+   "org": "Mohamed bin Zayed University of Artificial Intelligence",
+   "location": "Paris, France",
+   "url": "https://jobs.chronicle.com/job/38046473/research-engineer-scientist-speech-audio-machine-learning/",
+   "sector": "academic",
+   "type": "Research staff",
+   "posted": "2026-10-02",
    "source": "Chronicle Jobs"
   },
   {
